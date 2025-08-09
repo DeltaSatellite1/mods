@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Freeplay.png">
+	<!-- Created with Adobe Animate version 24.0.0.305 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="backstage-enter0000" x="0" y="0" width="615" height="200"/>
+	<SubTexture name="backstage-enter0001" x="615" y="0" width="615" height="200"/>
+	<SubTexture name="backstage-enter0002" x="0" y="200" width="615" height="200"/>
+	<SubTexture name="backstage-enter0003" x="615" y="200" width="615" height="200"/>
+	<SubTexture name="backstage-idle0000" x="0" y="400" width="546" height="127" frameX="0" frameY="-1" frameWidth="546" frameHeight="128"/>
+	<SubTexture name="backstage-idle0001" x="546" y="400" width="546" height="127" frameX="0" frameY="-1" frameWidth="546" frameHeight="128"/>
+	<SubTexture name="backstage-idle0002" x="0" y="527" width="546" height="127" frameX="0" frameY="0" frameWidth="546" frameHeight="128"/>
+	<SubTexture name="backstage-idle0003" x="546" y="527" width="546" height="127" frameX="0" frameY="0" frameWidth="546" frameHeight="128"/>
+	<SubTexture name="backstage-selected0000" x="0" y="654" width="546" height="127"/>
+	<SubTexture name="backstage-selected0001" x="546" y="654" width="546" height="127"/>
+	<SubTexture name="backstage-selected0002" x="0" y="781" width="546" height="127"/>
+	<SubTexture name="backstage-selected0003" x="546" y="781" width="546" height="127"/>
+</TextureAtlas>

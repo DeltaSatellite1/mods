@@ -1,0 +1,59 @@
+{
+	"storyName": "Darnell",
+	"difficulties": "",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"darnell",
+			"darnell",
+			[
+				200,
+				200,
+				200
+			]
+		],
+		[
+			"lit-up",
+			"darnell",
+			[
+				200,
+				200,
+				200
+			]
+		],
+		[
+			"2hot",
+			"darnell",
+			[
+				200,
+				200,
+				200
+			]
+		],
+		[
+			"blazin",
+			"darnell",
+			[
+				200,
+				200,
+				200
+			]
+		],
+	],
+	"weekCharacters": [
+		"",
+		"bf",
+		""
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "weekend1"
+}

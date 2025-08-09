@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Seleccio.png">
+	<!-- Created with Adobe Animate version 24.0.0.305 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="duo-idle0000" x="0" y="0" width="421" height="308"/>
+	<SubTexture name="duo-idle0001" x="0" y="0" width="421" height="308"/>
+	<SubTexture name="duo-idle0002" x="421" y="0" width="421" height="307" frameX="0" frameY="0" frameWidth="421" frameHeight="308"/>
+	<SubTexture name="duo-idle0003" x="421" y="0" width="421" height="307" frameX="0" frameY="0" frameWidth="421" frameHeight="308"/>
+	<SubTexture name="duo-idle0004" x="842" y="0" width="421" height="307" frameX="0" frameY="0" frameWidth="421" frameHeight="308"/>
+	<SubTexture name="duo-idle0005" x="842" y="0" width="421" height="307" frameX="0" frameY="0" frameWidth="421" frameHeight="308"/>
+	<SubTexture name="duo-selected0000" x="0" y="308" width="437" height="359" frameX="0" frameY="-4" frameWidth="437" frameHeight="363"/>
+	<SubTexture name="duo-selected0001" x="0" y="308" width="437" height="359" frameX="0" frameY="-4" frameWidth="437" frameHeight="363"/>
+	<SubTexture name="duo-selected0002" x="437" y="308" width="437" height="359" frameX="0" frameY="-4" frameWidth="437" frameHeight="363"/>
+	<SubTexture name="duo-selected0003" x="437" y="308" width="437" height="359" frameX="0" frameY="-4" frameWidth="437" frameHeight="363"/>
+	<SubTexture name="duo-selected0004" x="874" y="308" width="437" height="359" frameX="0" frameY="-4" frameWidth="437" frameHeight="363"/>
+	<SubTexture name="duo-selected0005" x="0" y="667" width="419" height="363" frameX="-14" frameY="0" frameWidth="437" frameHeight="363"/>
+	<SubTexture name="duo-selected0006" x="419" y="667" width="419" height="363" frameX="-14" frameY="0" frameWidth="437" frameHeight="363"/>
+	<SubTexture name="duo-selected0007" x="419" y="667" width="419" height="363" frameX="-14" frameY="0" frameWidth="437" frameHeight="363"/>
+	<SubTexture name="duo-selected0008" x="838" y="667" width="419" height="363" frameX="-14" frameY="0" frameWidth="437" frameHeight="363"/>
+	<SubTexture name="duo-selected0009" x="838" y="667" width="419" height="363" frameX="-14" frameY="0" frameWidth="437" frameHeight="363"/>
+</TextureAtlas>

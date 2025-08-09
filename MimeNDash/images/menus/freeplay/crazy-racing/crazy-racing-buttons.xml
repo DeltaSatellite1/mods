@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Freeplay.png">
+	<!-- Created with Adobe Animate version 24.0.0.305 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="crazy-racing-enter0000" x="0" y="0" width="807" height="205"/>
+	<SubTexture name="crazy-racing-enter0001" x="807" y="0" width="807" height="205"/>
+	<SubTexture name="crazy-racing-enter0002" x="0" y="205" width="807" height="205"/>
+	<SubTexture name="crazy-racing-enter0003" x="807" y="205" width="807" height="205"/>
+	<SubTexture name="crazy-racing-idle0000" x="0" y="410" width="727" height="121" frameX="0" frameY="-1" frameWidth="727" frameHeight="122"/>
+	<SubTexture name="crazy-racing-idle0001" x="727" y="410" width="727" height="121" frameX="0" frameY="-1" frameWidth="727" frameHeight="122"/>
+	<SubTexture name="crazy-racing-idle0002" x="0" y="531" width="726" height="121" frameX="-1" frameY="0" frameWidth="727" frameHeight="122"/>
+	<SubTexture name="crazy-racing-idle0003" x="726" y="531" width="726" height="121" frameX="-1" frameY="0" frameWidth="727" frameHeight="122"/>
+	<SubTexture name="crazy-racing-selected0000" x="0" y="652" width="728" height="122"/>
+	<SubTexture name="crazy-racing-selected0001" x="728" y="652" width="728" height="122"/>
+	<SubTexture name="crazy-racing-selected0002" x="0" y="774" width="728" height="121" frameX="0" frameY="0" frameWidth="728" frameHeight="122"/>
+	<SubTexture name="crazy-racing-selected0003" x="728" y="774" width="728" height="121" frameX="0" frameY="0" frameWidth="728" frameHeight="122"/>
+</TextureAtlas>

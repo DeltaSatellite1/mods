@@ -1,0 +1,95 @@
+{
+	"storyName": "erec",
+	"difficulties": "erect, nightmare",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": true,
+	"songs": [
+		[
+			"bopeebo-erect",
+			"dad",
+			[
+				200,
+				200,
+				200
+			]
+		],
+		[
+			"fresh-erect",
+			"dad",
+			[
+				200,
+				200,
+				200
+			]
+		],
+		[
+			"dadbattle-erect",
+			"dad",
+			[
+				200,
+				200,
+				200
+			]
+		],
+		[
+			"spookeez-erect",
+			"spooky",
+			[
+				200,
+				200,
+				200
+			]
+		],
+		[
+			"south-erect",
+			"spooky",
+			[
+				200,
+				200,
+				200
+			]
+		],
+		[
+			"pico-erect",
+			"pico",
+			[
+				200,
+				200,
+				200
+			]
+		],
+		[
+			"philly-nice-erect",
+			"pico",
+			[
+				200,
+				200,
+				200
+			]
+		],
+		[
+			"blammed-erect",
+			"pico",
+			[
+				200,
+				200,
+				200
+			]
+		],
+	],
+	"weekCharacters": [
+		"",
+		"bf",
+		""
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "erectsongs"
+}

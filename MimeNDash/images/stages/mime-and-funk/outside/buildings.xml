@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="buildings.png">
+	<!-- Created using the Spritesheet and XML generator -->
+	<!-- https://uncertainprod.github.io/FNF-Spritesheet-XML-generator-Web -->
+	<SubTexture name="buildings0000" x="1924" y="1071" width="1924" height="1071" frameX="2" frameY="-11" frameWidth="1920" frameHeight="1080"/>
+	<SubTexture name="buildings0001" x="0" y="0" width="1924" height="1071" frameX="2" frameY="-11" frameWidth="1920" frameHeight="1080"/>
+	<SubTexture name="buildings0002" x="1924" y="0" width="1924" height="1071" frameX="2" frameY="-11" frameWidth="1920" frameHeight="1080"/>
+	<SubTexture name="buildings0003" x="0" y="1071" width="1924" height="1071" frameX="2" frameY="-11" frameWidth="1920" frameHeight="1080"/>
+</TextureAtlas>

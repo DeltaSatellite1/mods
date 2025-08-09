@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="menu_more-mods.png">
+	<!-- Created with Adobe Animate version 24.0.0.305 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="more-mods basic0000" x="11" y="11" width="887" height="103"/>
+	<SubTexture name="more-mods basic0001" x="912" y="11" width="887" height="103"/>
+	<SubTexture name="more-mods basic0002" x="11" y="128" width="886" height="103" frameX="0" frameY="0" frameWidth="887" frameHeight="103"/>
+	<SubTexture name="more-mods basic0003" x="911" y="128" width="886" height="103" frameX="0" frameY="0" frameWidth="887" frameHeight="103"/>
+	<SubTexture name="more-mods basic0004" x="11" y="245" width="886" height="103" frameX="0" frameY="0" frameWidth="887" frameHeight="103"/>
+	<SubTexture name="more-mods basic0005" x="911" y="245" width="886" height="103" frameX="0" frameY="0" frameWidth="887" frameHeight="103"/>
+	<SubTexture name="more-mods white0000" x="11" y="362" width="1014" height="210"/>
+	<SubTexture name="more-mods white0001" x="1039" y="362" width="1014" height="210"/>
+	<SubTexture name="more-mods white0002" x="11" y="586" width="1014" height="210"/>
+	<SubTexture name="more-mods white0003" x="1039" y="586" width="1014" height="210"/>
+	<SubTexture name="more-mods white0004" x="11" y="810" width="1014" height="210"/>
+	<SubTexture name="more-mods white0005" x="1039" y="810" width="1014" height="210"/>
+</TextureAtlas>

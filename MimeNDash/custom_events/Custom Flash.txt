@@ -1,0 +1,17 @@
+Value 1: duracion
+Value 2: color
+
+1=blanco     7=morado         13=gris
+2=rojo       8=rosado         14=vinotinto
+3=azul       9=naranja        15=purpura
+4=verde      10=azul celeste  
+5=amarillo   11=verde lima
+6=negro      12=marron
+
+
+
+
+
+
+
+

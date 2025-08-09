@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="stains.png">
+	<!-- Created using the Spritesheet and XML generator -->
+	<!-- https://uncertainprod.github.io/FNF-Spritesheet-XML-generator-Web -->
+	<SubTexture name="stains0000" x="0" y="853" width="504" height="225" frameX="-10" frameY="-50" frameWidth="518" frameHeight="294"/>
+	<SubTexture name="stains0001" x="1015" y="0" width="394" height="293" frameX="-68" frameY="-3" frameWidth="518" frameHeight="294"/>
+	<SubTexture name="stains0002" x="0" y="0" width="507" height="287" frameX="-13" frameY="0" frameWidth="518" frameHeight="294"/>
+	<SubTexture name="stains0003" x="492" y="287" width="443" height="280" frameX="-27" frameY="-4" frameWidth="518" frameHeight="294"/>
+	<SubTexture name="stains0004" x="507" y="0" width="508" height="276" frameX="-12" frameY="0" frameWidth="518" frameHeight="294"/>
+	<SubTexture name="stains0005" x="0" y="287" width="492" height="280" frameX="-28" frameY="-6" frameWidth="518" frameHeight="294"/>
+	<SubTexture name="stains0006" x="0" y="1078" width="325" height="275" frameX="-127" frameY="-10" frameWidth="518" frameHeight="294"/>
+	<SubTexture name="stains0007" x="1015" y="293" width="328" height="287" frameX="-155" frameY="0" frameWidth="518" frameHeight="294"/>
+	<SubTexture name="stains0008" x="441" y="567" width="520" height="232" frameX="0" frameY="-12" frameWidth="518" frameHeight="294"/>
+	<SubTexture name="stains0009" x="0" y="567" width="441" height="286" frameX="-48" frameY="-1" frameWidth="518" frameHeight="294"/>
+</TextureAtlas>

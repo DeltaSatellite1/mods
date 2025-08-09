@@ -1,0 +1,80 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-136,
+				120
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "Darnell Idle"
+		},
+		{
+			"offsets": [
+				-154,
+				179
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "Darnell Uppercut"
+		},
+		{
+			"offsets": [
+				-133,
+				75
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "Darnell Punch Low"
+		},
+		{
+			"offsets": [
+				-124,
+				129
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "Darnell Punch High"
+		},
+		{
+			"offsets": [
+				-143,
+				70
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "Darnell Punch Low"
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/darnell_blazin",
+	"position": [
+		0,
+		330
+	],
+	"healthicon": "darnell",
+	"flip_x": false,
+	"healthbar_colors": [
+		95,
+		85,
+		142
+	],
+	"camera_position": [
+		170,
+		-20
+	],
+	"sing_duration": 4,
+	"scale": 1.2,
+	"_editor_isPlayer": false
+}

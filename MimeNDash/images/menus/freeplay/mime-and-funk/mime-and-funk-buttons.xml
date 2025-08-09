@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Freeplay.png">
+	<!-- Created with Adobe Animate version 24.0.0.305 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Mime-and-funk-idle0000" x="11" y="11" width="885" height="96"/>
+	<SubTexture name="Mime-and-funk-idle0001" x="910" y="11" width="885" height="96"/>
+	<SubTexture name="Mime-and-funk-idle0002" x="11" y="121" width="883" height="96" frameX="-1" frameY="0" frameWidth="885" frameHeight="96"/>
+	<SubTexture name="Mime-and-funk-idle0003" x="908" y="121" width="883" height="96" frameX="-1" frameY="0" frameWidth="885" frameHeight="96"/>
+	<SubTexture name="Mime-and-funk-selected0000" x="11" y="231" width="885" height="97"/>
+	<SubTexture name="Mime-and-funk-selected0001" x="910" y="231" width="885" height="97"/>
+	<SubTexture name="Mime-and-funk-selected0002" x="11" y="342" width="883" height="96" frameX="0" frameY="0" frameWidth="885" frameHeight="97"/>
+	<SubTexture name="Mime-and-funk-selected0003" x="908" y="342" width="883" height="96" frameX="0" frameY="0" frameWidth="885" frameHeight="97"/>
+	<SubTexture name="mime-and-funk-enter0000" x="11" y="452" width="962" height="180"/>
+	<SubTexture name="mime-and-funk-enter0001" x="987" y="452" width="962" height="180"/>
+	<SubTexture name="mime-and-funk-enter0002" x="11" y="646" width="962" height="180"/>
+	<SubTexture name="mime-and-funk-enter0003" x="987" y="646" width="962" height="180"/>
+</TextureAtlas>

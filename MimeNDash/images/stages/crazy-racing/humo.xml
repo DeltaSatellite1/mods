@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Crazy-Racing.png">
+	<!-- Created with Adobe Animate version 22.0.4.185 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="humo0000" x="2" y="2" width="913" height="137" frameX="0" frameY="-29" frameWidth="927" frameHeight="166"/>
+	<SubTexture name="humo0001" x="2" y="146" width="890" height="127" frameX="-30" frameY="-23" frameWidth="927" frameHeight="166"/>
+	<SubTexture name="humo0002" x="2" y="280" width="914" height="140" frameX="-10" frameY="-8" frameWidth="927" frameHeight="166"/>
+	<SubTexture name="humo0003" x="2" y="427" width="918" height="154" frameX="-9" frameY="0" frameWidth="927" frameHeight="166"/>
+</TextureAtlas>

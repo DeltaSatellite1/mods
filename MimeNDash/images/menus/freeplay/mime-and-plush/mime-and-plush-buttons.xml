@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Freeplay.png">
+	<!-- Created with Adobe Animate version 24.0.0.305 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="mime-and-plush-enter0000" x="11" y="11" width="1014" height="189"/>
+	<SubTexture name="mime-and-plush-enter0001" x="1039" y="11" width="1014" height="189"/>
+	<SubTexture name="mime-and-plush-enter0002" x="11" y="214" width="1014" height="189"/>
+	<SubTexture name="mime-and-plush-enter0003" x="1039" y="214" width="1014" height="189"/>
+	<SubTexture name="mime-and-plush-idle0000" x="11" y="417" width="907" height="97" frameX="-1" frameY="0" frameWidth="908" frameHeight="97"/>
+	<SubTexture name="mime-and-plush-idle0001" x="932" y="417" width="907" height="97" frameX="-1" frameY="0" frameWidth="908" frameHeight="97"/>
+	<SubTexture name="mime-and-plush-idle0002" x="11" y="528" width="907" height="97" frameX="0" frameY="0" frameWidth="908" frameHeight="97"/>
+	<SubTexture name="mime-and-plush-idle0003" x="932" y="528" width="907" height="97" frameX="0" frameY="0" frameWidth="908" frameHeight="97"/>
+	<SubTexture name="mime-and-plush-selected0000" x="11" y="639" width="908" height="97"/>
+	<SubTexture name="mime-and-plush-selected0001" x="933" y="639" width="908" height="97"/>
+	<SubTexture name="mime-and-plush-selected0002" x="11" y="750" width="907" height="97" frameX="0" frameY="0" frameWidth="908" frameHeight="97"/>
+	<SubTexture name="mime-and-plush-selected0003" x="932" y="750" width="907" height="97" frameX="0" frameY="0" frameWidth="908" frameHeight="97"/>
+</TextureAtlas>

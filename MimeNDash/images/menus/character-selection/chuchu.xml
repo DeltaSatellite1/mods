@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Seleccio.png">
+	<!-- Created with Adobe Animate version 24.0.0.305 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="chuchu-idle0000" x="0" y="0" width="253" height="288"/>
+	<SubTexture name="chuchu-idle0001" x="0" y="0" width="253" height="288"/>
+	<SubTexture name="chuchu-idle0002" x="253" y="0" width="253" height="288"/>
+	<SubTexture name="chuchu-idle0003" x="253" y="0" width="253" height="288"/>
+	<SubTexture name="chuchu-idle0004" x="506" y="0" width="252" height="287" frameX="0" frameY="0" frameWidth="253" frameHeight="288"/>
+	<SubTexture name="chuchu-idle0005" x="506" y="0" width="252" height="287" frameX="0" frameY="0" frameWidth="253" frameHeight="288"/>
+	<SubTexture name="chuchu-selected0000" x="758" y="0" width="358" height="334" frameX="0" frameY="-2" frameWidth="358" frameHeight="336"/>
+	<SubTexture name="chuchu-selected0001" x="758" y="0" width="358" height="334" frameX="0" frameY="-2" frameWidth="358" frameHeight="336"/>
+	<SubTexture name="chuchu-selected0002" x="0" y="334" width="358" height="334" frameX="0" frameY="-2" frameWidth="358" frameHeight="336"/>
+	<SubTexture name="chuchu-selected0003" x="0" y="334" width="358" height="334" frameX="0" frameY="-2" frameWidth="358" frameHeight="336"/>
+	<SubTexture name="chuchu-selected0004" x="358" y="334" width="358" height="334" frameX="0" frameY="-2" frameWidth="358" frameHeight="336"/>
+	<SubTexture name="chuchu-selected0005" x="716" y="334" width="358" height="336"/>
+	<SubTexture name="chuchu-selected0006" x="0" y="670" width="358" height="336"/>
+	<SubTexture name="chuchu-selected0007" x="0" y="670" width="358" height="336"/>
+	<SubTexture name="chuchu-selected0008" x="358" y="670" width="358" height="336"/>
+	<SubTexture name="chuchu-selected0009" x="358" y="670" width="358" height="336"/>
+</TextureAtlas>

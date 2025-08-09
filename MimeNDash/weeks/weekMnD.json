@@ -1,0 +1,21 @@
+{
+	"songs": [
+		["mime and funk", "dad", [50, 50, 50]],
+		["backstage", "dad", [50, 50, 50]],
+		["crazy racing", "dad", [50, 50, 50]],
+		["mime and plush", "dad", [50, 50, 50]]
+	],
+
+	"difficulties": "chuchu, bonbon, duo",
+
+	"weekCharacters": ["", "", ""],
+	"weekBackground": "",
+
+	"storyName": "",
+	"weekBefore": "",
+	"weekName": "",
+	"startUnlocked": true,
+
+	"hideStoryMode": false,
+	"hideFreeplay": false
+}

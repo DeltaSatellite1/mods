@@ -1,0 +1,36 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-719,
+				-354
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "gf boobbox hand",
+			"indices": []
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/no",
+	"position": [
+		50,
+		0
+	],
+	"healthicon": "no",
+	"flip_x": true,
+	"healthbar_colors": [
+		175,
+		40,
+		80
+	],
+	"camera_position": [
+		480,
+		450
+	],
+	"sing_duration": 4,
+	"scale": 1,
+	"_editor_isPlayer": false
+}

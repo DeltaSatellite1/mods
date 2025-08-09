@@ -1,0 +1,5 @@
+value 1: TRUE / FALSE
+
+TRUE means they look at eachother
+ 
+FALSE means they look at the plushies

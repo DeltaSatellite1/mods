@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Seleccio.png">
+	<!-- Created with Adobe Animate version 24.0.0.305 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="bonbon-idle0000" x="0" y="0" width="241" height="298" frameX="-1" frameY="0" frameWidth="242" frameHeight="298"/>
+	<SubTexture name="bonbon-idle0001" x="0" y="0" width="241" height="298" frameX="-1" frameY="0" frameWidth="242" frameHeight="298"/>
+	<SubTexture name="bonbon-idle0002" x="241" y="0" width="241" height="297" frameX="0" frameY="0" frameWidth="242" frameHeight="298"/>
+	<SubTexture name="bonbon-idle0003" x="241" y="0" width="241" height="297" frameX="0" frameY="0" frameWidth="242" frameHeight="298"/>
+	<SubTexture name="bonbon-idle0004" x="482" y="0" width="241" height="297" frameX="0" frameY="0" frameWidth="242" frameHeight="298"/>
+	<SubTexture name="bonbon-idle0005" x="482" y="0" width="241" height="297" frameX="0" frameY="0" frameWidth="242" frameHeight="298"/>
+	<SubTexture name="bonbon-selected0000" x="723" y="0" width="387" height="350" frameX="0" frameY="-4" frameWidth="387" frameHeight="354"/>
+	<SubTexture name="bonbon-selected0001" x="723" y="0" width="387" height="350" frameX="0" frameY="-4" frameWidth="387" frameHeight="354"/>
+	<SubTexture name="bonbon-selected0002" x="0" y="350" width="387" height="350" frameX="0" frameY="-4" frameWidth="387" frameHeight="354"/>
+	<SubTexture name="bonbon-selected0003" x="0" y="350" width="387" height="350" frameX="0" frameY="-4" frameWidth="387" frameHeight="354"/>
+	<SubTexture name="bonbon-selected0004" x="387" y="350" width="387" height="350" frameX="0" frameY="-4" frameWidth="387" frameHeight="354"/>
+	<SubTexture name="bonbon-selected0005" x="0" y="700" width="387" height="354"/>
+	<SubTexture name="bonbon-selected0006" x="0" y="700" width="387" height="354"/>
+	<SubTexture name="bonbon-selected0007" x="0" y="700" width="387" height="354"/>
+	<SubTexture name="bonbon-selected0008" x="387" y="700" width="387" height="354"/>
+	<SubTexture name="bonbon-selected0009" x="387" y="700" width="387" height="354"/>
+</TextureAtlas>

@@ -1,0 +1,124 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				6,
+				11
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-7,
+				15
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-5,
+				18
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-3,
+				17
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				5,
+				10
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "mssl",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-4,
+				-12
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "mssd",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-26,
+				17
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "mssu",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-32,
+				15
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "mssr",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-5,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "idle"
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/chuchu-plush",
+	"position": [
+		-150,
+		230
+	],
+	"healthicon": "bf",
+	"flip_x": true,
+	"healthbar_colors": [
+		175,
+		0,
+		75
+	],
+	"camera_position": [
+		-90,
+		-70
+	],
+	"sing_duration": 9.99999999999998,
+	"scale": 1,
+	"_editor_isPlayer": true
+}

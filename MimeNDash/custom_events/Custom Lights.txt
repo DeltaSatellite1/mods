@@ -1,0 +1,17 @@
+Value 1: Duration
+Value 2: Colors
+
+1=White     7=Purple      
+2=Red       8=Pink       
+3=Blue      9=Orange     
+4=Green     10=Cyan  
+5=Yellow    
+6=Black     
+
+
+
+
+
+
+
+

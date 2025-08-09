@@ -1,0 +1,4 @@
+Does a Clap (used in "mime and funk")
+
+Value 1: HUD opacity (DEFAULT: 0.0001)  |  Disapear?
+value 2: Should disapear automatically?

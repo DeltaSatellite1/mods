@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Crazy-Racing.png">
+	<!-- Created with Adobe Animate version 22.0.4.185 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="fire0000" x="2" y="2" width="255" height="96" frameX="0" frameY="-24" frameWidth="275" frameHeight="142"/>
+	<SubTexture name="fire0001" x="264" y="2" width="274" height="86" frameX="-1" frameY="-30" frameWidth="275" frameHeight="142"/>
+	<SubTexture name="fire0002" x="2" y="105" width="274" height="82" frameX="-1" frameY="-33" frameWidth="275" frameHeight="142"/>
+	<SubTexture name="fire0003" x="2" y="105" width="274" height="82" frameX="-1" frameY="-33" frameWidth="275" frameHeight="142"/>
+	<SubTexture name="fire0004" x="283" y="105" width="233" height="96" frameX="-1" frameY="-26" frameWidth="275" frameHeight="142"/>
+	<SubTexture name="fire0005" x="2" y="208" width="221" height="142" frameX="-1" frameY="0" frameWidth="275" frameHeight="142"/>
+	<SubTexture name="fire0006" x="230" y="208" width="225" height="103" frameX="-1" frameY="-21" frameWidth="275" frameHeight="142"/>
+</TextureAtlas>

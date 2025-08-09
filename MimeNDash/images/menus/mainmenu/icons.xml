@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Menu Principal.png">
+	<!-- Created with Adobe Animate version 24.0.0.305 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="icons0000" x="0" y="0" width="582" height="289" frameX="0" frameY="0" frameWidth="582" frameHeight="302"/>
+	<SubTexture name="icons0001" x="0" y="0" width="582" height="289" frameX="0" frameY="0" frameWidth="582" frameHeight="302"/>
+	<SubTexture name="icons0002" x="0" y="0" width="582" height="289" frameX="0" frameY="0" frameWidth="582" frameHeight="302"/>
+	<SubTexture name="icons0003" x="0" y="0" width="582" height="289" frameX="0" frameY="0" frameWidth="582" frameHeight="302"/>
+	<SubTexture name="icons0004" x="0" y="0" width="582" height="289" frameX="0" frameY="0" frameWidth="582" frameHeight="302"/>
+	<SubTexture name="icons0005" x="0" y="0" width="582" height="289" frameX="0" frameY="0" frameWidth="582" frameHeight="302"/>
+	<SubTexture name="icons0006" x="0" y="0" width="582" height="289" frameX="0" frameY="0" frameWidth="582" frameHeight="302"/>
+	<SubTexture name="icons0007" x="0" y="289" width="553" height="291" frameX="-14" frameY="-11" frameWidth="582" frameHeight="302"/>
+	<SubTexture name="icons0008" x="0" y="289" width="553" height="291" frameX="-14" frameY="-11" frameWidth="582" frameHeight="302"/>
+	<SubTexture name="icons0009" x="0" y="289" width="553" height="291" frameX="-14" frameY="-11" frameWidth="582" frameHeight="302"/>
+	<SubTexture name="icons0010" x="0" y="289" width="553" height="291" frameX="-14" frameY="-11" frameWidth="582" frameHeight="302"/>
+	<SubTexture name="icons0011" x="0" y="289" width="553" height="291" frameX="-14" frameY="-11" frameWidth="582" frameHeight="302"/>
+	<SubTexture name="icons0012" x="0" y="289" width="553" height="291" frameX="-14" frameY="-11" frameWidth="582" frameHeight="302"/>
+	<SubTexture name="icons0013" x="0" y="289" width="553" height="291" frameX="-14" frameY="-11" frameWidth="582" frameHeight="302"/>
+</TextureAtlas>

@@ -1,0 +1,80 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-154,
+				179
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Darnell Uppercut",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-133,
+				75
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Darnell Punch Low",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-124,
+				129
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Darnell Punch High",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-633,
+				30
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Darnell Punch Low",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-136,
+				120
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": true,
+			"name": "Pico Idle"
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/pico_blazin",
+	"position": [
+		0,
+		330
+	],
+	"healthicon": "pico",
+	"flip_x": false,
+	"healthbar_colors": [
+		183,
+		216,
+		85
+	],
+	"camera_position": [
+		170,
+		-20
+	],
+	"sing_duration": 4,
+	"scale": 1.2,
+	"_editor_isPlayer": false
+}
