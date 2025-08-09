@@ -1,0 +1,574 @@
+--xevent dialog(i think) but in .lua by @Tih--
+
+function onCreate()
+    addHaxeLibrary('FlxG', 'flixel')
+    addHaxeLibrary('Std')
+    addHaxeLibrary('Alphabet')
+    addHaxeLibrary('FlxSprite', 'flixel')
+    addHaxeLibrary('FlxTypeText', 'flixel.addons.text')
+    addHaxeLibrary('FlxAtlasFrames', 'flixel.graphics.frames')
+    addHaxeLibrary('FlxSpriteGroup', 'flixel.group')
+    addHaxeLibrary('FlxKeyManager', 'flixel.input')
+    addHaxeLibrary('FlxText', 'flixel.text')
+    addHaxeLibrary('FlxColor', 'flixel.util')
+    addHaxeLibrary('FlxTimer', 'flixel.util')
+    addHaxeLibrary('FlxEase', 'flixel.tweens')
+    addHaxeLibrary('FlxTween', 'flixel.tweens')
+    addHaxeLibrary('FlxObject', 'flixel')
+end
+
+function onCreatePost()
+    if isStoryMode then
+        if songName == 'Overwrite' then
+            makeLuaSprite('over1', 'overwriteDialog/1', 0, 0);
+            setObjectCamera('over1', 'hud');
+            setScrollFactor('over1', 0, 0);
+            setProperty('over1.alpha', 0);
+            addLuaSprite('over1', true);
+    
+            makeLuaSprite('over2', 'overwriteDialog/2', 0, 0);
+            setObjectCamera('over2', 'hud');
+            setScrollFactor('over2', 0, 0);
+            setProperty('over2.alpha', 0);
+            addLuaSprite('over2', true);
+    
+            makeLuaSprite('over3', 'overwriteDialog/3', 0, 0);
+            setObjectCamera('over3', 'hud');
+            setScrollFactor('over3', 0, 0);
+            setProperty('over3.alpha', 0);
+            addLuaSprite('over3', true);
+    
+            makeLuaSprite('over4', 'overwriteDialog/4', 0, 0);
+            setObjectCamera('over4', 'hud');
+            setScrollFactor('over4', 0, 0);
+            setProperty('over4.alpha', 0);
+            addLuaSprite('over4', true);
+    
+            makeLuaSprite('over5', 'overwriteDialog/5', 0, 0);
+            setObjectCamera('over5', 'hud');
+            setScrollFactor('over5', 0, 0);
+            setProperty('over5.alpha', 0);
+            addLuaSprite('over5', true);
+    
+            makeLuaSprite('over6', 'overwriteDialog/6', 0, 0);
+            setObjectCamera('over6', 'hud');
+            setScrollFactor('over6', 0, 0);
+            setProperty('over6.alpha', 0);
+            addLuaSprite('over6', true);
+    
+            makeLuaSprite('over7', 'overwriteDialog/7', 0, 0);
+            setObjectCamera('over7', 'hud');
+            setScrollFactor('over7', 0, 0);
+            setProperty('over7.alpha', 0);
+            addLuaSprite('over7', true);
+    
+            makeLuaSprite('over8', 'overwriteDialog/8', 0, 0);
+            setObjectCamera('over8', 'hud');
+            setScrollFactor('over8', 0, 0);
+            setProperty('over8.alpha', 0);
+            addLuaSprite('over8', true);
+        end
+    
+        if songName == 'Inkingmistake' then
+            makeLuaSprite('ink1', 'inkingMistakeDialog/intro_ink001', 0, 0);
+            setObjectCamera('ink1', 'hud');
+            setScrollFactor('ink1', 0, 0);
+            setProperty('ink1.alpha', 0);
+            addLuaSprite('ink1', true);
+    
+            makeLuaSprite('ink2', 'inkingMistakeDialog/intro_ink002', 0, 0);
+            setObjectCamera('ink2', 'hud');
+            setScrollFactor('ink2', 0, 0);
+            setProperty('ink2.alpha', 0);
+            addLuaSprite('ink2', true);
+    
+            makeLuaSprite('ink3', 'inkingMistakeDialog/intro_ink003', 0, 0);
+            setObjectCamera('ink3', 'hud');
+            setScrollFactor('ink3', 0, 0);
+            setProperty('ink3.alpha', 0);
+            addLuaSprite('ink3', true);
+    
+            makeLuaSprite('ink4', 'inkingMistakeDialog/intro_ink004', 0, 0);
+            setObjectCamera('ink4', 'hud');
+            setScrollFactor('ink4', 0, 0);
+            setProperty('ink4.alpha', 0);
+            addLuaSprite('ink4', true);
+    
+            makeLuaSprite('ink5', 'inkingMistakeDialog/intro_ink005', 0, 0);
+            setObjectCamera('ink5', 'hud');
+            setScrollFactor('ink5', 0, 0);
+            setProperty('ink5.alpha', 0);
+            addLuaSprite('ink5', true);
+        end
+    
+        if songName == 'Relighted' then
+            makeLuaSprite('rel1', 'relightedDialog/intro/introxgaster01', 0, 0);
+            setObjectCamera('rel1', 'hud');
+            setScrollFactor('rel1', 0, 0);
+            setProperty('rel1.alpha', 0);
+            addLuaSprite('rel1', true);
+    
+            makeLuaSprite('rel2', 'relightedDialog/intro/introxgaster02', 0, 0);
+            setObjectCamera('rel2', 'hud');
+            setScrollFactor('rel2', 0, 0);
+            setProperty('rel2.alpha', 0);
+            addLuaSprite('rel2', true);
+    
+            makeLuaSprite('rel3', 'relightedDialog/intro/introxgaster03', 0, 0);
+            setObjectCamera('rel3', 'hud');
+            setScrollFactor('rel3', 0, 0);
+            setProperty('rel3.alpha', 0);
+            addLuaSprite('rel3', true);
+    
+            makeLuaSprite('rel4', 'relightedDialog/intro/introxgaster04', 0, 0);
+            setObjectCamera('rel4', 'hud');
+            setScrollFactor('rel4', 0, 0);
+            setProperty('rel4.alpha', 0);
+            addLuaSprite('rel4', true);
+    
+            makeLuaSprite('rel5', 'relightedDialog/intro/introxgaster05', 0, 0);
+            setObjectCamera('rel5', 'hud');
+            setScrollFactor('rel5', 0, 0);
+            setProperty('rel5.alpha', 0);
+            addLuaSprite('rel5', true);
+    
+            makeLuaSprite('rel6', 'relightedDialog/intro/introxgaster06', 0, 0);
+            setObjectCamera('rel6', 'hud');
+            setScrollFactor('rel6', 0, 0);
+            setProperty('rel6.alpha', 0);
+            addLuaSprite('rel6', true);
+    
+            makeLuaSprite('rel7', 'relightedDialog/intro/introxgaster07', 0, 0);
+            setObjectCamera('rel7', 'hud');
+            setScrollFactor('rel7', 0, 0);
+            setProperty('rel7.alpha', 0);
+            addLuaSprite('rel7', true);
+    
+            makeLuaSprite('rel8', 'relightedDialog/intro/introxgaster08', 0, 0);
+            setObjectCamera('rel8', 'hud');
+            setScrollFactor('rel8', 0, 0);
+            setProperty('rel8.alpha', 0);
+            addLuaSprite('rel8', true);
+    
+            makeLuaSprite('rel9', 'relightedDialog/intro/introxgaster09', 0, 0);
+            setObjectCamera('rel9', 'hud');
+            setScrollFactor('rel9', 0, 0);
+            setProperty('rel9.alpha', 0);
+            addLuaSprite('rel9', true);
+    
+            makeLuaSprite('rel1-post', 'relightedDialog/outro/outroxgaster01', 0, 0);
+            setObjectCamera('rel1-post', 'hud');
+            setScrollFactor('rel1-post', 0, 0);
+            setProperty('rel1-post.alpha', 0);
+            addLuaSprite('rel1-post', true);
+    
+            makeLuaSprite('rel2-post', 'relightedDialog/outro/outroxgaster02', 0, 0);
+            setObjectCamera('rel2-post', 'hud');
+            setScrollFactor('rel2-post', 0, 0);
+            setProperty('rel2-post.alpha', 0);
+            addLuaSprite('rel2-post', true);
+    
+            makeLuaSprite('rel3-post', 'relightedDialog/outro/outroxgaster03', 0, 0);
+            setObjectCamera('rel3-post', 'hud');
+            setScrollFactor('rel3-post', 0, 0);
+            setProperty('rel3-post.alpha', 0);
+            addLuaSprite('rel3-post', true);
+        end
+    end
+end
+
+local fadeTime = 0.3;
+local holdTime = 2;
+local curDial = '';
+local curImage = '';
+local nextDial = '';
+local dialogueStarted = false;
+
+local allowCountdown = false
+function onStartCountdown()
+	if not allowCountdown and isStoryMode and not seenCutscene then
+        if not hideHud then
+            if botPlay then
+                setProperty('botplayTxt.visible', false);
+            end
+            setProperty('healthBar.visible', false);
+            setProperty('healthBarBG.visible', false);
+            setProperty('iconP1.visible', false);
+            setProperty('iconP2.visible', false);
+            setProperty('scoreTxt.visible', false);
+        end
+        dialogueStarted = true;
+
+        --start of the dialogues--
+        if songName == 'Overwrite' then
+            runTimer('dial1-1', 0);
+        end
+        if songName == 'Inkingmistake' then
+            runTimer('dial1-2', 0);
+        end
+        if songName == 'Relighted' then
+            runTimer('dial1-3', 0);
+        end
+
+		allowCountdown = true;
+		return Function_Stop;
+    end
+    if not hideHud then
+        if botPlay then
+            setProperty('botplayTxt.visible', true);
+        end
+        setProperty('healthBar.visible', true);
+        setProperty('healthBarBG.visible', true);
+        setProperty('iconP1.visible', true);
+        setProperty('iconP2.visible', true);
+        setProperty('scoreTxt.visible', true);
+    end
+    cleanDialog();
+	return Function_Continue;
+end
+
+local allowEndSong = false;
+function onEndSong()
+    if songName == 'Relighted' then
+        if not allowEndSong and isStoryMode and not seenCutscene then
+            xgasterEndingDialog();
+
+            allowEndSong = true;
+            return Function_Stop;
+        end
+        return Function_Continue;
+    end
+end
+
+function xgasterEndingDialog()
+    runHaxeCode([[
+        game.cameraSpeed = 100;
+        game.dad.y += -2500;
+        game.dad.playAnim('defeatStart', false);
+        game.dad.animation.finishCallback = function(name:String){
+            if (name == 'defeatStart'){
+                game.dad.playAnim('defeatIdle', true);
+            }
+        };
+        game.canPause = false;
+        FlxG.sound.music.volume = 0;
+        game.vocals.volume = 0;
+        game.camFollow.set(game.dad.getMidpoint().x, game.dad.getMidpoint().y);
+        game.camHUD.alpha = 0;
+        game.gf.alpha = 0;
+        game.boyfriend.alpha = 0;
+    ]])
+    runTimer('endDial1', 0);
+end
+
+function onTimerCompleted(tag, loops, loopsLeft)
+    --Overwrite Dialogues--
+    if tag == 'dial1-1' then
+        curDial = '1';
+        curImage = 'over1';
+        nextDial = 'dial2-1';
+        doTweenAlpha(curDial, curImage, 1, fadeTime, quadInOut);
+        playSound('xchara1', 0.8);
+        FocusCharacter(true);
+
+    elseif tag == 'dial2-1' then
+        curDial = '2';
+        curImage = 'over2';
+        nextDial = 'dial3-1';
+        doTweenAlpha(curDial, curImage, 1, fadeTime, quadInOut);
+        playSound('bf1', 0.8);
+        FocusCharacter(false);
+
+    elseif tag == 'dial3-1' then
+        curDial = '3';
+        curImage = 'over3';
+        nextDial = 'dial4-1';
+        doTweenAlpha(curDial, curImage, 1, fadeTime, quadInOut);
+        playSound('xchara1', 0.8);
+        FocusCharacter(true);
+
+    elseif tag == 'dial4-1' then
+        curDial = '4';
+        curImage = 'over4';
+        nextDial = 'dial5-1';
+        doTweenAlpha(curDial, curImage, 1, fadeTime, quadInOut);
+        playSound('xchara1', 0.8);
+        FocusCharacter(true);
+
+    elseif tag == 'dial5-1' then
+        curDial = '5';
+        curImage = 'over5';
+        nextDial = 'dial6-1';
+        doTweenAlpha(curDial, curImage, 1, fadeTime, quadInOut);
+        playSound('xchara1', 0.8);
+        FocusCharacter(true);
+
+    elseif tag == 'dial6-1' then
+        curDial = '6';
+        curImage = 'over6';
+        nextDial = 'dial7-1';
+        doTweenAlpha(curDial, curImage, 1, fadeTime, quadInOut);
+        playSound('xchara1', 0.8);
+        FocusCharacter(true);
+
+    elseif tag == 'dial7-1' then
+        curDial = '7';
+        curImage = 'over7';
+        nextDial = 'dial8-1';
+        doTweenAlpha(curDial, curImage, 1, fadeTime, quadInOut);
+        playSound('bf1', 0.8);
+        FocusCharacter(false);
+
+    elseif tag == 'dial8-1' then
+        curDial = '8';
+        curImage = 'over8';
+        nextDial = 'end-1';
+        doTweenAlpha(curDial, curImage, 1, fadeTime, quadInOut);
+        playSound('xchara1', 0.8);
+        FocusCharacter(true);
+
+    elseif tag == 'end-1' then
+        startCountdown();
+    end
+
+    --Inkingmistake Dialogues--
+    if tag == 'dial1-2' then
+        curDial = '1';
+        curImage = 'ink1';
+        nextDial = 'dial2-2';
+        doTweenAlpha(curDial, curImage, 1, fadeTime, quadInOut);
+        playSound('ink1', 0.8);
+        FocusCharacter(true);
+
+    elseif tag == 'dial2-2' then
+        curDial = '2';
+        curImage = 'ink2';
+        nextDial = 'dial3-2';
+        doTweenAlpha(curDial, curImage, 1, fadeTime, quadInOut);
+        playSound('bf1', 0.8);
+        FocusCharacter(false);
+
+    elseif tag == 'dial3-2' then
+        curDial = '3';
+        curImage = 'ink3';
+        nextDial = 'dial4-2';
+        doTweenAlpha(curDial, curImage, 1, fadeTime, quadInOut);
+        playSound('ink1', 0.8);
+        FocusCharacter(true);
+
+    elseif tag == 'dial4-2' then
+        curDial = '4';
+        curImage = 'ink4';
+        nextDial = 'dial5-2';
+        doTweenAlpha(curDial, curImage, 1, fadeTime, quadInOut);
+        playSound('bf1', 0.8);
+        FocusCharacter(false);
+
+    elseif tag == 'dial5-2' then
+        curDial = '5';
+        curImage = 'ink5';
+        nextDial = 'end-2';
+        doTweenAlpha(curDial, curImage, 1, fadeTime, quadInOut);
+        playSound('ink1', 0.8);
+        FocusCharacter(true);
+
+    elseif tag == 'end-2' then
+        startCountdown();
+    end
+
+    --Relighted Dialogues--
+    if tag == 'dial1-3' then
+        curDial = '1';
+        curImage = 'rel1';
+        nextDial = 'dial2-3';
+        doTweenAlpha(curDial, curImage, 1, fadeTime, quadInOut);
+        playSound('gaster1', 0.8);
+        FocusCharacter(true);
+
+    elseif tag == 'dial2-3' then
+        curDial = '2';
+        curImage = 'rel2';
+        nextDial = 'dial3-3';
+        doTweenAlpha(curDial, curImage, 1, fadeTime, quadInOut);
+        playSound('bf1', 0.8);
+        FocusCharacter(false);
+
+    elseif tag == 'dial3-3' then
+        curDial = '3';
+        curImage = 'rel3';
+        nextDial = 'dial4-3';
+        doTweenAlpha(curDial, curImage, 1, fadeTime, quadInOut);
+        playSound('gaster1', 0.8);
+        FocusCharacter(true);
+
+    elseif tag == 'dial4-3' then
+        curDial = '4';
+        curImage = 'rel4';
+        nextDial = 'dial5-3';
+        doTweenAlpha(curDial, curImage, 1, fadeTime, quadInOut);
+        playSound('gaster1', 0.8);
+        FocusCharacter(true);
+
+    elseif tag == 'dial5-3' then
+        curDial = '5';
+        curImage = 'rel5';
+        nextDial = 'dial6-3';
+        doTweenAlpha(curDial, curImage, 1, fadeTime, quadInOut);
+        playSound('bf1', 0.8);
+        FocusCharacter(false);
+        
+    elseif tag == 'dial6-3' then
+        curDial = '6';
+        curImage = 'rel6';
+        nextDial = 'dial7-3';
+        doTweenAlpha(curDial, curImage, 1, fadeTime, quadInOut);
+        playSound('gaster1', 0.8);
+        FocusCharacter(true);
+
+    elseif tag == 'dial7-3' then
+        curDial = '7';
+        curImage = 'rel7';
+        nextDial = 'dial8-3';
+        doTweenAlpha(curDial, curImage, 1, fadeTime, quadInOut);
+        playSound('gaster1', 0.8);
+        FocusCharacter(true);
+
+    elseif tag == 'dial8-3' then
+        curDial = '8';
+        curImage = 'rel8';
+        nextDial = 'dial9-3';
+        doTweenAlpha(curDial, curImage, 1, fadeTime, quadInOut);
+        playSound('gaster1', 0.8);
+        FocusCharacter(true);
+
+    elseif tag == 'dial9-3' then
+        curDial = '9';
+        curImage = 'rel9';
+        nextDial = 'end-3';
+        doTweenAlpha(curDial, curImage, 1, fadeTime, quadInOut);
+        playSound('gaster1', 0.8);
+        FocusCharacter(true);
+
+    elseif tag == 'end-3' then
+        startCountdown();
+    end
+
+    --Relighted Post Dialogues--
+    if tag == 'endDial1' then
+        curDial = '1';
+        curImage = 'rel1-post';
+        nextDial = 'endDial2';
+        doTweenAlpha(curDial, curImage, 1, fadeTime, quadInOut);
+        playSound('gaster1', 0.8);
+
+    elseif tag == 'endDial2' then
+        curDial = '2';
+        curImage = 'rel2-post';
+        nextDial = 'endDial3';
+        doTweenAlpha(curDial, curImage, 1, fadeTime, quadInOut);
+        playSound('gaster1', 0.8);
+
+    elseif tag == 'endDial3' then
+        curDial = '3';
+        curImage = 'rel3-post';
+        nextDial = 'endPost';
+        doTweenAlpha(curDial, curImage, 1, fadeTime, quadInOut);
+        playSound('gaster1', 0.8);
+
+    elseif tag == 'endPost' then
+        endSong();
+    end
+end
+
+function onTweenCompleted(tag)
+    if tag == curDial then
+        holdDialogue();
+    end
+    if tag == 'hold' then
+        endDialog();
+    end
+    if tag == 'end' then
+        runTimer(nextDial, 0);
+    end
+end
+
+function holdDialogue()
+    doTweenAlpha('hold', curImage, 1, holdTime, quadInOut);
+end
+
+function endDialog()
+    doTweenAlpha('end', curImage, 0, fadeTime, quadInOut);
+end
+
+function cleanDialog()
+    if songName == 'Overwrite' then
+        removeLuaSprite('over1', true);
+        removeLuaSprite('over2', true);
+        removeLuaSprite('over3', true);
+        removeLuaSprite('over4', true);
+        removeLuaSprite('over5', true);
+        removeLuaSprite('over6', true);
+        removeLuaSprite('over7', true);
+        removeLuaSprite('over8', true);
+
+    elseif songName == 'Inkingmistake' then 
+        removeLuaSprite('ink1', true);
+        removeLuaSprite('ink2', true);
+        removeLuaSprite('ink3', true);
+        removeLuaSprite('ink4', true);
+        removeLuaSprite('ink5', true);
+
+    elseif songName == 'Relighted' then
+        removeLuaSprite('rel1', true);
+        removeLuaSprite('rel2', true);
+        removeLuaSprite('rel3', true);
+        removeLuaSprite('rel4', true);
+        removeLuaSprite('rel5', true);
+        removeLuaSprite('rel6', true);
+        removeLuaSprite('rel7', true);
+        removeLuaSprite('rel8', true);
+        removeLuaSprite('rel9', true);
+    end
+end
+
+local isDad = false;
+function FocusCharacter(isDad)
+    if isDad then
+        runHaxeCode([[
+            game.camFollow.set(game.dad.getMidpoint().x + 150, game.dad.getMidpoint().y - 100);
+			game.camFollow.x += game.dad.cameraPosition[0] + game.opponentCameraOffset[0];
+			game.camFollow.y += game.dad.cameraPosition[1] + game.opponentCameraOffset[1];
+        ]])
+    else
+        runHaxeCode([[
+            game.camFollow.set(game.boyfriend.getMidpoint().x - 100, game.boyfriend.getMidpoint().y - 100);
+			game.camFollow.x -= game.boyfriend.cameraPosition[0] - game.boyfriendCameraOffset[0];
+			game.camFollow.y += game.boyfriend.cameraPosition[1] + game.boyfriendCameraOffset[1];
+        ]])
+    end
+end
+
+function onUpdate(elapsed)
+    if isStoryMode and dialogueStarted then
+        if keyboardJustPressed('SPACE') then
+            setProperty(curImage..'.visible', false);
+            runTimer(nextDial, 0);
+        end
+    end
+    --[[if keyboardJustPressed('F1') then --for test
+        runHaxeCode('game.finishSong(true);')
+    end
+    if keyboardJustPressed('F2') then --for test
+        runHaxeCode('game.restartSong();')
+    end--]]
+end
+
+--[[function onUpdatePost(elapsed)
+    if not isStoryMode then
+        if (mustHitSection) then
+            cameraSetTarget('boyfriend'); --fuck the new psych cam thing
+        else
+            cameraSetTarget('dad');
+        end
+    end
+end--]]

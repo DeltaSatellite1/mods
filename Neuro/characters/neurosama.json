@@ -1,0 +1,55 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [0, 0],
+			"anim": "idle",
+			"fps": 24,
+			"name": "NeuroSamaIdle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [60, -18],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "NeuroSamaRight",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [46, 47],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "NeuroSamaDown",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [150, 30],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "NeuroSamaUp",
+			"indices": []
+		},
+		{
+			"offsets": [13, 6],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "NeuroSamaLeft"
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/NeuroSamaSprites",
+	"position": [-750, -520],
+	"healthicon": "neurosama",
+	"flip_x": true,
+	"healthbar_colors": [255, 192, 206],
+	"camera_position": [-560, 460],
+	"sing_duration": 4,
+	"scale": 0.6,
+	"_editor_isPlayer": true
+}

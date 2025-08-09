@@ -1,0 +1,12 @@
+var zoomTween:FlxTween;
+function beatZoomCam()
+{
+	FlxG.camera.zoom = 1.15;
+
+	if(zoomTween != null) zoomTween.cancel();
+	zoomTween = FlxTween.tween(FlxG.camera, {zoom: 1}, 1, {ease: FlxEase.circOut, onComplete: function(twn:FlxTween)
+		{
+			zoomTween = null;
+		}
+	});
+}

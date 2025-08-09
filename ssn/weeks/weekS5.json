@@ -1,0 +1,43 @@
+{
+	"storyName": "dinner date",
+	"hideFreeplay": false,
+	"weekBackground": "christmas",
+	"weekBefore": "week4",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"parents-christmas",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"order up!",
+			"parents",
+			[
+				80,
+				169,
+				255
+			]
+		],
+		[
+			"rush hour!",
+			"parents",
+			[
+				120,
+				189,
+				255
+			]
+		],
+		[
+			"freedom!",
+			"monster",
+			[
+				0,
+				0,
+				0
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Week 5"
+}

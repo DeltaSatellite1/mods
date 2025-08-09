@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Zardy_Dark_Portrait.png">
+	<!-- Created with Adobe Animate version 18.0.0.107 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Zardy Portrait Instance 10000" x="0" y="0" width="394" height="384" frameX="0" frameY="0" frameWidth="394" frameHeight="384" />
+</TextureAtlas>

@@ -1,0 +1,39 @@
+{
+	"songs": [
+		[
+			"Foolhardy",
+			"zardymybeloved",
+			[
+				186,
+				123,
+				66
+			]
+		],
+		[
+			"Bushwhack",
+			"zardybutdark",
+			[
+				46,
+				30,
+				16
+			]
+		]
+	],
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"difficulties": "Normal",
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"storyName": "Your New Week",
+	"weekName": "Custom Week",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"startUnlocked": true
+}

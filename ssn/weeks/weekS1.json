@@ -1,0 +1,43 @@
+{
+	"storyName": "dad jokes",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"daddys girl",
+			"dad",
+			[
+				100,
+				100,
+				100
+			]
+		],
+		[
+			"salty love",
+			"gf",
+			[
+				215,
+				215,
+				215
+			]
+		],
+		[
+			"daughter complex",
+			"dad",
+			[
+				80,
+				80,
+				80
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Week 1"
+}

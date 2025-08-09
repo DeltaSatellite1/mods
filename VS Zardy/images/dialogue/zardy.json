@@ -1,0 +1,76 @@
+{
+	"dialogue_pos": "left",
+	"position": [
+		160,
+		58
+	],
+	"scale": 1.4,
+	"animations": [
+		{
+			"anim": "talk",
+			"loop_offsets": [
+				0,
+				0
+			],
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "Zardy Portrait Instance 1",
+			"idle_name": "BF0"
+		},
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "excited",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "Zardy Portrait Instance 1",
+			"idle_name": "BF EXCITED0"
+		},
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "pissed",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "Zardy Portrait Instance 1",
+			"idle_name": "BF PISSED0"
+		},
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "shocked",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "Zardy Portrait Instance 1",
+			"idle_name": "BF SHOCK0"
+		},
+		{
+			"idle_offsets": [
+				0,
+				0
+			],
+			"anim": "confused",
+			"loop_offsets": [
+				0,
+				0
+			],
+			"idle_name": "BF CONFUSED0",
+			"loop_name": "Zardy Portrait Instance 1"
+		}
+	],
+	"image": "ZardyPort"
+}

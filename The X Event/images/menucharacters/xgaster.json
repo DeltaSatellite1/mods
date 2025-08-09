@@ -1,0 +1,11 @@
+{
+	"confirm_anim": "",
+	"idle_anim": "IDLE",
+	"position": [
+		225,
+		275
+	],
+	"scale": 0.5,
+	"image": "Menu_xgaster",
+	"flipX": false
+}

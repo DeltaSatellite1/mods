@@ -1,0 +1,43 @@
+{
+	"storyName": "sweet n' sour",
+	"hideFreeplay": false,
+	"weekBackground": "halloween",
+	"weekBefore": "week1",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"spooky",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"sweet n spooky",
+			"spooky",
+			[
+				74,
+				0,
+				108
+			]
+		],
+		[
+			"sour n scary",
+			"spooky",
+			[
+				54,
+				0,
+				88
+			]
+		],
+		[
+			"opheebop",
+			"monster",
+			[
+				0,
+				0,
+				0
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Week 2"
+}

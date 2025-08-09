@@ -1,0 +1,50 @@
+{
+	"songs": [
+		[
+			"Overwrite",
+			"xchara",
+			[
+				255,
+				255,
+				255
+			]
+		],
+		[
+			"Inkingmistake",
+			"ink",
+			[
+				255,
+				255,
+				255
+			]
+		],
+		[
+			"Relighted",
+			"xgaster",
+			[
+				255,
+				255,
+				255
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"difficulties": "Hard",
+	"weekCharacters": [
+		"xchara",
+		"ink",
+		"xgaster"
+	],
+	"storyName": "The X!Event",
+	"weekName": "weekx",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "",
+	"startUnlocked": true
+}

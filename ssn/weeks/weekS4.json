@@ -1,0 +1,43 @@
+{
+	"storyName": "mom's love",
+	"hideFreeplay": false,
+	"weekBackground": "limo",
+	"weekBefore": "week3",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"mom",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"indie star",
+			"mom",
+			[
+				195,
+				175,
+				175
+			]
+		],
+		[
+			"rising star",
+			"mom",
+			[
+				215,
+				155,
+				155
+			]
+		],
+		[
+			"superstar",
+			"mom",
+			[
+				215,
+				135,
+				135
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Week 4"
+}

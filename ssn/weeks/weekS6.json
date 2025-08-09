@@ -1,0 +1,43 @@
+{
+	"storyName": "glitch out",
+	"hideFreeplay": false,
+	"weekBackground": "school",
+	"weekBefore": "week5",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"senpai",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"buckets",
+			"senpai-pixel",
+			[
+				55,
+				255,
+				0
+			]
+		],
+		[
+			"logarithms",
+			"senpai-pixel",
+			[
+				75,
+				255,
+				0
+			]
+		],
+		[
+			"terminal",
+			"spirit-pixel",
+			[
+				95,
+				235,
+				0
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Week 6"
+}
