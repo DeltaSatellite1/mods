@@ -1,0 +1,5 @@
+value 1 = x,y,offsetX,offsetY
+if you want the a player pos, just put,like this:
+(bf,bf,10,10) can be "bf","gf","dad"
+
+Used on CameraMoviment script.

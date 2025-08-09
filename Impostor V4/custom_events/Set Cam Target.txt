@@ -1,0 +1,3 @@
+Needs cameraMoviment script!
+
+Value 1 = object

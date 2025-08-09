@@ -1,0 +1,4 @@
+value 1 = bf,dad,gf or all
+value 2 = ofs(leave blank to back to normal)
+
+Event used in camera script

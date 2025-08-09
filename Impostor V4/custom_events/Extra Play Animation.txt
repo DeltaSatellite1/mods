@@ -1,0 +1,4 @@
+value 1 = player
+value 2 = animation
+player = 3 or 4(player3 or player4)
+event used in custom_character script

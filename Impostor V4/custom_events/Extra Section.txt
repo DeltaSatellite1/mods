@@ -1,0 +1,4 @@
+value1 = character(bf,dad)
+value2 = 0/1(OFF/ON)
+bf = player 2
+dad = opponent 2

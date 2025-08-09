@@ -1,0 +1,6 @@
+value 1 = event
+can be darken,airship and brighten
+
+darken = just bf
+airship = airship bg appears
+brighten = appears all over again

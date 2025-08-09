@@ -1,0 +1,26 @@
+{
+	"storyName": "...",
+	"difficulties": "hard",
+	"hideFreeplay": false,
+	"weekBackground": "defeat",
+	"weekBefore": "",
+	"startUnlocked": true,
+	"hideStoryMode": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"Finale-Old",
+			"black",
+			[
+				58,
+				27,
+				79
+			]
+		]
+	],
+	"weekName": "..."
+}

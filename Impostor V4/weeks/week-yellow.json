@@ -1,0 +1,62 @@
+{
+	"storyName": "Airship Atrocities",
+	"difficulties": "hard",
+	"hideFreeplay": false,
+	"weekBackground": "yellow",
+	"weekBefore": "",
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"Mando",
+			"yellow",
+			[
+				240,
+				185,
+				70
+			]
+		],
+		[
+			"Dlow",
+			"yellow",
+			[
+				240,
+				185,
+				70
+			]
+		],
+		[
+			"Oversight",
+			"white",
+			[
+				209,
+				210,
+				248
+			]
+		],
+		[
+			"Danger",
+			"black",
+			[
+				58,
+				27,
+				79
+			]
+		],
+		[
+			"Double Kill",
+			"whiteblack",
+			[
+				58,
+				27,
+				79
+			]
+		]
+	],
+	"weekName": "Week 3"
+}

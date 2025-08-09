@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-30,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "biddle idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				8,
+				-65
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "biddle left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-9,
+				-163
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "biddle down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				4,
+				-26
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "biddle up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-38,
+				-16
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "biddle right",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/biddle",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "attack",
+	"flip_x": true,
+	"healthbar_colors": [
+		213,
+		235,
+		255
+	],
+	"camera_position": [
+		0,
+		190
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

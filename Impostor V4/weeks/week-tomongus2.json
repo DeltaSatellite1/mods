@@ -1,0 +1,20 @@
+{
+	"songs": [
+		["Tomongus Tuesday", "tuesday", [255, 103, 112]]
+	],
+
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"weekBackground": "",
+	"difficulties": "hard",
+	"storyName": "Rousey Rival",
+	"weekBefore": "",
+	"weekName": "Tomongus",
+	"startUnlocked": true,
+
+	"hideStoryMode": true,
+	"hideFreeplay": false
+}

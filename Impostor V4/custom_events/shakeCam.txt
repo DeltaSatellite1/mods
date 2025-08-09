@@ -1,0 +1,2 @@
+value 1 = start value,target
+value 2 = target speed, shake duration

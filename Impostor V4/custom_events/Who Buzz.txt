@@ -1,0 +1,4 @@
+value 1 = 1,2
+1 = Emergency
+2 or anything = White flying
+on the space

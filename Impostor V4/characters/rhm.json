@@ -1,0 +1,100 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-109,
+				190
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "RHM Idle"
+		},
+		{
+			"offsets": [
+				-152,
+				150
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "RHM Right"
+		},
+		{
+			"offsets": [
+				-99,
+				366
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "RHM Up"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				15,
+				190
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "RHM left pose",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-83,
+				120
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "RHM down new",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-94,
+				190
+			],
+			"anim": "intro",
+			"fps": 24,
+			"name": "RHM intro new",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-150,
+				-340
+			],
+			"anim": "animation",
+			"fps": 24,
+			"name": "rhm animation",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/rhm",
+	"position": [
+		-190,
+		150
+	],
+	"healthicon": "rhm",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		95,
+		55
+	],
+	"camera_position": [
+		100,
+		-100
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

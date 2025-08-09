@@ -1,0 +1,44 @@
+{
+	"storyName": "Deadly Delusion",
+	"difficulties": "hard",
+	"hideFreeplay": false,
+	"weekBackground": "gray",
+	"weekBefore": "",
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"Delusion",
+			"gray",
+			[
+				98,
+				87,
+				115
+			]
+		],
+		[
+			"Blackout",
+			"gray",
+			[
+				98,
+				87,
+				115
+			]
+		],
+		[
+			"Neurotic",
+			"gray",
+			[
+				98,
+				87,
+				115
+			]
+		]
+	],
+	"weekName": "Week 6"
+}

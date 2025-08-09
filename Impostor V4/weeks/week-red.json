@@ -1,0 +1,44 @@
+{
+	"storyName": "Polus Problems",
+	"difficulties": "hard",
+	"hideFreeplay": false,
+	"weekBackground": "red",
+	"weekBefore": "",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"Sussus Moogus",
+			"impostor",
+			[
+				255,
+				51,
+				51
+			]
+		],
+		[
+			"Sabotage",
+			"impostor",
+			[
+				255,
+				51,
+				51
+			]
+		],
+		[
+			"Meltdown",
+			"impostor",
+			[
+				255,
+				51,
+				51
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Week-Red"
+}

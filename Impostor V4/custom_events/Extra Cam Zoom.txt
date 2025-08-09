@@ -1,0 +1,10 @@
+value 1 = cur,add
+you can use "cur" to use the current zoom and put a 
+value in Add,like this:
+cur,0.5
+is like: getProperty('defaultCamZoom') + add
+value 2 = speed,easing
+cur is used to add the currentZoom. Like,if you 
+puted 0.1 in the event before and don't disabled
+the event, if the cur is true, i'll add.
+is like: 0.1 + 0.1 = 0.2.

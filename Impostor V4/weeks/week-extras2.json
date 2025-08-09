@@ -1,0 +1,30 @@
+{
+	"songs": [
+		["Sauces Moogus","chef",[199,94,82]],
+		["Ow", "kills", [51, 204, 255]],
+		["Who", "whoguys", [102, 102, 255]],
+		["Insane Streamer", "jerma", [95, 197, 201]],
+		["Sussus Nuzzus", "nuzzles", [255, 255, 255]],
+		["Idk","idk",[255,140,177]],
+		["Esculent","esculent",[136,66,61]],
+		["Drippypop","drippy",[188,106,233]],
+		["Crewicide","dave",[76,82,180]],
+		["Monotone Attack", "attack", [255, 255, 255]],
+		["Top 10", "top", [197, 17, 17]]
+	],
+
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"weekBackground": "",
+	"difficulties": "hard",
+	"storyName": "Magmatic Monstrosity",
+	"weekBefore": "",
+	"weekName": "",
+	"startUnlocked": true,
+
+	"hideStoryMode": true,
+	"hideFreeplay": false
+}

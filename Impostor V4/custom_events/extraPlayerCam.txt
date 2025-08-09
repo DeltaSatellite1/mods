@@ -1,0 +1,4 @@
+value 1 = player
+player:1 = focus on player 3
+player:2 = focus on player4
+player:0 = disable focus

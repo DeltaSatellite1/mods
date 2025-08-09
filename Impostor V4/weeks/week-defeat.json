@@ -1,0 +1,26 @@
+{
+	"storyName": "Defeat",
+	"difficulties": "hard",
+	"hideFreeplay": false,
+	"weekBackground": "defeat",
+	"weekBefore": "",
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"Defeat",
+			"black",
+			[
+				58,
+				27,
+				79
+			]
+		]
+	],
+	"weekName": "..."
+}

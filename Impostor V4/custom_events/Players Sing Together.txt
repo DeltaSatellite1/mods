@@ -1,0 +1,5 @@
+value 1 = 0/1(OFF/ON)
+
+this event will make the player 4 play
+the same bf note
+event used on custom_character script

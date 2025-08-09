@@ -1,0 +1,22 @@
+{
+	"songs": [
+		["Identity Crisis", "monotone", [57, 44, 73]],
+		["Roomcode", "powers", [137, 215, 255]],
+		["Triple Trouble", "blackmini", [57, 44, 73]]
+	],
+
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"weekBackground": "",
+	"difficulties": "hard",
+	"storyName": "",
+	"weekBefore": "",
+	"weekName": "Week Sus Extras",
+	"startUnlocked": true,
+
+	"hideStoryMode": true,
+	"hideFreeplay": false
+}

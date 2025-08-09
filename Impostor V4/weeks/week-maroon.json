@@ -1,0 +1,44 @@
+{
+	"storyName": "Magmatic Monstrosity",
+	"difficulties": "hard",
+	"hideFreeplay": false,
+	"weekBackground": "maroon",
+	"weekBefore": "",
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"Ashes",
+			"maroon",
+			[
+				82,
+				35,
+				47
+			]
+		],
+		[
+			"Magmatic",
+			"maroon",
+			[
+				82,
+				35,
+				47
+			]
+		],
+		[
+			"Boiling Point",
+			"maroon",
+			[
+				82,
+				35,
+				47
+			]
+		]
+	],
+	"weekName": "Week 5"
+}

@@ -1,0 +1,5 @@
+value 1 = angle force
+value 2 = bounce force
+to disable, put 0 on both values
+Recommend that the v2 be greater to the 
+v1.

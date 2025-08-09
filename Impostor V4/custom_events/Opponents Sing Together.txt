@@ -1,0 +1,5 @@
+value 1 = 0/1(OFF/ON)
+
+this event will make the player 3 play the same
+dad note
+event used on custom_character script

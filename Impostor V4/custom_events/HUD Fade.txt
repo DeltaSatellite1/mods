@@ -1,0 +1,2 @@
+Value 1 = 0/1(ON/OFF)
+Value 2 = speed

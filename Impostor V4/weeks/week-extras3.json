@@ -1,0 +1,22 @@
+{
+	"songs": [
+		["Chippin","cvp",[199,94,82]],
+		["Chipping", "cvp", [51, 204, 255]],
+		["Torture", "ziffy", [255, 153, 51]]
+	],
+
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"weekBackground": "",
+	"difficulties": "hard",
+	"storyName": "Magmatic Monstrosity",
+	"weekBefore": "",
+	"weekName": "",
+	"startUnlocked": true,
+
+	"hideStoryMode": true,
+	"hideFreeplay": false
+}

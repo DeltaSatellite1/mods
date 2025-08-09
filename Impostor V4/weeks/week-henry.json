@@ -1,0 +1,53 @@
+{
+	"storyName": "Battling the Boyfriend",
+	"difficulties": "hard",
+	"hideFreeplay": false,
+	"weekBackground": "henry",
+	"weekBefore": "",
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"Titular",
+			"henry",
+			[
+				189,
+				215,
+				216
+			]
+		],
+		[
+			"Greatest Plan",
+			"henry",
+			[
+				189,
+				215,
+				216
+			]
+		],
+		[
+			"Reinforcements",
+			"ellie",
+			[
+				189,
+				215,
+				216
+			]
+		],
+		[
+			"Armed",
+			"rhm",
+			[
+				228,
+				72,
+				50
+			]
+		]
+	],
+	"weekName": "HENRY"
+}

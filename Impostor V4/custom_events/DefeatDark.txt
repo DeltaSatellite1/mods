@@ -1,0 +1,5 @@
+Value 1 = 0/1(OFF/ON)
+
+Used on Defeat stage.
+When active, the Defeat bg disappears.
+When deactivated, it appears again.

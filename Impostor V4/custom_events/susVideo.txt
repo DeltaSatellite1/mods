@@ -1,0 +1,2 @@
+value 1 = video directory
+value 2 = disable controls
