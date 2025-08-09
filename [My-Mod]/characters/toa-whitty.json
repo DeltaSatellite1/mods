@@ -1,0 +1,55 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [0, 0],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Whitty idle dance",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [88, -50],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Whitty Sing Note LEFT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [-10, -204],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Whitty Sing Note DOWN",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [0, 70],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Whitty Sing Note UP",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [12, 30],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "whitty sing note right",
+			"indices": []
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/toa-whitty/WhittyCrazy",
+	"position": [-80, 10],
+	"healthicon": "toa",
+	"flip_x": false,
+	"healthbar_colors": [161, 83, 8],
+	"camera_position": [60, 120],
+	"sing_duration": 6.1,
+	"scale": 0.8,
+	"_editor_isPlayer": false
+}

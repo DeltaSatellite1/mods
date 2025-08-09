@@ -1,0 +1,50 @@
+{
+	"storyName": "Prisoner of the Void",
+	"difficulties": "Easy, Normal, Hard, Expert, Insane",
+	"hideFreeplay": false,
+	"weekBackground": "void",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"Screenplay",
+			"agoti",
+			[
+				186,
+				40,
+				40
+			]
+		],
+		[
+			"Parasite",
+			"agoti",
+			[
+				186,
+				40,
+				40
+			]
+		],
+		[
+			"A.G.O.T.I",
+			"agoti_angry",
+			[
+				146,
+				40,
+				40
+			]
+		]
+	],
+	"weekCharacters": [
+		"agotiMenu",
+		"bf",
+		"gf"
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "Vs Agoti"
+}

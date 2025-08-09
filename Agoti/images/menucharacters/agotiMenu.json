@@ -1,0 +1,11 @@
+{
+	"idle_anim": "Idle",
+	"image": "agotiMenu",
+	"position": [
+		138,
+		246
+	],
+	"flipX": false,
+	"scale": 0.45,
+	"confirm_anim": "Idle"
+}

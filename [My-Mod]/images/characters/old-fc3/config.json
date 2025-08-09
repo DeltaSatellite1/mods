@@ -1,0 +1,134 @@
+{
+	"sing_duration": 4,
+	"scale": 1,
+	"scale_pixel": 0.91,
+	"pixel_offset_scale": 0.91,
+	"online_offset_scale": 0.7,
+
+	"voices": "mom",
+	"flip_x": false,
+
+	"animations":
+	[
+		{
+			"anim": "idle",
+			"name": "FC Idle",
+			"fps": 24,
+			"loop": false,
+			"indices": []
+		},
+		{
+			"anim": "singUP",
+			"name": "FC Up",
+			"fps": 24,
+			"loop": false,
+			"indices": []
+		},
+		{
+			"anim": "singLEFT",
+			"name": "FC Left",
+			"fps": 24,
+			"loop": false,
+			"indices": []
+		},
+		{
+			"anim": "singRIGHT",
+			"name": "FC Right",
+			"fps": 24,
+			"loop": false,
+			"indices": []
+		},
+		{
+			"anim": "singDOWN",
+			"name": "FC Down",
+			"fps": 24,
+			"loop": false,
+			"indices": []
+		},
+		{
+			"anim": "singUPmiss",
+			"name": "FC Miss Up",
+			"fps": 24,
+			"loop": false,
+			"indices": []
+		},
+		{
+			"anim": "singLEFTmiss",
+			"name": "FC Miss Left",
+			"fps": 24,
+			"loop": false,
+			"indices": []
+		},
+		{
+			"anim": "singRIGHTmiss",
+			"name": "FC Miss Right",
+			"fps": 24,
+			"loop": false,
+			"indices": []
+		},
+		{
+			"anim": "singDOWNmiss",
+			"name": "FC Miss Down",
+			"fps": 24,
+			"loop": false,
+			"indices": []
+		}
+	],
+	"hey_anim": "",
+	"scared_anim": "",
+
+	"animations_offsets":
+	[
+		{
+			"anim": "idle",
+			"player1": [0, 0],
+			"player2": [0, 0]
+		},
+		{
+			"anim": "singUP",
+			"player1": [-20, -10],
+			"player2": [-70, -20]
+		},
+		{
+			"anim": "singRIGHT",
+			"player1": [10, -80],
+			"player2": [-130, -80]
+		},
+		{
+			"anim": "singLEFT",
+			"player1": [100, -50],
+			"player2": [130, -80]
+		},
+		{
+			"anim": "singDOWN",
+			"player1": [-10, -90],
+			"player2": [-0, -80]
+		},
+		{
+			"anim": "singUPmiss",
+			"player1": [-10, 80],
+			"player2": [-30, 70]
+		},
+		{
+			"anim": "singRIGHTmiss",
+			"player1": [0, -80],
+			"player2": [-30, -10]
+		},
+		{
+			"anim": "singLEFTmiss",
+			"player1": [110, -20],
+			"player2": [180, -80]
+		},
+		{
+			"anim": "singDOWNmiss",
+			"player1": [30, -150],
+			"player2": [-50, -140]
+		}
+	],
+
+	"common_stage_offset": [-100, -70, 0, -70],
+	"pixel_stage_offset": [-80, -100, 0, -100],
+	"local_multiplayer_offset": [0, -400],
+	"online_offset": [-10, -150],
+	"playername_relative": 160
+}

@@ -1,0 +1,124 @@
+{
+	"dialogue": [
+		{
+			"sound": "agotiScaredText",
+			"speed": 0.05,
+			"portrait": "agoti",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "Huh..."
+		},
+		{
+			"sound": "agotiScaredText",
+			"speed": 0.05,
+			"portrait": "agoti",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "This is... new"
+		},
+		{
+			"sound": "boyfriendText",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "Beep bo?"
+		},
+		{
+			"sound": "agotiText",
+			"speed": 0.05,
+			"portrait": "agoti",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Welcome, inmates!"
+		},
+		{
+			"sound": "agotiText",
+			"speed": 0.05,
+			"portrait": "agoti",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "It's been a while since I've seen some new ugly faces"
+		},
+		{
+			"sound": "agotiAngryText",
+			"speed": 0.05,
+			"portrait": "agoti",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "...or faces in general"
+		},
+		{
+			"sound": "agotiText",
+			"speed": 0.05,
+			"portrait": "agoti",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "How was the fall here?"
+		},
+		{
+			"sound": "boyfriendText",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Bap skee beep! bo poh iis sku bop"
+		},
+		{
+			"sound": "agotiText",
+			"speed": 0.05,
+			"portrait": "agoti",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "I'm suprised someone as small as you didn't break anything!"
+		},
+		{
+			"sound": "agotiAngryText",
+			"speed": 0.05,
+			"portrait": "agoti",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "Let alone cry."
+		},
+		{
+			"sound": "boyfriendText",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Skee deh beh doo bop!"
+		},
+		{
+			"sound": "agotiText",
+			"speed": 0.05,
+			"portrait": "agoti",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "I hope you have better insults than that!"
+		},
+		{
+			"sound": "agotiText",
+			"speed": 0.05,
+			"portrait": "agoti",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Because we're all gonna be here a while"
+		},
+		{
+			"sound": "agotiAngryText",
+			"speed": 0.05,
+			"portrait": "agoti",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "A very long one."
+		},
+		{
+			"sound": "boyfriendText",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "B-beep?"
+		}
+	]
+}

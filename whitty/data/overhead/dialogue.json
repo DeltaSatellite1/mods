@@ -1,0 +1,46 @@
+{
+	"dialogue": [
+		{
+			"expression": "Agitate",
+			"text": "I see how it is.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "whittyPort"
+		},
+		{
+			"expression": "Agitate",
+			"text": "You're really pushing my limits, dude.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "whittyPort"
+		},
+		{
+			"expression": "talk",
+			"text": "bip bep skoo de boo",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "boyfriendPort"
+		},
+		{
+			"expression": "Agitate",
+			"text": "Well how about you go die in a ditch instead.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "whittyPort"
+		},
+		{
+			"expression": "talk",
+			"text": "bepoobee skoop",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "boyfriendport"
+		},
+		{
+			"expression": "Agitate",
+			"text": "...Don't make me do this.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "whittyport"
+		}
+	]
+}

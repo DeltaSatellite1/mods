@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-16"?>
+<TextureAtlas imagePath="Tankman_Menu.png">
+	<!-- Created with Adobe Flash CS6 version 12.0.0.481 -->
+	<!-- http://www.adobe.com/products/flash.html -->
+	<SubTexture name="tankman idle menu 10000" x="0" y="0" width="546" height="735" frameX="0" frameY="-37" frameWidth="546" frameHeight="772"/>
+	<SubTexture name="tankman idle menu 10001" x="0" y="0" width="546" height="735" frameX="0" frameY="-37" frameWidth="546" frameHeight="772"/>
+	<SubTexture name="tankman idle menu 10002" x="546" y="0" width="538" height="735" frameX="-4" frameY="-37" frameWidth="546" frameHeight="772"/>
+	<SubTexture name="tankman idle menu 10003" x="546" y="0" width="538" height="735" frameX="-4" frameY="-37" frameWidth="546" frameHeight="772"/>
+	<SubTexture name="tankman idle menu 10004" x="1084" y="0" width="515" height="760" frameX="-7" frameY="-12" frameWidth="546" frameHeight="772"/>
+	<SubTexture name="tankman idle menu 10005" x="1084" y="0" width="515" height="760" frameX="-7" frameY="-12" frameWidth="546" frameHeight="772"/>
+	<SubTexture name="tankman idle menu 10006" x="0" y="760" width="504" height="768" frameX="-9" frameY="-4" frameWidth="546" frameHeight="772"/>
+	<SubTexture name="tankman idle menu 10007" x="0" y="760" width="504" height="768" frameX="-9" frameY="-4" frameWidth="546" frameHeight="772"/>
+	<SubTexture name="tankman idle menu 10008" x="504" y="760" width="500" height="772" frameX="-9" frameY="0" frameWidth="546" frameHeight="772"/>
+	<SubTexture name="tankman idle menu 10009" x="504" y="760" width="500" height="772" frameX="-9" frameY="0" frameWidth="546" frameHeight="772"/>
+	<SubTexture name="tankman idle menu 10010" x="504" y="760" width="500" height="772" frameX="-9" frameY="0" frameWidth="546" frameHeight="772"/>
+	<SubTexture name="tankman idle menu 10011" x="504" y="760" width="500" height="772" frameX="-9" frameY="0" frameWidth="546" frameHeight="772"/>
+	<SubTexture name="tankman idle menu 10012" x="504" y="760" width="500" height="772" frameX="-9" frameY="0" frameWidth="546" frameHeight="772"/>
+	<SubTexture name="tankman idle menu 10013" x="504" y="760" width="500" height="772" frameX="-9" frameY="0" frameWidth="546" frameHeight="772"/>
+</TextureAtlas>

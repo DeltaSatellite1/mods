@@ -1,0 +1,43 @@
+{
+	"storyName": "week 6 b sides",
+	"hideFreeplay": false,
+	"weekBackground": "school",
+	"weekBefore": "week5",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"senpai",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"Senpai-b",
+			"senpai-b",
+			[
+				255,
+				120,
+				191
+			]
+		],
+		[
+			"Roses-b",
+			"senpai-b",
+			[
+				255,
+				120,
+				191
+			]
+		],
+		[
+			"Thorns-b",
+			"spirit-b",
+			[
+				255,
+				220,
+				255
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Week 6"
+}

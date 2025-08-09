@@ -1,0 +1,559 @@
+{
+	"song": {
+		"speed": 3,
+		"stage": "sonicstage",
+		"player1": "bf",
+		"player2": "Sonic_fake",
+		"player3": null,
+		"events": [
+			[
+				0,
+				[
+					[
+						"Set GF Speed",
+						"2",
+						""
+					]
+				]
+			],
+			[
+				156.25,
+				[
+					[
+						"Change Scroll Speed",
+						"0.6",
+						"1"
+					]
+				]
+			],
+			[
+				30000,
+				[
+					[
+						"Replace stage layer",
+						"fg2",
+						"bg2"
+					]
+				]
+			],
+			[
+				30234.375,
+				[
+					[
+						"Replace stage layer",
+						"fg2",
+						"fg1"
+					]
+				]
+			],
+			[
+				32500,
+				[
+					[
+						"Change Scroll Speed",
+						"1",
+						"1"
+					]
+				]
+			],
+			[
+				33750,
+				[
+					[
+						"Set GF Speed",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				34609.375,
+				[
+					[
+						"Change Character",
+						"1",
+						"sonic"
+					]
+				]
+			],
+			[
+				34988.28125,
+				[
+					[
+						"Flash Camera",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				35000,
+				[
+					[
+						"BlackOut",
+						"false",
+						""
+					]
+				]
+			],
+			[
+				83750,
+				[
+					[
+						"noteskinchangeBF",
+						"",
+						""
+					]
+				]
+			],
+			[
+				84765.625,
+				[
+					[
+						"Zoom",
+						"1.5",
+						""
+					]
+				]
+			],
+			[
+				84921.875,
+				[
+					[
+						"noteskinchangeBF",
+						"invisiblenote",
+						""
+					],
+					[
+						"noteskinchangeOPPT",
+						"invisiblenote",
+						""
+					],
+					[
+						"quitarhud",
+						"",
+						""
+					]
+				]
+			],
+			[
+				84998.046875,
+				[
+					[
+						"Change Character",
+						"1",
+						"mightyline"
+					]
+				]
+			],
+			[
+				85000,
+				[
+					[
+						"lyrics",
+						"In the Notepad",
+						""
+					]
+				]
+			],
+			[
+				86250,
+				[
+					[
+						"lyrics",
+						"fates are written",
+						""
+					]
+				]
+			],
+			[
+				87500,
+				[
+					[
+						"lyrics",
+						"'cus Pandora",
+						""
+					]
+				]
+			],
+			[
+				88750,
+				[
+					[
+						"lyrics",
+						"didn't listen.",
+						""
+					]
+				]
+			],
+			[
+				90000,
+				[
+					[
+						"lyrics",
+						"Time will march,",
+						""
+					]
+				]
+			],
+			[
+				91093.75,
+				[
+					[
+						"lyrics",
+						"and here with me,",
+						""
+					]
+				]
+			],
+			[
+				92187.5,
+				[
+					[
+						"lyrics",
+						"THIS SCREEN'S THE LAST",
+						"#c940ff"
+					]
+				]
+			],
+			[
+				93437.5,
+				[
+					[
+						"lyrics",
+						"YOU'LL EVER SEE.",
+						"#c940ff"
+					]
+				]
+			],
+			[
+				94765.625,
+				[
+					[
+						"noteskinchangeOPPT",
+						"NOTE_assets",
+						""
+					],
+					[
+						"noteskinchangeBF",
+						"NOTE_assets",
+						""
+					],
+					[
+						"hudback",
+						"",
+						""
+					]
+				]
+			],
+			[
+				94843.75,
+				[
+					[
+						"Zoom",
+						"0.8",
+						""
+					]
+				]
+			],
+			[
+				94990.234375,
+				[
+					[
+						"Change Character",
+						"1",
+						"sonic"
+					]
+				]
+			],
+			[
+				95000,
+				[
+					[
+						"lyrics",
+						"",
+						""
+					]
+				]
+			],
+			[
+				103437.5,
+				[
+					[
+						"Play Animation",
+						"Laugh",
+						"sonic"
+					]
+				]
+			],
+			[
+				103515.625,
+				[
+					[
+						"Play Animation",
+						"Laugh",
+						"sonic"
+					]
+				]
+			],
+			[
+				103750,
+				[
+					[
+						"Play Animation",
+						"Laugh",
+						"sonic"
+					]
+				]
+			],
+			[
+				103906.25,
+				[
+					[
+						"Play Animation",
+						"Laugh",
+						"sonic"
+					]
+				]
+			],
+			[
+				104062.5,
+				[
+					[
+						"Play Animation",
+						"Laugh",
+						"sonic"
+					]
+				]
+			],
+			[
+				104218.75,
+				[
+					[
+						"Play Animation",
+						"Laugh",
+						"sonic"
+					]
+				]
+			],
+			[
+				104375,
+				[
+					[
+						"Play Animation",
+						"Laugh",
+						"sonic"
+					]
+				]
+			],
+			[
+				104453.125,
+				[
+					[
+						"Play Animation",
+						"Laugh",
+						"sonic"
+					]
+				]
+			],
+			[
+				104687.5,
+				[
+					[
+						"Play Animation",
+						"Laugh",
+						"sonic"
+					]
+				]
+			],
+			[
+				105000,
+				[
+					[
+						"Play Animation",
+						"Laugh",
+						"sonic"
+					]
+				]
+			],
+			[
+				105078.125,
+				[
+					[
+						"Play Animation",
+						"Laugh",
+						"sonic"
+					]
+				]
+			],
+			[
+				105156.25,
+				[
+					[
+						"Play Animation",
+						"Laugh",
+						"sonic"
+					]
+				]
+			],
+			[
+				105234.375,
+				[
+					[
+						"Play Animation",
+						"Laugh",
+						"sonic"
+					]
+				]
+			],
+			[
+				136140.625,
+				[
+					[
+						"Play Animation",
+						"prepping",
+						"sonic"
+					]
+				]
+			],
+			[
+				136250,
+				[
+					[
+						"Play Animation",
+						"ARGH",
+						"sonic"
+					]
+				]
+			],
+			[
+				136458.984375,
+				[
+					[
+						"Play Animation",
+						"ARGH",
+						"sonic"
+					]
+				]
+			],
+			[
+				136685.546875,
+				[
+					[
+						"Play Animation",
+						"ARGH",
+						"sonic"
+					]
+				]
+			],
+			[
+				136917.96875,
+				[
+					[
+						"Play Animation",
+						"ARGH",
+						"sonic"
+					]
+				]
+			],
+			[
+				137083.984375,
+				[
+					[
+						"Play Animation",
+						"ARGH",
+						"sonic"
+					]
+				]
+			],
+			[
+				137500,
+				[
+					[
+						"Play Animation",
+						"Laugh",
+						"sonic"
+					]
+				]
+			],
+			[
+				137890.625,
+				[
+					[
+						"Play Animation",
+						"Laugh",
+						"sonic"
+					]
+				]
+			],
+			[
+				138281.25,
+				[
+					[
+						"Play Animation",
+						"Laugh",
+						"sonic"
+					]
+				]
+			],
+			[
+				138359.375,
+				[
+					[
+						"Play Animation",
+						"Laugh",
+						"sonic"
+					]
+				]
+			],
+			[
+				138750,
+				[
+					[
+						"Play Animation",
+						"Laugh",
+						"sonic"
+					]
+				]
+			],
+			[
+				138828.125,
+				[
+					[
+						"Play Animation",
+						"Laugh",
+						"sonic"
+					]
+				]
+			],
+			[
+				138906.25,
+				[
+					[
+						"Play Animation",
+						"Laugh",
+						"sonic"
+					]
+				]
+			],
+			[
+				138984.375,
+				[
+					[
+						"Play Animation",
+						"Laugh",
+						"sonic"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf",
+		"bpm": 192,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "too-slow"
+	}
+}

@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="agotiMenu.png">
+	<!-- Created with Adobe Animate version 22.0.3.179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Idle0000" x="0" y="0" width="466" height="847" frameX="0" frameY="-3" frameWidth="466" frameHeight="850"/>
+	<SubTexture name="Idle0001" x="0" y="0" width="466" height="847" frameX="0" frameY="-3" frameWidth="466" frameHeight="850"/>
+	<SubTexture name="Idle0002" x="0" y="0" width="466" height="847" frameX="0" frameY="-3" frameWidth="466" frameHeight="850"/>
+	<SubTexture name="Idle0003" x="477" y="0" width="462" height="846" frameX="0" frameY="-4" frameWidth="466" frameHeight="850"/>
+	<SubTexture name="Idle0004" x="477" y="0" width="462" height="846" frameX="0" frameY="-4" frameWidth="466" frameHeight="850"/>
+	<SubTexture name="Idle0005" x="477" y="0" width="462" height="846" frameX="0" frameY="-4" frameWidth="466" frameHeight="850"/>
+	<SubTexture name="Idle0006" x="950" y="0" width="458" height="848" frameX="-4" frameY="-2" frameWidth="466" frameHeight="850"/>
+	<SubTexture name="Idle0007" x="950" y="0" width="458" height="848" frameX="-4" frameY="-2" frameWidth="466" frameHeight="850"/>
+	<SubTexture name="Idle0008" x="950" y="0" width="458" height="848" frameX="-4" frameY="-2" frameWidth="466" frameHeight="850"/>
+	<SubTexture name="Idle0009" x="1419" y="0" width="456" height="850" frameX="-5" frameY="0" frameWidth="466" frameHeight="850"/>
+	<SubTexture name="Idle0010" x="1419" y="0" width="456" height="850" frameX="-5" frameY="0" frameWidth="466" frameHeight="850"/>
+	<SubTexture name="Idle0011" x="1419" y="0" width="456" height="850" frameX="-5" frameY="0" frameWidth="466" frameHeight="850"/>
+	<SubTexture name="Idle0012" x="1886" y="0" width="457" height="850" frameX="-5" frameY="0" frameWidth="466" frameHeight="850"/>
+	<SubTexture name="Idle0013" x="1886" y="0" width="457" height="850" frameX="-5" frameY="0" frameWidth="466" frameHeight="850"/>
+	<SubTexture name="Idle0014" x="1886" y="0" width="457" height="850" frameX="-5" frameY="0" frameWidth="466" frameHeight="850"/>
+</TextureAtlas>

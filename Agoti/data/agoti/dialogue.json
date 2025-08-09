@@ -1,0 +1,76 @@
+{
+	"dialogue": [
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "agoti",
+			"boxState": "angry",
+			"expression": "angry",
+			"text": "YOU BASTARDS."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "agoti",
+			"boxState": "angry",
+			"expression": "angry",
+			"text": "HAVE YOU COME IN HERE JUST TO INSULT ME?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "agoti",
+			"boxState": "angry",
+			"expression": "angry",
+			"text": "I haven't seen the outside world in years..."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "agoti",
+			"boxState": "angry",
+			"expression": "angry",
+			"text": "AND THIS IS WHAT I GET?!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "agoti",
+			"boxState": "angry",
+			"expression": "angry",
+			"text": "Well then, since you and I have broken this world's curse..."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "agoti",
+			"boxState": "angry",
+			"expression": "angry",
+			"text": "YOU TWO WILL BE MY NEW SUBSTITUTES."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "agoti",
+			"boxState": "angry",
+			"expression": "angry",
+			"text": "YOU."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "agoti",
+			"boxState": "angry",
+			"expression": "angry",
+			"text": "FUCKING."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "agoti",
+			"boxState": "angry",
+			"expression": "angry",
+			"text": "FREAKS."
+		}
+	]
+}

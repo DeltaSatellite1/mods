@@ -1,0 +1,50 @@
+{
+	"storyName": "b side week 1",
+	"difficulties": "",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"Bopeebo-b",
+			"dad-b",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Fresh-b",
+			"dad-b",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"DadBattle-b",
+			"dad-b",
+			[
+				216,
+				125,
+				162
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "",
+	"hiddenUntilUnlocked": false
+}

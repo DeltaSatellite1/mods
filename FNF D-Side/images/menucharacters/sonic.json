@@ -1,0 +1,10 @@
+{
+	"confirm_anim": "M Dad Idle",
+	"idle_anim": "sonic",
+	"position": [
+		356,
+		84
+	],
+	"scale": 0.52,
+	"image": "sonic"
+}

@@ -1,0 +1,7 @@
+{
+	"name": "Vs Agoti",
+	"description": "The original Vs Agoti, ported to Psych Engine by CarrotIsABot!",
+	"restart":false,
+	"runsGlobally": false,
+	"color": [170, 0, 255]
+}

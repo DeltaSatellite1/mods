@@ -1,0 +1,71 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				-220
+			],
+			"anim": "scared",
+			"fps": 24,
+			"name": "Scared",
+			"indices": [
+				0,
+				1,
+				2,
+				3
+			]
+		},
+		{
+			"offsets": [
+				0,
+				-220
+			],
+			"indices": [
+				0,
+				1,
+				2,
+				3
+			],
+			"fps": 24,
+			"anim": "danceRight",
+			"loop": true,
+			"name": "Scared"
+		},
+		{
+			"offsets": [
+				0,
+				-220
+			],
+			"indices": [
+				0,
+				1,
+				2,
+				3
+			],
+			"fps": 24,
+			"anim": "danceLeft",
+			"loop": true,
+			"name": "Scared"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/whitty-gf",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "gf",
+	"flip_x": false,
+	"healthbar_colors": [
+		165,
+		0,
+		77
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

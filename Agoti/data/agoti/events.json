@@ -1,0 +1,99 @@
+{
+	"song": {
+		"speed": 3.2,
+		"stage": "void_2",
+		"player1": "bf-car",
+		"player2": "angry_agoti",
+		"player3": null,
+		"events": [
+			[
+				9920.63492063492,
+				[
+					[
+						"NoteSpin",
+						"",
+						""
+					]
+				]
+			],
+			[
+				19603.1746031746,
+				[
+					[
+						"NoteSpin",
+						"",
+						""
+					]
+				]
+			],
+			[
+				30238.0952380952,
+				[
+					[
+						"NoteSpin",
+						"",
+						""
+					]
+				]
+			],
+			[
+				50555.5555555556,
+				[
+					[
+						"NoteSpin",
+						"",
+						""
+					]
+				]
+			],
+			[
+				55634.9206349207,
+				[
+					[
+						"NoteSpin",
+						"",
+						""
+					]
+				]
+			],
+			[
+				65555.5555555556,
+				[
+					[
+						"NoteSpin",
+						"",
+						""
+					]
+				]
+			],
+			[
+				75793.6507936509,
+				[
+					[
+						"NoteSpin",
+						"",
+						""
+					]
+				]
+			],
+			[
+				96269.8412698414,
+				[
+					[
+						"NoteSpin",
+						"",
+						""
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf-alt",
+		"bpm": 189,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "A.G.O.T.I"
+	}
+}

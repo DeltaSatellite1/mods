@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-3,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "Whitty idle dance"
+		},
+		{
+			"offsets": [
+				47,
+				18
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "Whitty Sing Note LEFT"
+		},
+		{
+			"offsets": [
+				20,
+				-122
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "Whitty Sing Note DOWN"
+		},
+		{
+			"offsets": [
+				18,
+				108
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "Whitty Sing Note UP"
+		},
+		{
+			"offsets": [
+				22,
+				-76
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "whitty sing note right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/whittycrazy",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "whittycrazy",
+	"flip_x": false,
+	"healthbar_colors": [
+		207,
+		0,
+		40
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

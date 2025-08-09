@@ -1,0 +1,99 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-229
+			],
+			"anim": "danceRight",
+			"fps": 24,
+			"name": "Idle Right",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-229
+			],
+			"anim": "danceLeft",
+			"fps": 24,
+			"name": "Idle Left",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-22,
+				-241
+			],
+			"anim": "sad",
+			"fps": 24,
+			"name": "Sad",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11
+			]
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-2,
+				-227
+			],
+			"anim": "scared",
+			"fps": 24,
+			"name": "Scared",
+			"indices": [
+				0,
+				1,
+				2,
+				3
+			]
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/whitty-gf",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "gf",
+	"flip_x": false,
+	"healthbar_colors": [
+		165,
+		0,
+		77
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

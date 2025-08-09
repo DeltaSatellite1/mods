@@ -1,0 +1,32 @@
+{
+	"storyName": "Spooky Month (High Quality)",
+	"difficulties": "normal, hard",
+	"hideFreeplay": false,
+	"weekBackground": "halloween",
+	"weekBefore": "",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"South(HQ)",
+			"spookyhq",
+			[
+				189,
+				56,
+				176
+			]
+		]
+	],
+	"weekCharacters": [
+		"spooky",
+		"bf",
+		"gf"
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "Spooky Month (High Quality)"
+}

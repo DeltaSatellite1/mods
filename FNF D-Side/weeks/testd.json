@@ -1,0 +1,26 @@
+{
+	"storyName": "",
+	"hideFreeplay": false,
+	"weekBackground": "weekimage",
+	"difficulties": "test",
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"d-sbf",
+		"d-sides-gf"
+	],
+	"songs": [
+		[
+			"Test",
+			"bf-pixel",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"hideStoryMode": true,
+	"weekName": "Tutorial"
+}

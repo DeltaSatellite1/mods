@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-6,
+				-1
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Idle_Frozen"
+		},
+		{
+			"offsets": [
+				-5,
+				1
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idk",
+			"indices": [],
+			"name": "idk"
+		},
+		{
+			"offsets": [
+				-7,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idk2",
+			"indices": [],
+			"name": "idk-2"
+		},
+		{
+			"offsets": [
+				2,
+				-1
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idk3",
+			"indices": [],
+			"name": "idk-3"
+		},
+		{
+			"offsets": [
+				-3,
+				-3
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idk4",
+			"indices": [],
+			"name": "idk-4"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/snowgrave",
+	"position": [
+		-160,
+		290
+	],
+	"healthicon": "face",
+	"flip_x": true,
+	"healthbar_colors": [
+		161,
+		161,
+		161
+	],
+	"camera_position": [
+		140,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

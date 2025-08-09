@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Ratings.png">
+	<!-- Created with Samsung Smart Fridge -->
+<SubTexture name="A0000" x="0" y="0" width="419" height="442" frameX="-12" frameY="-14" frameWidth="424" frameHeight="450" />
+<SubTexture name="B0000" x="419" y="0" width="388" height="443" frameX="-11" frameY="-14" frameWidth="390" frameHeight="450" />
+<SubTexture name="C0000" x="0" y="443" width="358" height="444" frameX="-9" frameY="-13" frameWidth="357" frameHeight="450" />
+<SubTexture name="D0000" x="358" y="443" width="384" height="443" frameX="-11" frameY="-14" frameWidth="386" frameHeight="450" />
+<SubTexture name="E0000" x="0" y="887" width="375" height="446" frameX="-8" frameY="-12" frameWidth="371" frameHeight="450" />
+<SubTexture name="F0000" x="375" y="887" width="422" height="443" frameX="-12" frameY="-13" frameWidth="427" frameHeight="450" />
+<SubTexture name="S0000" x="0" y="1333" width="414" height="443" frameX="-11" frameY="-13" frameWidth="416" frameHeight="450" />
+<SubTexture name="S+0000" x="414" y="1333" width="438" height="442" frameX="-14" frameY="-14" frameWidth="446" frameHeight="450" />
+</TextureAtlas>

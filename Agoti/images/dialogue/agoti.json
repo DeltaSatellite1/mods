@@ -1,0 +1,63 @@
+{
+	"dialogue_pos": "left",
+	"position": [
+		0,
+		50
+	],
+	"scale": 1.25,
+	"animations": [
+		{
+			"anim": "talk",
+			"loop_offsets": [
+				-141,
+				10
+			],
+			"idle_offsets": [
+				-141,
+				10
+			],
+			"loop_name": "Agoti_Dialogue_A",
+			"idle_name": "Agoti_Dialogue_A0007"
+		},
+		{
+			"loop_offsets": [
+				-141,
+				10
+			],
+			"anim": "pissed",
+			"idle_offsets": [
+				-141,
+				10
+			],
+			"loop_name": "Agoti_Dialogue_B",
+			"idle_name": "Agoti_Dialogue_B0007"
+		},
+		{
+			"loop_name": "Agoti_Dialogue_D",
+			"idle_offsets": [
+				-121,
+				70
+			],
+			"idle_name": "Agoti_Dialogue_D0007",
+			"anim": "angry",
+			"loop_offsets": [
+				-121,
+				70
+			]
+		},
+		{
+			"loop_name": "Agoti_Dialogue_C",
+			"idle_offsets": [
+				-141,
+				10
+			],
+			"idle_name": "Agoti_Dialogue_C0007",
+			"anim": "confused",
+			"loop_offsets": [
+				-141,
+				10
+			]
+		}
+	],
+	"image": "Agoti_Dialogue"
+}

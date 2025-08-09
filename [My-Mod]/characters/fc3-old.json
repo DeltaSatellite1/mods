@@ -1,0 +1,87 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [85, -76],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "FC Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [-10, -131],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "FC Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [-46, 7],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "FC Up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [-88, -37],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "FC Right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [187, -81],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "FC Miss Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [-15, -149],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "FC Miss Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [-36, 87],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "FC Miss Up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [-44, -8],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "FC Miss Right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [0, 0],
+			"anim": "idle",
+			"fps": 24,
+			"name": "FC Idle",
+			"indices": []
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/old-fc3/character",
+	"position": [-30, -60],
+	"healthicon": "fc3old",
+	"flip_x": false,
+	"healthbar_colors": [145, 163, 154],
+	"camera_position": [130, 160],
+	"sing_duration": 4,
+	"scale": 0.9,
+	"_editor_isPlayer": false
+}

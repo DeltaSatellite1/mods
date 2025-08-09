@@ -1,0 +1,48 @@
+{
+	"songs": [
+		[
+			"lo-fight",
+			"whitty",
+			[
+				23,
+				24,
+				50
+			]
+		],
+		[
+			"overhead",
+			"whitty",
+			[
+				23,
+				24,
+				50
+			]
+		],
+		[
+			"ballistic",
+			"whittycrazy",
+			[
+				207,
+				0,
+				40
+			]
+		]
+	],
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"weekCharacters": [
+		"whitty",
+		"bf",
+		"gf"
+	],
+	"storyName": "back alley blitz",
+	"weekName": "week7",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}

@@ -1,0 +1,34 @@
+{
+	"storyName": "week 2 b sides",
+	"hideFreeplay": false,
+	"weekBackground": "halloween",
+	"weekBefore": "week1",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"spooky",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"Spookeez-b",
+			"spookeez-b",
+			[
+				34,
+				51,
+				68
+			]
+		],
+		[
+			"South-b",
+			"spookeez-b",
+			[
+				34,
+				51,
+				68
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Week 2"
+}

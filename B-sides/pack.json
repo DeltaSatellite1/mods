@@ -1,0 +1,6 @@
+{
+	"name": "B-sides",
+	"description": "Play the B-sides mod on Psych Engine (Ported By KimoPkm23)",
+	"restart":false,
+	"color": [255, 105, 180]
+}

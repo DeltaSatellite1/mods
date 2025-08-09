@@ -1,0 +1,113 @@
+{
+	"storyName": "Your New Week",
+	"difficulties": "",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"weekBefore": "",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"17-anterograde",
+			"nmari",
+			[
+				255,
+				255,
+				255
+			]
+		],
+		[
+			"Crucify",
+			"face",
+			[
+				255,
+				255,
+				255
+			]
+		],
+		[
+			"danger",
+			"radar",
+			[
+				0,
+				60,
+				80
+			]
+		],
+		[
+			"reterminal",
+			"mari",
+			[
+				255,
+				255,
+				255
+			]
+		],
+		[
+			"darnell-rix",
+			"dad",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"terminal-old",
+			"face",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"matrix-derivative",
+			"face",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"fc3-bad-girl",
+			"face",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"voting-time2",
+			"face",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"startup",
+			"face",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "Custom Week"
+}
