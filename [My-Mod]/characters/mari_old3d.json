@@ -1,0 +1,55 @@
+{
+	"animations": [
+		{
+			"offsets": [160, 100],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Left"
+		},
+		{
+			"offsets": [0, 510],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Idle"
+		},
+		{
+			"offsets": [20, 60],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Down"
+		},
+		{
+			"offsets": [-30, 265],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Up"
+		},
+		{
+			"offsets": [40, 180],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Right"
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/mari_old3d/mari_old3d",
+	"position": [0, 120],
+	"healthicon": "mari",
+	"flip_x": false,
+	"healthbar_colors": [255, 235, 0],
+	"camera_position": [60, -40],
+	"sing_duration": 6.1,
+	"scale": 0.72,
+	"_editor_isPlayer": false
+}
