@@ -1,0 +1,17 @@
+{
+	"directory": "ikuStage",
+	"defaultZoom": 0.612,
+	"isPixelStage": false,
+
+	"boyfriend": [-100, -80],
+	"girlfriend": [360, 180],
+	"opponent": [-900, -105],
+	"hide_girlfriend": true,
+
+	"camera_boyfriend": [-103, -120],
+	"camera_opponent": [160, -70],
+	"camera_girlfriend": [0, 0],
+	"camera_speed": 0.8,
+	"initialCamPos": [-100,200],
+	"centerCamPos": [-100,250]
+}

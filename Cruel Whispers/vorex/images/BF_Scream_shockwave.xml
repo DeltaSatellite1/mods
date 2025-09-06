@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="BF_Scream_shockwave.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Scream effect instance 10000" x="10" y="10" width="853" height="761" frameX="-144" frameY="-256" frameWidth="1187" frameHeight="1223"/>
+	<SubTexture name="Scream effect instance 10001" x="873" y="10" width="1005" height="914" frameX="-36" frameY="-127" frameWidth="1187" frameHeight="1223"/>
+	<SubTexture name="Scream effect instance 10002" x="1888" y="10" width="871" height="874" frameX="-123" frameY="-123" frameWidth="1187" frameHeight="1223"/>
+	<SubTexture name="Scream effect instance 10003" x="2769" y="10" width="895" height="1005" frameX="-168" frameY="-83" frameWidth="1187" frameHeight="1223"/>
+	<SubTexture name="Scream effect instance 10004" x="3674" y="10" width="1064" height="1179" frameX="-83" frameY="0" frameWidth="1187" frameHeight="1223"/>
+	<SubTexture name="Scream effect instance 10005" x="4748" y="10" width="862" height="895" frameX="-217" frameY="-184" frameWidth="1187" frameHeight="1223"/>
+	<SubTexture name="Scream effect instance 10006" x="5620" y="10" width="1005" height="911" frameX="-182" frameY="-185" frameWidth="1187" frameHeight="1223"/>
+	<SubTexture name="Scream effect instance 10007" x="6635" y="10" width="900" height="841" frameX="-201" frameY="-259" frameWidth="1187" frameHeight="1223"/>
+	<SubTexture name="Scream effect instance 10008" x="10" y="1199" width="845" height="958" frameX="-201" frameY="-182" frameWidth="1187" frameHeight="1223"/>
+	<SubTexture name="Scream effect instance 10009" x="865" y="1199" width="929" height="1096" frameX="-134" frameY="-127" frameWidth="1187" frameHeight="1223"/>
+	<SubTexture name="Scream effect instance 10010" x="1804" y="1199" width="1064" height="1142" frameX="-83" frameY="-37" frameWidth="1187" frameHeight="1223"/>
+	<SubTexture name="Scream effect instance 10011" x="2878" y="1199" width="1006" height="917" frameX="-36" frameY="-124" frameWidth="1187" frameHeight="1223"/>
+	<SubTexture name="Scream effect instance 10012" x="3894" y="1199" width="1009" height="893" frameX="-131" frameY="-127" frameWidth="1187" frameHeight="1223"/>
+	<SubTexture name="Scream effect instance 10013" x="4913" y="1199" width="938" height="998" frameX="-180" frameY="-76" frameWidth="1187" frameHeight="1223"/>
+	<SubTexture name="Scream effect instance 10014" x="5861" y="1199" width="921" height="1083" frameX="-172" frameY="0" frameWidth="1187" frameHeight="1223"/>
+	<SubTexture name="Scream effect instance 10015" x="6792" y="1199" width="943" height="1060" frameX="-125" frameY="-127" frameWidth="1187" frameHeight="1223"/>
+	<SubTexture name="Scream effect instance 10016" x="10" y="2351" width="1064" height="1142" frameX="-83" frameY="-37" frameWidth="1187" frameHeight="1223"/>
+	<SubTexture name="Scream effect instance 10017" x="1084" y="2351" width="963" height="863" frameX="-79" frameY="-184" frameWidth="1187" frameHeight="1223"/>
+	<SubTexture name="Scream effect instance 10018" x="2057" y="2351" width="1079" height="1006" frameX="0" frameY="-132" frameWidth="1187" frameHeight="1223"/>
+	<SubTexture name="Scream effect instance 10019" x="3146" y="2351" width="929" height="968" frameX="-148" frameY="-152" frameWidth="1187" frameHeight="1223"/>
+</TextureAtlas>

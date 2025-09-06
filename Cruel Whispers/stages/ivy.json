@@ -1,0 +1,15 @@
+{
+	"directory": "ivy",
+	"defaultZoom": 0.615,
+	"isPixelStage": false,
+
+	"boyfriend": [ 1,  190 ],
+	"girlfriend": [360, 180],
+	"opponent": [ -1241, 29 ],
+	"hide_girlfriend": true,
+
+	"camera_boyfriend": [-350, -70],
+	"camera_opponent": [450, -60],
+	"camera_girlfriend": [0, 0],
+	"camera_speed": 1
+}

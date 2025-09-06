@@ -1,0 +1,18 @@
+{
+	"directory": "silex",
+	"defaultZoom": 0.66,
+	"isPixelStage": false,
+
+	"boyfriend": [ 1380, 370 ],
+	"girlfriend": [ 400, 100 ],
+	"opponent": [ 400, 305 ],
+	"ect": [ 1380, 725, 0.255, 1130, 725, 0.65, 1380, 605, 1 ],
+	"hide_girlfriend": true,
+
+	"camera_boyfriend": [ -20, -150 ],
+	"camera_opponent": [ 0, 70 ],
+	"camera_girlfriend": [ 0, 0 ],
+	"camera_speed": 1.2,
+	"initialCamPos": [1200,600],
+	"centerCamPos": [1200,600]
+}

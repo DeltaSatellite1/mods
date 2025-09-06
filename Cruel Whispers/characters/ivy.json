@@ -1,0 +1,211 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "IVle instance 1",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				4,
+				108
+			],
+			"anim": "attack",
+			"fps": 24,
+			"name": "Attack01 instance 1",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				20,
+				-104
+			],
+			"anim": "attack2",
+			"fps": 24,
+			"name": "Attack02 instance 1",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				129,
+				0
+			],
+			"anim": "singLEFT-end",
+			"fps": 24,
+			"name": "Left instance 1",
+			"indices": [
+				11,
+				12
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				11,
+				-14
+			],
+			"anim": "singDOWN-end",
+			"fps": 24,
+			"name": "Down instance 1",
+			"indices": [
+				13,
+				14
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				54,
+				87
+			],
+			"anim": "singUP-end",
+			"fps": 24,
+			"name": "Up instance 1",
+			"indices": [
+				9,
+				10
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				1,
+				3
+			],
+			"anim": "singRIGHT-end",
+			"fps": 24,
+			"name": "Right instance 1",
+			"indices": [
+				11,
+				12
+			]
+		},
+		{
+			"offsets": [
+				189,
+				2
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10
+			],
+			"name": "Left instance 1"
+		},
+		{
+			"offsets": [
+				25,
+				-11
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12
+			],
+			"name": "Down instance 1"
+		},
+		{
+			"offsets": [
+				4,
+				87
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8
+			],
+			"name": "Up instance 1"
+		},
+		{
+			"offsets": [
+				1,
+				3
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10
+			],
+			"name": "Right instance 1"
+		},
+		{
+			"offsets": [
+				395,
+				52
+			],
+			"loop": false,
+			"fps": 34,
+			"anim": "preattack",
+			"indices": [],
+			"name": "Preattack01 instance 1"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Ivy",
+	"position": [
+		40,
+		180
+	],
+	"healthicon": "dad",
+	"flip_x": false,
+	"healthbar_colors": [
+		175,
+		102,
+		206
+	],
+	"camera_position": [
+		-170,
+		-50
+	],
+	"sing_duration": 4.00000000000001,
+	"scale": 0.9
+}

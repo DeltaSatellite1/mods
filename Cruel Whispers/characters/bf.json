@@ -1,0 +1,454 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				-5,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "BF Idle  instance 1",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				9,
+				-4
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "BF Left instance 1",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-35,
+				-4
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "BF Right instance 1",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-24,
+				-58
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Down  instance 1",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-40,
+				22
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "BF Up instance 1",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				98,
+				3
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "MissLeft instance 1",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				44,
+				-37
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "MissDown instance 1",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-41,
+				44
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "MissUp instance 1",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				54,
+				3
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "MissRight instance 1",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				14,
+				-12
+			],
+			"anim": "duck",
+			"fps": 24,
+			"name": "Duck instance 1",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				14,
+				-12
+			],
+			"anim": "duckback",
+			"fps": 24,
+			"name": "Duck instance 1",
+			"indices": [7,6,5,4,3,2,1,0]
+		},
+		{
+			"loop": true,
+			"offsets": [
+				7,
+				-135
+			],
+			"anim": "duckidle",
+			"fps": 24,
+			"name": "DuckIdle instance 1",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				40,
+				-143
+			],
+			"anim": "ducksingLEFT",
+			"fps": 24,
+			"name": "DuckL instance 1",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-8,
+				-135
+			],
+			"anim": "ducksingRIGHT",
+			"fps": 24,
+			"name": "DuckR instance 1",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				7,
+				-149
+			],
+			"anim": "ducksingDOWN",
+			"fps": 24,
+			"name": "DuckD instance 1",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-2,
+				-128
+			],
+			"anim": "ducksingUP",
+			"fps": 24,
+			"name": "DuckU instance 1",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				58,
+				-129
+			],
+			"anim": "ducksingLEFTmiss",
+			"fps": 24,
+			"name": "DuckMiss instance 1",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				59,
+				-130
+			],
+			"anim": "ducksingDOWNmiss",
+			"fps": 24,
+			"name": "DuckMiss instance 1",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				62,
+				-129
+			],
+			"anim": "ducksingUPmiss",
+			"fps": 24,
+			"name": "DuckMiss instance 1",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				61,
+				-128
+			],
+			"anim": "ducksingRIGHTmiss",
+			"fps": 24,
+			"name": "DuckMiss instance 1",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-5,
+				-8
+			],
+			"anim": "escape",
+			"fps": 24,
+			"name": "Escape instance 1",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "fall",
+			"fps": 24,
+			"name": "Fall instance 1",
+			"indices": []
+		},
+		{
+			"offsets": [
+				140,
+				58
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "damageConstant",
+			"indices": [],
+			"name": "BF DMG LOOP instance 1"
+		},
+		{
+			"offsets": [
+				24,
+				44
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "damage",
+			"indices": [],
+			"name": "BF DMG instance 1"
+		},
+		{
+			"offsets": [
+				24,
+				44
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "jumpdamage",
+			"indices": [],
+			"name": "DAMAGE MID AIR instance 1"
+		},
+		{
+			"offsets": [
+				24,
+				44
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "duckdamage",
+			"indices": [],
+			"name": "BF DMG instance 1"
+		},
+		{
+			"offsets": [
+				0,
+				10
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "dodge",
+			"indices": [],
+			"name": "Space dodge instance 1"
+		},
+		{
+			"offsets": [
+				-8,
+				-29
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "land",
+			"indices": [],
+			"name": "Land instance 1"
+		},
+		{
+			"offsets": [
+				10,
+				-50
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "jump",
+			"indices": [],
+			"name": "Jump instance 1"
+		},
+		{
+			"loop": true,
+			"offsets": [
+				10,
+				-50
+			],
+			"anim": "jumpidle",
+			"fps": 24,
+			"name": "Jump instance 1",
+			"indices": [
+				50
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				34,
+				-44
+			],
+			"anim": "jumpsingLEFT",
+			"fps": 24,
+			"name": "AirLeft instance 1",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-5,
+				-54
+			],
+			"anim": "jumpsingRIGHT",
+			"fps": 24,
+			"name": "AirRight instance 1",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				6,
+				-78
+			],
+			"anim": "jumpsingDOWN",
+			"fps": 24,
+			"name": "AirDown instance 1",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-5,
+				-30
+			],
+			"anim": "jumpsingUP",
+			"fps": 24,
+			"name": "AirUp instance 1",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				28,
+				-59
+			],
+			"anim": "jumpsingLEFTmiss",
+			"fps": 24,
+			"name": "Miss instance 1",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				28,
+				-59
+			],
+			"anim": "jumpsingDOWNmiss",
+			"fps": 24,
+			"name": "Miss instance 1",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				28,
+				-59
+			],
+			"anim": "jumpsingUPmiss",
+			"fps": 24,
+			"name": "Miss instance 1",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				28,
+				-59
+			],
+			"anim": "jumpsingRIGHTmiss",
+			"fps": 24,
+			"name": "Miss instance 1",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				8,
+				31
+			],
+			"anim": "dodgevorex",
+			"fps": 24,
+			"name": "Dodge Vorex attack instance 1",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/BF_FINAL_FINAL",
+	"position": [
+		80,
+		330
+	],
+	"healthicon": "bf",
+	"flip_x": true,
+	"healthbar_colors": [
+		49,
+		176,
+		209
+	],
+	"camera_position": [
+		0,
+		80
+	],
+	"sing_duration": 4,
+	"scale": 0.7
+}

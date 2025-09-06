@@ -1,0 +1,297 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				4,
+				-41
+			],
+			"anim": "duck",
+			"fps": 24,
+			"name": "Duck instance 1",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				4,
+				-41
+			],
+			"anim": "duckidle",
+			"fps": 24,
+			"name": "Duck instance 1",
+			"indices": [ 6 ]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				4,
+				-41
+			],
+			"anim": "ducksingLEFT",
+			"fps": 24,
+			"name": "Duck instance 1",
+			"indices": [ 6 ]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				4,
+				-41
+			],
+			"anim": "ducksingRIGHT",
+			"fps": 24,
+			"name": "Duck instance 1",
+			"indices": [ 6 ]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				4,
+				-41
+			],
+			"anim": "ducksingDOWN",
+			"fps": 24,
+			"name": "Duck instance 1",
+			"indices": [ 6 ]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				4,
+				-41
+			],
+			"anim": "ducksingUP",
+			"fps": 24,
+			"name": "Duck instance 1",
+			"indices": [ 6 ]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				4,
+				-41
+			],
+			"anim": "ducksingLEFTmiss",
+			"fps": 24,
+			"name": "Duck instance 1",
+			"indices": [ 6 ]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				4,
+				-41
+			],
+			"anim": "ducksingDOWNmiss",
+			"fps": 24,
+			"name": "Duck instance 1",
+			"indices": [ 6 ]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				4,
+				-41
+			],
+			"anim": "ducksingUPmiss",
+			"fps": 24,
+			"name": "Duck instance 1",
+			"indices": [ 6 ]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				4,
+				-41
+			],
+			"anim": "ducksingRIGHTmiss",
+			"fps": 24,
+			"name": "Duck instance 1",
+			"indices": [ 6 ]
+		},
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				10
+			],
+			"anim": "jump",
+			"fps": 24,
+			"name": "Jump instance 1",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				10
+			],
+			"anim": "jumpidle",
+			"fps": 24,
+			"name": "Jump instance 1",
+			"indices": [ 1 ]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				10
+			],
+			"anim": "jumpsingLEFT",
+			"fps": 24,
+			"name": "Jump instance 1",
+			"indices": [ 1 ]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				10
+			],
+			"anim": "jumpsingRIGHT",
+			"fps": 24,
+			"name": "Jump instance 1",
+			"indices": [ 1 ]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				10
+			],
+			"anim": "jumpsingDOWN",
+			"fps": 24,
+			"name": "Jump instance 1",
+			"indices": [ 1 ]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				10
+			],
+			"anim": "jumpsingUP",
+			"fps": 24,
+			"name": "Jump instance 1",
+			"indices": [ 1 ]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				10
+			],
+			"anim": "jumpsingLEFTmiss",
+			"fps": 24,
+			"name": "Jump instance 1",
+			"indices": [ 1 ]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				10
+			],
+			"fps": 24,
+			"name": "Jump instance 1",
+			"indices": [ 1 ]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				10
+			],
+			"anim": "jumpsingUPmiss",
+			"fps": 24,
+			"name": "Jump instance 1",
+			"indices": [ 1 ]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				10
+			],
+			"anim": "jumpsingRIGHTmiss",
+			"fps": 24,
+			"name": "Jump instance 1",
+			"indices": [ 1 ]
+		},
+		{
+			"offsets": [
+				-5,
+				0
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "BF instance 1"
+		},
+		{
+			"offsets": [
+				3,
+				-1
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Left instance 1"
+		},
+		{
+			"offsets": [
+				-13,
+				-4
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Right instance 1"
+		},
+		{
+			"offsets": [
+				-12,
+				-6
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Down instance 10"
+		},
+		{
+			"offsets": [
+				-15,
+				10
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Up instance 1"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/BF_smoll",
+	"position": [
+		-460,
+		600
+	],
+	"healthicon": "bf",
+	"flip_x": true,
+	"healthbar_colors": [
+		49,
+		176,
+		209
+	],
+	"camera_position": [
+		-290,
+		-70
+	],
+	"sing_duration": 4,
+	"scale": 0.7
+}

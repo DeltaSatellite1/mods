@@ -1,0 +1,235 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-18,
+				24
+			],
+			"loop": false,
+			"fps": 20,
+			"anim": "tp",
+			"indices": [],
+			"name": "Charge instance 1"
+		},
+		{
+			"offsets": [
+				23,
+				-82
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "atk",
+			"indices": [],
+			"name": "Attack instance 1"
+		},
+		{
+			"offsets": [
+				-80,
+				-30
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "beam",
+			"indices": [],
+			"name": "Beam instance 1"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Idle instance 1"
+		},
+		{
+			"offsets": [
+				-120,
+				10
+			],
+			"loop": false,
+			"fps": 20,
+			"anim": "charge",
+			"indices": [],
+			"name": "Charge instance 1"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-30,
+				-10
+			],
+			"anim": "singLEFT",
+			"fps": 20,
+			"name": "Left instance 1",
+			"indices": [
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10
+			]
+		},
+		{
+			"offsets": [
+				-30,
+				-10
+			],
+			"loop": false,
+			"fps": 20,
+			"anim": "singLEFT-end",
+			"indices": [
+				11,
+				12,
+				13,
+				14,
+				15,
+				16,
+				17,
+				18,
+				19,
+				20,
+				21,
+				22,
+				23,
+				24,
+				25
+			],
+			"name": "Left instance 1"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-140,
+				-40
+			],
+			"anim": "singRIGHT",
+			"fps": 20,
+			"name": "Right instance 1",
+			"indices": [
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-140,
+				-40
+			],
+			"anim": "singRIGHT-end",
+			"fps": 20,
+			"name": "Right instance 1",
+			"indices": [
+				11,
+				12,
+				13,
+				14,
+				15
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-109,
+				-100
+			],
+			"anim": "singDOWN",
+			"fps": 20,
+			"name": "Down instance 1",
+			"indices": [
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-109,
+				-100
+			],
+			"anim": "singDOWN-end",
+			"fps": 20,
+			"name": "Down instance 1",
+			"indices": [
+				9,
+				10,
+				11,
+				12
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-41,
+				50
+			],
+			"anim": "singUP",
+			"fps": 20,
+			"name": "Up instance 1",
+			"indices": [
+				1,
+				2,
+				3,
+				4,
+				5,
+				6
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-41,
+				50
+			],
+			"anim": "singUP-end",
+			"fps": 20,
+			"name": "Up instance 1",
+			"indices": [
+				7,
+				8,
+				9
+			]
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Silex_Sprites_Final",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "face",
+	"flip_x": false,
+	"healthbar_colors": [
+		55,
+		15,
+		95
+	],
+	"camera_position": [
+		290,
+		-20
+	],
+	"sing_duration": 6,
+	"scale": 1.15
+}

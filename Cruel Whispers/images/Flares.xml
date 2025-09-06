@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Flares.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="FlareDuck instance 10000" x="10" y="10" width="296" height="309" frameX="-586" frameY="-223" frameWidth="916" frameHeight="567"/>
+	<SubTexture name="FlareDuck instance 10001" x="316" y="10" width="344" height="358" frameX="-560" frameY="-198" frameWidth="916" frameHeight="567"/>
+	<SubTexture name="FlareDuck instance 10002" x="670" y="10" width="345" height="360" frameX="-556" frameY="-196" frameWidth="916" frameHeight="567"/>
+	<SubTexture name="FlareDuck instance 10003" x="1025" y="10" width="301" height="312" frameX="-578" frameY="-220" frameWidth="916" frameHeight="567"/>
+	<SubTexture name="FlareDuck instance 10004" x="1336" y="10" width="272" height="301" frameX="-598" frameY="-227" frameWidth="916" frameHeight="567"/>
+	<SubTexture name="FlareDuck instance 10005" x="1618" y="10" width="349" height="385" frameX="-560" frameY="-181" frameWidth="916" frameHeight="567"/>
+	<SubTexture name="FlareDuck instance 10006" x="1977" y="10" width="342" height="378" frameX="-564" frameY="-183" frameWidth="916" frameHeight="567"/>
+	<SubTexture name="FlareDuck instance 10007" x="2329" y="10" width="306" height="336" frameX="-582" frameY="-203" frameWidth="916" frameHeight="567"/>
+	<SubTexture name="FlareDuck instance 10008" x="2645" y="10" width="273" height="297" frameX="-601" frameY="-227" frameWidth="916" frameHeight="567"/>
+	<SubTexture name="FlareDuck instance 10009" x="2928" y="10" width="356" height="371" frameX="-559" frameY="-192" frameWidth="916" frameHeight="567"/>
+	<SubTexture name="FlareDuck instance 10010" x="3294" y="10" width="357" height="372" frameX="-560" frameY="-192" frameWidth="916" frameHeight="567"/>
+	<SubTexture name="FlareDuck instance 10011" x="3661" y="10" width="283" height="297" frameX="-594" frameY="-232" frameWidth="916" frameHeight="567"/>
+	<SubTexture name="FlareDuck instance 10012" x="10" y="405" width="302" height="333" frameX="-583" frameY="-211" frameWidth="916" frameHeight="567"/>
+	<SubTexture name="FlareDuck instance 10013" x="322" y="405" width="341" height="376" frameX="-563" frameY="-192" frameWidth="916" frameHeight="567"/>
+	<SubTexture name="FlareDuck instance 10014" x="673" y="405" width="327" height="361" frameX="-570" frameY="-202" frameWidth="916" frameHeight="567"/>
+	<SubTexture name="FlareDuck instance 10015" x="1010" y="405" width="280" height="312" frameX="-591" frameY="-224" frameWidth="916" frameHeight="567"/>
+	<SubTexture name="FlareJump instance 10000" x="1300" y="405" width="296" height="309" frameX="-251" frameY="-232" frameWidth="581" frameHeight="576"/>
+	<SubTexture name="FlareJump instance 10001" x="1606" y="405" width="344" height="358" frameX="-225" frameY="-207" frameWidth="581" frameHeight="576"/>
+	<SubTexture name="FlareJump instance 10002" x="1960" y="405" width="345" height="360" frameX="-221" frameY="-205" frameWidth="581" frameHeight="576"/>
+	<SubTexture name="FlareJump instance 10003" x="2315" y="405" width="301" height="313" frameX="-243" frameY="-229" frameWidth="581" frameHeight="576"/>
+	<SubTexture name="FlareJump instance 10004" x="2626" y="405" width="272" height="301" frameX="-263" frameY="-236" frameWidth="581" frameHeight="576"/>
+	<SubTexture name="FlareJump instance 10005" x="2908" y="405" width="349" height="385" frameX="-225" frameY="-190" frameWidth="581" frameHeight="576"/>
+	<SubTexture name="FlareJump instance 10006" x="3267" y="405" width="342" height="378" frameX="-229" frameY="-192" frameWidth="581" frameHeight="576"/>
+	<SubTexture name="FlareJump instance 10007" x="3619" y="405" width="306" height="336" frameX="-247" frameY="-212" frameWidth="581" frameHeight="576"/>
+	<SubTexture name="FlareJump instance 10008" x="10" y="800" width="273" height="297" frameX="-266" frameY="-236" frameWidth="581" frameHeight="576"/>
+	<SubTexture name="FlareJump instance 10009" x="293" y="800" width="356" height="371" frameX="-224" frameY="-201" frameWidth="581" frameHeight="576"/>
+	<SubTexture name="FlareJump instance 10010" x="659" y="800" width="357" height="372" frameX="-225" frameY="-201" frameWidth="581" frameHeight="576"/>
+	<SubTexture name="FlareJump instance 10011" x="1026" y="800" width="283" height="297" frameX="-259" frameY="-241" frameWidth="581" frameHeight="576"/>
+	<SubTexture name="FlareJump instance 10012" x="1319" y="800" width="302" height="333" frameX="-248" frameY="-220" frameWidth="581" frameHeight="576"/>
+	<SubTexture name="FlareJump instance 10013" x="1631" y="800" width="341" height="376" frameX="-228" frameY="-201" frameWidth="581" frameHeight="576"/>
+	<SubTexture name="FlareJump instance 10014" x="1982" y="800" width="327" height="361" frameX="-235" frameY="-211" frameWidth="581" frameHeight="576"/>
+	<SubTexture name="FlareJump instance 10015" x="2319" y="800" width="280" height="312" frameX="-256" frameY="-233" frameWidth="581" frameHeight="576"/>
+</TextureAtlas>

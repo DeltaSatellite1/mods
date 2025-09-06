@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="StarR.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="sdgz instance 10000" x="10" y="10" width="132" height="132" frameX="-3" frameY="-3" frameWidth="138" frameHeight="138"/>
+	<SubTexture name="sdgz instance 10001" x="152" y="10" width="115" height="115" frameX="-11" frameY="-12" frameWidth="138" frameHeight="138"/>
+	<SubTexture name="sdgz instance 10002" x="277" y="10" width="132" height="132" frameX="-3" frameY="-3" frameWidth="138" frameHeight="138"/>
+	<SubTexture name="sdgz instance 10003" x="419" y="10" width="118" height="117" frameX="-10" frameY="-11" frameWidth="138" frameHeight="138"/>
+	<SubTexture name="sdgz instance 10004" x="547" y="10" width="123" height="123" frameX="-7" frameY="-8" frameWidth="138" frameHeight="138"/>
+	<SubTexture name="sdgz instance 10005" x="680" y="10" width="117" height="117" frameX="-10" frameY="-11" frameWidth="138" frameHeight="138"/>
+	<SubTexture name="sdgz instance 10006" x="807" y="10" width="138" height="138"/>
+	<SubTexture name="sdgz instance 10007" x="10" y="158" width="115" height="115" frameX="-11" frameY="-12" frameWidth="138" frameHeight="138"/>
+	<SubTexture name="sdgz instance 10008" x="135" y="158" width="118" height="118" frameX="-10" frameY="-10" frameWidth="138" frameHeight="138"/>
+	<SubTexture name="sdgz instance 10009" x="263" y="158" width="117" height="118" frameX="-10" frameY="-10" frameWidth="138" frameHeight="138"/>
+	<SubTexture name="sdgz instance 10010" x="390" y="158" width="135" height="136" frameX="-1" frameY="-1" frameWidth="138" frameHeight="138"/>
+	<SubTexture name="sdgz instance 10011" x="535" y="158" width="115" height="114" frameX="-11" frameY="-12" frameWidth="138" frameHeight="138"/>
+	<SubTexture name="sdgz instance 10012" x="660" y="158" width="121" height="120" frameX="-8" frameY="-9" frameWidth="138" frameHeight="138"/>
+	<SubTexture name="sdgz instance 10013" x="791" y="158" width="107" height="106" frameX="-15" frameY="-16" frameWidth="138" frameHeight="138"/>
+	<SubTexture name="sdgz instance 10014" x="10" y="304" width="122" height="122" frameX="-8" frameY="-8" frameWidth="138" frameHeight="138"/>
+	<SubTexture name="sdgz instance 10015" x="142" y="304" width="107" height="105" frameX="-15" frameY="-16" frameWidth="138" frameHeight="138"/>
+	<SubTexture name="sdgz instance 10016" x="259" y="304" width="114" height="114" frameX="-12" frameY="-12" frameWidth="138" frameHeight="138"/>
+	<SubTexture name="sdgz instance 10017" x="383" y="304" width="102" height="102" frameX="-18" frameY="-18" frameWidth="138" frameHeight="138"/>
+	<SubTexture name="sdgz instance 10018" x="495" y="304" width="102" height="102" frameX="-18" frameY="-18" frameWidth="138" frameHeight="138"/>
+	<SubTexture name="sdgz instance 10019" x="607" y="304" width="88" height="88" frameX="-25" frameY="-25" frameWidth="138" frameHeight="138"/>
+	<SubTexture name="sdgz instance 10020" x="705" y="304" width="90" height="90" frameX="-24" frameY="-24" frameWidth="138" frameHeight="138"/>
+	<SubTexture name="sdgz instance 10021" x="805" y="304" width="83" height="83" frameX="-27" frameY="-28" frameWidth="138" frameHeight="138"/>
+</TextureAtlas>

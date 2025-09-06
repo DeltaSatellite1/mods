@@ -4,6 +4,6 @@ characterPlayAnim('boyfriend', 'hey', '24', true);
 characterPlayAnim('gf', 'cheer', '24', true);
 setProperty('boyfriend.specialAnim', true);
 setProperty('gf.specialAnim', true);
-playSound('Hey')
+-- playSound('Hey')
 end
 end

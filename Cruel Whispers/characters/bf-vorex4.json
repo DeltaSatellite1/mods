@@ -1,0 +1,100 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				13,
+				-2
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "BF Left instance 1"
+		},
+		{
+			"offsets": [
+				-13,
+				-4
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "BF Right instance 1"
+		},
+		{
+			"offsets": [
+				-2,
+				-16
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "BF Down instance 1"
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-5,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "BFIdle instance 1",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-2,
+				29
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "BF up instance 1",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "hurt",
+			"fps": 24,
+			"name": "BF Miss instance 1",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-6,
+				3
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "BF Miss instance 1",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/BF_AIR2",
+	"position": [
+		-550,
+		170
+	],
+	"healthicon": "bf",
+	"flip_x": true,
+	"healthbar_colors": [
+		49,
+		176,
+		209
+	],
+	"camera_position": [
+		-230,
+		60
+	],
+	"sing_duration": 4,
+	"scale": 0.9
+}

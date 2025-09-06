@@ -1,0 +1,95 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				1,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "tp",
+			"indices": [],
+			"name": "Teleport instance 1"
+		},
+		{
+			"offsets": [
+				1,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "tpback",
+			"indices": [
+				16,
+				15,
+				14,
+				13,
+				12,
+				11,
+				10,
+				9,
+				8,
+				7,
+				6,
+				5,
+				4,
+				3,
+				2,
+				1
+			],
+			"name": "Teleport instance 1"
+		},
+		{
+			"offsets": [
+				43,
+				7
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "jump",
+			"indices": [],
+			"name": "Attack Purple instance 1"
+		},
+		{
+			"offsets": [
+				43,
+				7
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "duck",
+			"indices": [],
+			"name": "Attack Yellow instance 1"
+		},
+		{
+			"offsets": [
+				13,
+				3
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Idle instance 1"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Silex_Bg",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "face",
+	"flip_x": false,
+	"healthbar_colors": [
+		55,
+		15,
+		95
+	],
+	"camera_position": [
+		0,
+		70
+	],
+	"sing_duration": 6,
+	"scale": 0.5
+}

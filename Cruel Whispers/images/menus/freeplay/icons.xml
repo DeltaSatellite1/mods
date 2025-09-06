@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="icons.png">
+	<!-- Created with Adobe Animate version 20.5.0.29329 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Iku Click0000" x="0" y="0" width="372" height="496"/>
+	<SubTexture name="Iku Select0000" x="1636" y="1082" width="359" height="479" frameX="-7" frameY="-10" frameWidth="372" frameHeight="496"/>
+	<SubTexture name="Iku Select0001" x="1636" y="1082" width="359" height="479" frameX="-7" frameY="-10" frameWidth="372" frameHeight="496"/>
+	<SubTexture name="Ivy Click0000" x="834" y="0" width="372" height="496"/>
+	<SubTexture name="Ivy Select0000" x="1231" y="1082" width="360" height="479" frameX="-5" frameY="-14" frameWidth="372" frameHeight="496"/>
+	<SubTexture name="Ivy Select0001" x="1231" y="1082" width="360" height="479" frameX="-5" frameY="-14" frameWidth="372" frameHeight="496"/>
+	<SubTexture name="Locked0000" x="0" y="541" width="372" height="496"/>
+	<SubTexture name="Oblivion Click0000" x="1251" y="541" width="372" height="496"/>
+	<SubTexture name="Oblivion Select0000" x="824" y="1082" width="362" height="482" frameX="-3" frameY="-12" frameWidth="372" frameHeight="496"/>
+	<SubTexture name="Oblivion Select0001" x="824" y="1082" width="362" height="482" frameX="-3" frameY="-12" frameWidth="372" frameHeight="496"/>
+	<SubTexture name="Silex Click0000" x="417" y="541" width="372" height="496"/>
+	<SubTexture name="Silex Select0000" x="417" y="1082" width="362" height="483" frameX="-5" frameY="-9" frameWidth="372" frameHeight="496"/>
+	<SubTexture name="Silex Select0001" x="417" y="1082" width="362" height="483" frameX="-5" frameY="-9" frameWidth="372" frameHeight="496"/>
+
+</TextureAtlas>

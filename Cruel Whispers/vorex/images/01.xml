@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="01.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="wowo instance 10000" x="10" y="10" width="205" height="462" frameX="-2" frameY="-5" frameWidth="221" frameHeight="467"/>
+	<SubTexture name="wowo instance 10001" x="225" y="10" width="215" height="457" frameX="-1" frameY="-6" frameWidth="221" frameHeight="467"/>
+	<SubTexture name="wowo instance 10002" x="450" y="10" width="219" height="460" frameX="0" frameY="-2" frameWidth="221" frameHeight="467"/>
+	<SubTexture name="wowo instance 10003" x="679" y="10" width="192" height="460" frameX="0" frameY="-3" frameWidth="221" frameHeight="467"/>
+	<SubTexture name="wowo instance 10004" x="881" y="10" width="196" height="461" frameX="-2" frameY="-3" frameWidth="221" frameHeight="467"/>
+	<SubTexture name="wowo instance 10005" x="1087" y="10" width="201" height="465" frameX="-1" frameY="0" frameWidth="221" frameHeight="467"/>
+	<SubTexture name="wowo instance 10006" x="1298" y="10" width="182" height="461" frameX="0" frameY="-4" frameWidth="221" frameHeight="467"/>
+	<SubTexture name="wowo instance 10007" x="1490" y="10" width="198" height="458" frameX="0" frameY="-5" frameWidth="221" frameHeight="467"/>
+	<SubTexture name="wowo instance 10008" x="1698" y="10" width="204" height="459" frameX="-2" frameY="-5" frameWidth="221" frameHeight="467"/>
+	<SubTexture name="wowo instance 10009" x="10" y="485" width="216" height="459" frameX="-1" frameY="-3" frameWidth="221" frameHeight="467"/>
+	<SubTexture name="wowo instance 10010" x="236" y="485" width="221" height="461" frameX="0" frameY="-2" frameWidth="221" frameHeight="467"/>
+	<SubTexture name="wowo instance 10011" x="467" y="485" width="194" height="461" frameX="0" frameY="-2" frameWidth="221" frameHeight="467"/>
+	<SubTexture name="wowo instance 10012" x="671" y="485" width="195" height="458" frameX="-2" frameY="-3" frameWidth="221" frameHeight="467"/>
+	<SubTexture name="wowo instance 10013" x="876" y="485" width="199" height="462" frameX="-1" frameY="-3" frameWidth="221" frameHeight="467"/>
+	<SubTexture name="wowo instance 10014" x="1085" y="485" width="182" height="459" frameX="0" frameY="-5" frameWidth="221" frameHeight="467"/>
+	<SubTexture name="wowo instance 10015" x="1277" y="485" width="198" height="460" frameX="0" frameY="-4" frameWidth="221" frameHeight="467"/>
+</TextureAtlas>

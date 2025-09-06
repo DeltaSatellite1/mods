@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Hold space place holder.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="space copy instance 10000" x="10" y="10" width="973" height="276" frameX="-4" frameY="-1" frameWidth="983" frameHeight="283"/>
+	<SubTexture name="space copy instance 10001" x="993" y="10" width="973" height="276" frameX="0" frameY="-5" frameWidth="983" frameHeight="283"/>
+	<SubTexture name="space copy instance 10002" x="10" y="10" width="973" height="276" frameX="-4" frameY="-1" frameWidth="983" frameHeight="283"/>
+	<SubTexture name="space copy instance 10003" x="10" y="296" width="974" height="277" frameX="-9" frameY="-6" frameWidth="983" frameHeight="283"/>
+	<SubTexture name="space copy instance 10004" x="994" y="296" width="974" height="276" frameX="-2" frameY="0" frameWidth="983" frameHeight="283"/>
+</TextureAtlas>

@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="DustQuwe.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Dust instance 10000" x="10" y="10" width="491" height="249" frameX="0" frameY="0" frameWidth="491" frameHeight="273"/>
+	<SubTexture name="Dust instance 10001" x="511" y="10" width="491" height="257" frameX="0" frameY="0" frameWidth="491" frameHeight="273"/>
+	<SubTexture name="Dust instance 10002" x="1012" y="10" width="491" height="263" frameX="0" frameY="0" frameWidth="491" frameHeight="273"/>
+	<SubTexture name="Dust instance 10003" x="1513" y="10" width="491" height="263" frameX="0" frameY="0" frameWidth="491" frameHeight="273"/>
+	<SubTexture name="Dust instance 10004" x="2014" y="10" width="491" height="263" frameX="0" frameY="0" frameWidth="491" frameHeight="273"/>
+	<SubTexture name="Dust instance 10005" x="2515" y="10" width="491" height="263" frameX="0" frameY="0" frameWidth="491" frameHeight="273"/>
+	<SubTexture name="Dust instance 10006" x="3016" y="10" width="491" height="263" frameX="0" frameY="0" frameWidth="491" frameHeight="273"/>
+	<SubTexture name="Dust instance 10007" x="3517" y="10" width="491" height="263" frameX="0" frameY="0" frameWidth="491" frameHeight="273"/>
+	<SubTexture name="Dust instance 10008" x="10" y="283" width="491" height="263" frameX="0" frameY="0" frameWidth="491" frameHeight="273"/>
+	<SubTexture name="Dust instance 10009" x="511" y="283" width="491" height="263" frameX="0" frameY="0" frameWidth="491" frameHeight="273"/>
+	<SubTexture name="Dust instance 10010" x="1012" y="283" width="491" height="263" frameX="0" frameY="0" frameWidth="491" frameHeight="273"/>
+	<SubTexture name="Dust instance 10011" x="1513" y="283" width="491" height="263" frameX="0" frameY="0" frameWidth="491" frameHeight="273"/>
+	<SubTexture name="Dust instance 10012" x="2014" y="283" width="491" height="263" frameX="0" frameY="0" frameWidth="491" frameHeight="273"/>
+	<SubTexture name="Dust instance 10013" x="2515" y="283" width="491" height="263" frameX="0" frameY="0" frameWidth="491" frameHeight="273"/>
+	<SubTexture name="Dust instance 10014" x="3016" y="283" width="491" height="266" frameX="0" frameY="0" frameWidth="491" frameHeight="273"/>
+	<SubTexture name="Dust instance 10015" x="3517" y="283" width="491" height="273"/>
+	<SubTexture name="Dust instance 10016" x="10" y="566" width="491" height="263" frameX="0" frameY="0" frameWidth="491" frameHeight="273"/>
+	<SubTexture name="Dust instance 10017" x="511" y="566" width="491" height="263" frameX="0" frameY="0" frameWidth="491" frameHeight="273"/>
+	<SubTexture name="Dust instance 10018" x="1012" y="566" width="491" height="263" frameX="0" frameY="0" frameWidth="491" frameHeight="273"/>
+	<SubTexture name="Dust instance 10019" x="1513" y="566" width="491" height="263" frameX="0" frameY="0" frameWidth="491" frameHeight="273"/>
+	<SubTexture name="Dust instance 10020" x="2014" y="566" width="491" height="263" frameX="0" frameY="0" frameWidth="491" frameHeight="273"/>
+	<SubTexture name="Dust instance 10021" x="2515" y="566" width="491" height="263" frameX="0" frameY="0" frameWidth="491" frameHeight="273"/>
+	<SubTexture name="Dust instance 10022" x="3016" y="566" width="491" height="263" frameX="0" frameY="0" frameWidth="491" frameHeight="273"/>
+	<SubTexture name="Dust instance 10023" x="3517" y="566" width="491" height="263" frameX="0" frameY="0" frameWidth="491" frameHeight="273"/>
+	<SubTexture name="Dust instance 10024" x="10" y="839" width="485" height="263" frameX="-3" frameY="0" frameWidth="491" frameHeight="273"/>
+	<SubTexture name="Dust instance 10025" x="505" y="839" width="491" height="263" frameX="0" frameY="0" frameWidth="491" frameHeight="273"/>
+	<SubTexture name="Dust instance 10026" x="1006" y="839" width="491" height="263" frameX="0" frameY="0" frameWidth="491" frameHeight="273"/>
+	<SubTexture name="Dust instance 10027" x="1507" y="839" width="491" height="263" frameX="0" frameY="0" frameWidth="491" frameHeight="273"/>
+	<SubTexture name="Dust instance 10028" x="2008" y="839" width="491" height="263" frameX="0" frameY="0" frameWidth="491" frameHeight="273"/>
+	<SubTexture name="Dust instance 10029" x="2509" y="839" width="491" height="263" frameX="0" frameY="0" frameWidth="491" frameHeight="273"/>
+	<SubTexture name="Dust instance 10030" x="3010" y="839" width="491" height="263" frameX="0" frameY="0" frameWidth="491" frameHeight="273"/>
+	<SubTexture name="Dust instance 10031" x="3511" y="839" width="491" height="263" frameX="0" frameY="0" frameWidth="491" frameHeight="273"/>
+	<SubTexture name="Dust instance 10032" x="10" y="1112" width="491" height="263" frameX="0" frameY="0" frameWidth="491" frameHeight="273"/>
+	<SubTexture name="Dust instance 10033" x="511" y="1112" width="491" height="263" frameX="0" frameY="0" frameWidth="491" frameHeight="273"/>
+	<SubTexture name="Dust instance 10034" x="1012" y="1112" width="491" height="263" frameX="0" frameY="0" frameWidth="491" frameHeight="273"/>
+	<SubTexture name="Dust instance 10035" x="1513" y="1112" width="491" height="263" frameX="0" frameY="0" frameWidth="491" frameHeight="273"/>
+	<SubTexture name="Dust instance 10036" x="2014" y="1112" width="491" height="263" frameX="0" frameY="0" frameWidth="491" frameHeight="273"/>
+	<SubTexture name="Dust instance 10037" x="2515" y="1112" width="491" height="263" frameX="0" frameY="0" frameWidth="491" frameHeight="273"/>
+	<SubTexture name="Dust instance 10038" x="3016" y="1112" width="491" height="263" frameX="0" frameY="0" frameWidth="491" frameHeight="273"/>
+	<SubTexture name="Dust instance 10039" x="3517" y="1112" width="491" height="263" frameX="0" frameY="0" frameWidth="491" frameHeight="273"/>
+	<SubTexture name="Dust instance 10040" x="10" y="1385" width="491" height="263" frameX="0" frameY="0" frameWidth="491" frameHeight="273"/>
+	<SubTexture name="Dust instance 10041" x="511" y="1385" width="491" height="263" frameX="0" frameY="0" frameWidth="491" frameHeight="273"/>
+	<SubTexture name="Dust instance 10042" x="1012" y="1385" width="491" height="263" frameX="0" frameY="0" frameWidth="491" frameHeight="273"/>
+	<SubTexture name="Dust instance 10043" x="1513" y="1385" width="491" height="263" frameX="0" frameY="0" frameWidth="491" frameHeight="273"/>
+	<SubTexture name="Dust instance 10044" x="2014" y="1385" width="491" height="263" frameX="0" frameY="0" frameWidth="491" frameHeight="273"/>
+	<SubTexture name="Dust instance 10045" x="2515" y="1385" width="491" height="263" frameX="0" frameY="0" frameWidth="491" frameHeight="273"/>
+	<SubTexture name="Dust instance 10046" x="3016" y="1385" width="491" height="263" frameX="0" frameY="0" frameWidth="491" frameHeight="273"/>
+	<SubTexture name="Dust instance 10047" x="3016" y="1385" width="491" height="263" frameX="0" frameY="0" frameWidth="491" frameHeight="273"/>
+	<SubTexture name="Dust instance 10048" x="3517" y="1385" width="491" height="263" frameX="0" frameY="0" frameWidth="491" frameHeight="273"/>
+	<SubTexture name="Dust instance 10049" x="3517" y="1385" width="491" height="263" frameX="0" frameY="0" frameWidth="491" frameHeight="273"/>
+	<SubTexture name="Dust instance 10050" x="10" y="1658" width="491" height="263" frameX="0" frameY="0" frameWidth="491" frameHeight="273"/>
+	<SubTexture name="Dust instance 10051" x="10" y="1658" width="491" height="263" frameX="0" frameY="0" frameWidth="491" frameHeight="273"/>
+	<SubTexture name="Dust instance 10052" x="511" y="1658" width="491" height="263" frameX="0" frameY="0" frameWidth="491" frameHeight="273"/>
+	<SubTexture name="Dust instance 10053" x="511" y="1658" width="491" height="263" frameX="0" frameY="0" frameWidth="491" frameHeight="273"/>
+	<SubTexture name="Dust instance 10054" x="1012" y="1658" width="491" height="263" frameX="0" frameY="0" frameWidth="491" frameHeight="273"/>
+	<SubTexture name="Dust instance 10055" x="1513" y="1658" width="491" height="263" frameX="0" frameY="0" frameWidth="491" frameHeight="273"/>
+	<SubTexture name="Dust instance 10056" x="1513" y="1658" width="491" height="263" frameX="0" frameY="0" frameWidth="491" frameHeight="273"/>
+	<SubTexture name="Dust instance 10057" x="1513" y="1658" width="491" height="263" frameX="0" frameY="0" frameWidth="491" frameHeight="273"/>
+	<SubTexture name="Dust instance 10058" x="1513" y="1658" width="491" height="263" frameX="0" frameY="0" frameWidth="491" frameHeight="273"/>
+	<SubTexture name="Dust instance 10059" x="1513" y="1658" width="491" height="263" frameX="0" frameY="0" frameWidth="491" frameHeight="273"/>
+	<SubTexture name="Dust instance 10060" x="1012" y="1658" width="491" height="263" frameX="0" frameY="0" frameWidth="491" frameHeight="273"/>
+	<SubTexture name="Dust instance 10061" x="1012" y="1658" width="491" height="263" frameX="0" frameY="0" frameWidth="491" frameHeight="273"/>
+	<SubTexture name="Dust instance 10062" x="1012" y="1658" width="491" height="263" frameX="0" frameY="0" frameWidth="491" frameHeight="273"/>
+	<SubTexture name="Dust instance 10063" x="1012" y="1658" width="491" height="263" frameX="0" frameY="0" frameWidth="491" frameHeight="273"/>
+	<SubTexture name="Dust instance 10064" x="1012" y="1658" width="491" height="263" frameX="0" frameY="0" frameWidth="491" frameHeight="273"/>
+	<SubTexture name="Dust instance 10065" x="1012" y="1658" width="491" height="263" frameX="0" frameY="0" frameWidth="491" frameHeight="273"/>
+	<SubTexture name="Dust instance 10066" x="1012" y="1658" width="491" height="263" frameX="0" frameY="0" frameWidth="491" frameHeight="273"/>
+	<SubTexture name="Dust instance 10067" x="1012" y="1658" width="491" height="263" frameX="0" frameY="0" frameWidth="491" frameHeight="273"/>
+	<SubTexture name="Dust instance 10068" x="1012" y="1658" width="491" height="263" frameX="0" frameY="0" frameWidth="491" frameHeight="273"/>
+</TextureAtlas>

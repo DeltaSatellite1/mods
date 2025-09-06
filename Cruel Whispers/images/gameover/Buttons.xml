@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Buttons.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Options click instance 10000" x="10" y="10" width="216" height="54" frameX="-13" frameY="-3" frameWidth="242" frameHeight="60"/>
+	<SubTexture name="Options click instance 10001" x="10" y="10" width="216" height="54" frameX="-13" frameY="-3" frameWidth="242" frameHeight="60"/>
+	<SubTexture name="Options click instance 10002" x="236" y="10" width="225" height="56" frameX="-8" frameY="-2" frameWidth="242" frameHeight="60"/>
+	<SubTexture name="Options click instance 10003" x="236" y="10" width="225" height="56" frameX="-8" frameY="-2" frameWidth="242" frameHeight="60"/>
+	<SubTexture name="Options click instance 10004" x="471" y="10" width="242" height="60"/>
+	<SubTexture name="Options click instance 10005" x="471" y="10" width="242" height="60"/>
+	<SubTexture name="Options instance 10000" x="471" y="10" width="242" height="60"/>
+	<SubTexture name="Options mouse instance 10000" x="723" y="10" width="242" height="60"/>
+	<SubTexture name="Retry click instance 10000" x="10" y="80" width="209" height="53" frameX="-12" frameY="-3" frameWidth="233" frameHeight="59"/>
+	<SubTexture name="Retry click instance 10001" x="10" y="80" width="209" height="53" frameX="-12" frameY="-3" frameWidth="233" frameHeight="59"/>
+	<SubTexture name="Retry click instance 10002" x="229" y="80" width="213" height="55" frameX="-10" frameY="-2" frameWidth="233" frameHeight="59"/>
+	<SubTexture name="Retry click instance 10003" x="229" y="80" width="213" height="55" frameX="-10" frameY="-2" frameWidth="233" frameHeight="59"/>
+	<SubTexture name="Retry click instance 10004" x="452" y="80" width="233" height="59"/>
+	<SubTexture name="Retry click instance 10005" x="452" y="80" width="233" height="59"/>
+	<SubTexture name="Retry instance 10000" x="452" y="80" width="233" height="59"/>
+	<SubTexture name="Retry mouse instance 10000" x="695" y="80" width="233" height="60"/>
+	<SubTexture name="Return to menu click instance 10000" x="10" y="150" width="310" height="38" frameX="-20" frameY="-2" frameWidth="350" frameHeight="43"/>
+	<SubTexture name="Return to menu click instance 10001" x="10" y="150" width="310" height="38" frameX="-20" frameY="-2" frameWidth="350" frameHeight="43"/>
+	<SubTexture name="Return to menu click instance 10002" x="330" y="150" width="320" height="40" frameX="-15" frameY="-1" frameWidth="350" frameHeight="43"/>
+	<SubTexture name="Return to menu click instance 10003" x="330" y="150" width="320" height="40" frameX="-15" frameY="-1" frameWidth="350" frameHeight="43"/>
+	<SubTexture name="Return to menu click instance 10004" x="660" y="150" width="350" height="43"/>
+	<SubTexture name="Return to menu click instance 10005" x="660" y="150" width="350" height="43"/>
+	<SubTexture name="Return to menu instance 10000" x="10" y="203" width="351" height="43"/>
+	<SubTexture name="Return to menu mouse instance 10000" x="371" y="203" width="350" height="43"/>
+</TextureAtlas>

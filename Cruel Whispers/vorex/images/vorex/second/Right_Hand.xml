@@ -1,0 +1,102 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Right_hand.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Attack 01 instance 10000" x="10" y="10" width="438" height="384" frameX="0" frameY="-310" frameWidth="883" frameHeight="695"/>
+	<SubTexture name="Attack 01 instance 10001" x="458" y="10" width="441" height="387" frameX="-9" frameY="-306" frameWidth="883" frameHeight="695"/>
+	<SubTexture name="Attack 01 instance 10002" x="909" y="10" width="443" height="394" frameX="-31" frameY="-295" frameWidth="883" frameHeight="695"/>
+	<SubTexture name="Attack 01 instance 10003" x="1362" y="10" width="411" height="404" frameX="-84" frameY="-275" frameWidth="883" frameHeight="695"/>
+	<SubTexture name="Attack 01 instance 10004" x="1362" y="10" width="411" height="404" frameX="-84" frameY="-275" frameWidth="883" frameHeight="695"/>
+	<SubTexture name="Attack 01 instance 10005" x="1783" y="10" width="306" height="493" frameX="-212" frameY="-169" frameWidth="883" frameHeight="695"/>
+	<SubTexture name="Attack 01 instance 10006" x="1783" y="10" width="306" height="493" frameX="-212" frameY="-169" frameWidth="883" frameHeight="695"/>
+	<SubTexture name="Attack 01 instance 10007" x="2099" y="10" width="297" height="589" frameX="-265" frameY="-63" frameWidth="883" frameHeight="695"/>
+	<SubTexture name="Attack 01 instance 10008" x="2099" y="10" width="297" height="589" frameX="-265" frameY="-63" frameWidth="883" frameHeight="695"/>
+	<SubTexture name="Attack 01 instance 10009" x="2406" y="10" width="320" height="630" frameX="-269" frameY="-15" frameWidth="883" frameHeight="695"/>
+	<SubTexture name="Attack 01 instance 10010" x="2406" y="10" width="320" height="630" frameX="-269" frameY="-15" frameWidth="883" frameHeight="695"/>
+	<SubTexture name="Attack 01 instance 10011" x="2736" y="10" width="314" height="643" frameX="-278" frameY="0" frameWidth="883" frameHeight="695"/>
+	<SubTexture name="Attack 01 instance 10012" x="2736" y="10" width="314" height="643" frameX="-278" frameY="0" frameWidth="883" frameHeight="695"/>
+	<SubTexture name="Attack 01 instance 10013" x="3060" y="10" width="303" height="644" frameX="-294" frameY="-10" frameWidth="883" frameHeight="695"/>
+	<SubTexture name="Attack 01 instance 10014" x="3373" y="10" width="362" height="548" frameX="-300" frameY="-107" frameWidth="883" frameHeight="695"/>
+	<SubTexture name="Attack 01 instance 10015" x="10" y="664" width="540" height="401" frameX="-280" frameY="-271" frameWidth="883" frameHeight="695"/>
+	<SubTexture name="Attack 01 instance 10016" x="560" y="664" width="583" height="415" frameX="-274" frameY="-245" frameWidth="883" frameHeight="695"/>
+	<SubTexture name="Attack 01 instance 10017" x="560" y="664" width="583" height="415" frameX="-274" frameY="-245" frameWidth="883" frameHeight="695"/>
+	<SubTexture name="Attack 01 instance 10018" x="1153" y="664" width="613" height="402" frameX="-269" frameY="-262" frameWidth="883" frameHeight="695"/>
+	<SubTexture name="Attack 01 instance 10019" x="1153" y="664" width="613" height="402" frameX="-269" frameY="-262" frameWidth="883" frameHeight="695"/>
+	<SubTexture name="Attack 01 instance 10020" x="1776" y="664" width="621" height="402" frameX="-262" frameY="-261" frameWidth="883" frameHeight="695"/>
+	<SubTexture name="Attack 01 instance 10021" x="1776" y="664" width="621" height="402" frameX="-262" frameY="-261" frameWidth="883" frameHeight="695"/>
+	<SubTexture name="Attack 01 instance 10022" x="1776" y="664" width="621" height="402" frameX="-262" frameY="-261" frameWidth="883" frameHeight="695"/>
+	<SubTexture name="Attack 01 instance 10023" x="1776" y="664" width="621" height="402" frameX="-262" frameY="-261" frameWidth="883" frameHeight="695"/>
+	<SubTexture name="Attack 01 instance 10024" x="1776" y="664" width="621" height="402" frameX="-262" frameY="-261" frameWidth="883" frameHeight="695"/>
+	<SubTexture name="Attack 01 instance 10025" x="1776" y="664" width="621" height="402" frameX="-262" frameY="-261" frameWidth="883" frameHeight="695"/>
+	<SubTexture name="Attack 01 instance 10026" x="1776" y="664" width="621" height="402" frameX="-262" frameY="-261" frameWidth="883" frameHeight="695"/>
+	<SubTexture name="Attack 01 instance 10027" x="2407" y="664" width="609" height="397" frameX="-262" frameY="-266" frameWidth="883" frameHeight="695"/>
+	<SubTexture name="Attack 01 instance 10028" x="3026" y="664" width="557" height="386" frameX="-263" frameY="-287" frameWidth="883" frameHeight="695"/>
+	<SubTexture name="Attack 01 instance 10029" x="10" y="1089" width="506" height="351" frameX="-245" frameY="-339" frameWidth="883" frameHeight="695"/>
+	<SubTexture name="Attack 01 instance 10030" x="526" y="1089" width="497" height="430" frameX="-114" frameY="-265" frameWidth="883" frameHeight="695"/>
+	<SubTexture name="Attack 01 instance 10031" x="10" y="10" width="438" height="384" frameX="0" frameY="-310" frameWidth="883" frameHeight="695"/>
+	<SubTexture name="RightHand instance 10000" x="1033" y="1089" width="437" height="383" frameX="-11" frameY="-15" frameWidth="466" frameHeight="398"/>
+	<SubTexture name="RightHand instance 10001" x="1033" y="1089" width="437" height="383" frameX="-11" frameY="-15" frameWidth="466" frameHeight="398"/>
+	<SubTexture name="RightHand instance 10002" x="1480" y="1089" width="439" height="384" frameX="-10" frameY="-14" frameWidth="466" frameHeight="398"/>
+	<SubTexture name="RightHand instance 10003" x="1480" y="1089" width="439" height="384" frameX="-10" frameY="-14" frameWidth="466" frameHeight="398"/>
+	<SubTexture name="RightHand instance 10004" x="1929" y="1089" width="439" height="384" frameX="-10" frameY="-14" frameWidth="466" frameHeight="398"/>
+	<SubTexture name="RightHand instance 10005" x="1929" y="1089" width="439" height="384" frameX="-10" frameY="-14" frameWidth="466" frameHeight="398"/>
+	<SubTexture name="RightHand instance 10006" x="2378" y="1089" width="442" height="384" frameX="-9" frameY="-13" frameWidth="466" frameHeight="398"/>
+	<SubTexture name="RightHand instance 10007" x="2378" y="1089" width="442" height="384" frameX="-9" frameY="-13" frameWidth="466" frameHeight="398"/>
+	<SubTexture name="RightHand instance 10008" x="2830" y="1089" width="444" height="385" frameX="-8" frameY="-11" frameWidth="466" frameHeight="398"/>
+	<SubTexture name="RightHand instance 10009" x="2830" y="1089" width="444" height="385" frameX="-8" frameY="-11" frameWidth="466" frameHeight="398"/>
+	<SubTexture name="RightHand instance 10010" x="3284" y="1089" width="449" height="386" frameX="-6" frameY="-9" frameWidth="466" frameHeight="398"/>
+	<SubTexture name="RightHand instance 10011" x="3284" y="1089" width="449" height="386" frameX="-6" frameY="-9" frameWidth="466" frameHeight="398"/>
+	<SubTexture name="RightHand instance 10012" x="10" y="1529" width="452" height="386" frameX="-5" frameY="-7" frameWidth="466" frameHeight="398"/>
+	<SubTexture name="RightHand instance 10013" x="10" y="1529" width="452" height="386" frameX="-5" frameY="-7" frameWidth="466" frameHeight="398"/>
+	<SubTexture name="RightHand instance 10014" x="472" y="1529" width="457" height="387" frameX="-3" frameY="-5" frameWidth="466" frameHeight="398"/>
+	<SubTexture name="RightHand instance 10015" x="472" y="1529" width="457" height="387" frameX="-3" frameY="-5" frameWidth="466" frameHeight="398"/>
+	<SubTexture name="RightHand instance 10016" x="472" y="1529" width="457" height="387" frameX="-3" frameY="-5" frameWidth="466" frameHeight="398"/>
+	<SubTexture name="RightHand instance 10017" x="939" y="1529" width="460" height="388" frameX="-2" frameY="-3" frameWidth="466" frameHeight="398"/>
+	<SubTexture name="RightHand instance 10018" x="939" y="1529" width="460" height="388" frameX="-2" frameY="-3" frameWidth="466" frameHeight="398"/>
+	<SubTexture name="RightHand instance 10019" x="939" y="1529" width="460" height="388" frameX="-2" frameY="-3" frameWidth="466" frameHeight="398"/>
+	<SubTexture name="RightHand instance 10020" x="1409" y="1529" width="463" height="388" frameX="-1" frameY="-2" frameWidth="466" frameHeight="398"/>
+	<SubTexture name="RightHand instance 10021" x="1409" y="1529" width="463" height="388" frameX="-1" frameY="-2" frameWidth="466" frameHeight="398"/>
+	<SubTexture name="RightHand instance 10022" x="1409" y="1529" width="463" height="388" frameX="-1" frameY="-2" frameWidth="466" frameHeight="398"/>
+	<SubTexture name="RightHand instance 10023" x="1409" y="1529" width="463" height="388" frameX="-1" frameY="-2" frameWidth="466" frameHeight="398"/>
+	<SubTexture name="RightHand instance 10024" x="1882" y="1529" width="464" height="388" frameX="-1" frameY="-1" frameWidth="466" frameHeight="398"/>
+	<SubTexture name="RightHand instance 10025" x="1882" y="1529" width="464" height="388" frameX="-1" frameY="-1" frameWidth="466" frameHeight="398"/>
+	<SubTexture name="RightHand instance 10026" x="1882" y="1529" width="464" height="388" frameX="-1" frameY="-1" frameWidth="466" frameHeight="398"/>
+	<SubTexture name="RightHand instance 10027" x="1882" y="1529" width="464" height="388" frameX="-1" frameY="-1" frameWidth="466" frameHeight="398"/>
+	<SubTexture name="RightHand instance 10028" x="1882" y="1529" width="464" height="388" frameX="-1" frameY="-1" frameWidth="466" frameHeight="398"/>
+	<SubTexture name="RightHand instance 10029" x="2356" y="1529" width="466" height="389" frameX="0" frameY="0" frameWidth="466" frameHeight="398"/>
+	<SubTexture name="RightHand instance 10030" x="2356" y="1529" width="466" height="389" frameX="0" frameY="0" frameWidth="466" frameHeight="398"/>
+	<SubTexture name="RightHand instance 10031" x="2356" y="1529" width="466" height="389" frameX="0" frameY="0" frameWidth="466" frameHeight="398"/>
+	<SubTexture name="RightHand instance 10032" x="2356" y="1529" width="466" height="389" frameX="0" frameY="0" frameWidth="466" frameHeight="398"/>
+	<SubTexture name="RightHand instance 10033" x="2356" y="1529" width="466" height="389" frameX="0" frameY="0" frameWidth="466" frameHeight="398"/>
+	<SubTexture name="RightHand instance 10034" x="2356" y="1529" width="466" height="389" frameX="0" frameY="0" frameWidth="466" frameHeight="398"/>
+	<SubTexture name="RightHand instance 10035" x="1882" y="1529" width="464" height="388" frameX="-1" frameY="-1" frameWidth="466" frameHeight="398"/>
+	<SubTexture name="RightHand instance 10036" x="1882" y="1529" width="464" height="388" frameX="-1" frameY="-1" frameWidth="466" frameHeight="398"/>
+	<SubTexture name="RightHand instance 10037" x="1882" y="1529" width="464" height="388" frameX="-1" frameY="-1" frameWidth="466" frameHeight="398"/>
+	<SubTexture name="RightHand instance 10038" x="1882" y="1529" width="464" height="388" frameX="-1" frameY="-1" frameWidth="466" frameHeight="398"/>
+	<SubTexture name="RightHand instance 10039" x="1409" y="1529" width="463" height="388" frameX="-1" frameY="-2" frameWidth="466" frameHeight="398"/>
+	<SubTexture name="RightHand instance 10040" x="1409" y="1529" width="463" height="388" frameX="-1" frameY="-2" frameWidth="466" frameHeight="398"/>
+	<SubTexture name="RightHand instance 10041" x="1409" y="1529" width="463" height="388" frameX="-1" frameY="-2" frameWidth="466" frameHeight="398"/>
+	<SubTexture name="RightHand instance 10042" x="1409" y="1529" width="463" height="388" frameX="-1" frameY="-2" frameWidth="466" frameHeight="398"/>
+	<SubTexture name="RightHand instance 10043" x="939" y="1529" width="460" height="388" frameX="-2" frameY="-3" frameWidth="466" frameHeight="398"/>
+	<SubTexture name="RightHand instance 10044" x="939" y="1529" width="460" height="388" frameX="-2" frameY="-3" frameWidth="466" frameHeight="398"/>
+	<SubTexture name="RightHand instance 10045" x="939" y="1529" width="460" height="388" frameX="-2" frameY="-3" frameWidth="466" frameHeight="398"/>
+	<SubTexture name="RightHand instance 10046" x="939" y="1529" width="460" height="388" frameX="-2" frameY="-3" frameWidth="466" frameHeight="398"/>
+	<SubTexture name="RightHand instance 10047" x="472" y="1529" width="457" height="387" frameX="-3" frameY="-5" frameWidth="466" frameHeight="398"/>
+	<SubTexture name="RightHand instance 10048" x="472" y="1529" width="457" height="387" frameX="-3" frameY="-5" frameWidth="466" frameHeight="398"/>
+	<SubTexture name="RightHand instance 10049" x="472" y="1529" width="457" height="387" frameX="-3" frameY="-5" frameWidth="466" frameHeight="398"/>
+	<SubTexture name="RightHand instance 10050" x="10" y="1529" width="452" height="386" frameX="-5" frameY="-7" frameWidth="466" frameHeight="398"/>
+	<SubTexture name="RightHand instance 10051" x="10" y="1529" width="452" height="386" frameX="-5" frameY="-7" frameWidth="466" frameHeight="398"/>
+	<SubTexture name="RightHand instance 10052" x="3284" y="1089" width="449" height="386" frameX="-6" frameY="-9" frameWidth="466" frameHeight="398"/>
+	<SubTexture name="RightHand instance 10053" x="3284" y="1089" width="449" height="386" frameX="-6" frameY="-9" frameWidth="466" frameHeight="398"/>
+	<SubTexture name="RightHand instance 10054" x="2830" y="1089" width="444" height="385" frameX="-8" frameY="-11" frameWidth="466" frameHeight="398"/>
+	<SubTexture name="RightHand instance 10055" x="2830" y="1089" width="444" height="385" frameX="-8" frameY="-11" frameWidth="466" frameHeight="398"/>
+	<SubTexture name="RightHand instance 10056" x="2378" y="1089" width="442" height="384" frameX="-9" frameY="-13" frameWidth="466" frameHeight="398"/>
+	<SubTexture name="RightHand instance 10057" x="2378" y="1089" width="442" height="384" frameX="-9" frameY="-13" frameWidth="466" frameHeight="398"/>
+	<SubTexture name="RightHand instance 10058" x="1929" y="1089" width="439" height="384" frameX="-10" frameY="-14" frameWidth="466" frameHeight="398"/>
+	<SubTexture name="RightHand instance 10059" x="1929" y="1089" width="439" height="384" frameX="-10" frameY="-14" frameWidth="466" frameHeight="398"/>
+	<SubTexture name="RightHand instance 10060" x="1480" y="1089" width="439" height="384" frameX="-10" frameY="-14" frameWidth="466" frameHeight="398"/>
+	<SubTexture name="RightHand instance 10061" x="1480" y="1089" width="439" height="384" frameX="-10" frameY="-14" frameWidth="466" frameHeight="398"/>
+	<SubTexture name="RightHand instance 10062" x="1033" y="1089" width="437" height="383" frameX="-11" frameY="-15" frameWidth="466" frameHeight="398"/>
+	<SubTexture name="RightHand instance 10063" x="1033" y="1089" width="437" height="383" frameX="-11" frameY="-15" frameWidth="466" frameHeight="398"/>
+	<SubTexture name="RightHand instance 10064" x="1033" y="1089" width="437" height="383" frameX="-11" frameY="-15" frameWidth="466" frameHeight="398"/>
+</TextureAtlas>

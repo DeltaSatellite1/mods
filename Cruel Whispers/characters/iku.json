@@ -1,0 +1,180 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-10,
+				140
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Ikle instance 1"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				96,
+				136
+			],
+			"anim": "singLEFT-end",
+			"fps": 24,
+			"name": "Left instance 1",
+			"indices": [
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				27,
+				64
+			],
+			"anim": "singDOWN-end",
+			"fps": 24,
+			"name": "Down instance 1",
+			"indices": [
+				8,
+				9,
+				10,
+				11
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				66,
+				167
+			],
+			"anim": "singUP-end",
+			"fps": 24,
+			"name": "Up instance 1",
+			"indices": [
+				8,
+				9,
+				10,
+				11,
+				12,
+				13
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-26,
+				121
+			],
+			"anim": "singRIGHT-end",
+			"fps": 24,
+			"name": "Right instance 1",
+			"indices": [
+				8,
+				9,
+				10,
+				11,
+				12
+			]
+		},
+		{
+			"offsets": [
+				96,
+				136
+			],
+			"indices": [
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7
+			],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "Left instance 1"
+		},
+		{
+			"offsets": [
+				27,
+				64
+			],
+			"indices": [
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7
+			],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "Down instance 1"
+		},
+		{
+			"offsets": [
+				66,
+				167
+			],
+			"indices": [
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7
+			],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "Up instance 1"
+		},
+		{
+			"offsets": [
+				-26,
+				121
+			],
+			"indices": [
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7
+			],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "Right instance 1"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/IKUALDENA",
+	"position": [
+		140,
+		310
+	],
+	"healthicon": "dad",
+	"flip_x": false,
+	"healthbar_colors": [
+		175,
+		102,
+		206
+	],
+	"camera_position": [
+		40,
+		-20
+	],
+	"sing_duration": 4.00000000000001,
+	"scale": 0.8
+}

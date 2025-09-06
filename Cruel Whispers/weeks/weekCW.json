@@ -1,0 +1,52 @@
+{
+	"storyName": "Daddy Dearest",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"iku",
+			"face",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"ivy",
+			"face",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"silex",
+			"face",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"oblivion",
+			"face",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Week 1"
+}

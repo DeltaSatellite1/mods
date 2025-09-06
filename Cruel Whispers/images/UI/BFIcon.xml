@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="BFIcon.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="BF Losing instance 10000" x="10" y="10" width="255" height="144"/>
+	<SubTexture name="BF Losing instance 10001" x="275" y="10" width="255" height="144"/>
+	<SubTexture name="BF Losing instance 10002" x="540" y="10" width="255" height="144"/>
+	<SubTexture name="BF Losing instance 10003" x="10" y="164" width="255" height="144"/>
+	<SubTexture name="BF Losing instance 10004" x="275" y="164" width="255" height="144"/>
+	<SubTexture name="BF Losing instance 10005" x="540" y="164" width="255" height="144"/>
+	<SubTexture name="BF Losing instance 10006" x="10" y="318" width="255" height="144"/>
+	<SubTexture name="BF Losing instance 10007" x="275" y="318" width="255" height="144"/>
+	<SubTexture name="BF Losing instance 10008" x="540" y="318" width="255" height="144"/>
+	<SubTexture name="BF Losing instance 10009" x="10" y="472" width="255" height="144"/>
+	<SubTexture name="BF Losing instance 10010" x="275" y="472" width="255" height="144"/>
+	<SubTexture name="BF Losing instance 10011" x="540" y="472" width="255" height="144"/>
+	<SubTexture name="BF Losing instance 10012" x="10" y="626" width="255" height="144"/>
+	<SubTexture name="BF Losing instance 10013" x="275" y="626" width="255" height="144"/>
+	<SubTexture name="BF Losing instance 10014" x="540" y="626" width="135" height="71" frameX="-62" frameY="-32" frameWidth="255" frameHeight="144"/>
+	<SubTexture name="BF Losing instance 10015" x="540" y="626" width="135" height="71" frameX="-62" frameY="-32" frameWidth="255" frameHeight="144"/>
+	<SubTexture name="BF Losing instance 10016" x="540" y="626" width="135" height="71" frameX="-62" frameY="-32" frameWidth="255" frameHeight="144"/>
+	<SubTexture name="BF Losing instance 10017" x="540" y="626" width="135" height="71" frameX="-62" frameY="-32" frameWidth="255" frameHeight="144"/>
+	<SubTexture name="BF Losing instance 10018" x="540" y="626" width="135" height="71" frameX="-62" frameY="-32" frameWidth="255" frameHeight="144"/>
+	<SubTexture name="BF Losing instance 10019" x="540" y="626" width="135" height="71" frameX="-62" frameY="-32" frameWidth="255" frameHeight="144"/>
+	<SubTexture name="BF Losing instance 10020" x="540" y="626" width="135" height="71" frameX="-62" frameY="-32" frameWidth="255" frameHeight="144"/>
+	<SubTexture name="BF Losing instance 10021" x="540" y="626" width="135" height="71" frameX="-62" frameY="-32" frameWidth="255" frameHeight="144"/>
+	<SubTexture name="BF Losing instance 10022" x="540" y="626" width="135" height="71" frameX="-62" frameY="-32" frameWidth="255" frameHeight="144"/>
+	<SubTexture name="BF healthy instance 10000" x="685" y="626" width="127" height="71"/>
+</TextureAtlas>

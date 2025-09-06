@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Judgement.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="BAD instance 10000" x="10" y="10" width="205" height="97" frameX="0" frameY="0" frameWidth="205" frameHeight="145"/>
+	<SubTexture name="BAD instance 10001" x="225" y="10" width="162" height="81" frameX="-16" frameY="-7" frameWidth="205" frameHeight="145"/>
+	<SubTexture name="BAD instance 10002" x="397" y="10" width="162" height="79" frameX="-16" frameY="-9" frameWidth="205" frameHeight="145"/>
+	<SubTexture name="BAD instance 10003" x="569" y="10" width="162" height="79" frameX="-16" frameY="-8" frameWidth="205" frameHeight="145"/>
+	<SubTexture name="BAD instance 10004" x="741" y="10" width="162" height="79" frameX="-16" frameY="-9" frameWidth="205" frameHeight="145"/>
+	<SubTexture name="BAD instance 10005" x="913" y="10" width="90" height="79" frameX="-57" frameY="-7" frameWidth="205" frameHeight="145"/>
+	<SubTexture name="BAD instance 10006" x="1013" y="10" width="175" height="79" frameX="-10" frameY="-9" frameWidth="205" frameHeight="145"/>
+	<SubTexture name="BAD instance 10007" x="1198" y="10" width="91" height="80" frameX="-59" frameY="-7" frameWidth="205" frameHeight="145"/>
+	<SubTexture name="BAD instance 10008" x="1299" y="10" width="175" height="81" frameX="-10" frameY="-10" frameWidth="205" frameHeight="145"/>
+	<SubTexture name="BAD instance 10009" x="1484" y="10" width="93" height="83" frameX="-57" frameY="-13" frameWidth="205" frameHeight="145"/>
+	<SubTexture name="BAD instance 10010" x="1587" y="10" width="94" height="85" frameX="-56" frameY="-17" frameWidth="205" frameHeight="145"/>
+	<SubTexture name="BAD instance 10011" x="1691" y="10" width="96" height="88" frameX="-55" frameY="-23" frameWidth="205" frameHeight="145"/>
+	<SubTexture name="BAD instance 10012" x="1797" y="10" width="98" height="91" frameX="-54" frameY="-30" frameWidth="205" frameHeight="145"/>
+	<SubTexture name="BAD instance 10013" x="1905" y="10" width="99" height="94" frameX="-54" frameY="-38" frameWidth="205" frameHeight="145"/>
+	<SubTexture name="BAD instance 10014" x="10" y="117" width="101" height="97" frameX="-53" frameY="-48" frameWidth="205" frameHeight="145"/>
+	<SubTexture name="GOOD instance 10000" x="121" y="117" width="246" height="74" frameX="0" frameY="0" frameWidth="246" frameHeight="142"/>
+	<SubTexture name="GOOD instance 10001" x="377" y="117" width="180" height="74" frameX="-28" frameY="0" frameWidth="246" frameHeight="142"/>
+	<SubTexture name="GOOD instance 10002" x="567" y="117" width="169" height="74" frameX="-33" frameY="0" frameWidth="246" frameHeight="142"/>
+	<SubTexture name="GOOD instance 10003" x="746" y="117" width="169" height="74" frameX="-33" frameY="0" frameWidth="246" frameHeight="142"/>
+	<SubTexture name="GOOD instance 10004" x="925" y="117" width="169" height="74" frameX="-33" frameY="0" frameWidth="246" frameHeight="142"/>
+	<SubTexture name="GOOD instance 10005" x="1104" y="117" width="169" height="74" frameX="-33" frameY="0" frameWidth="246" frameHeight="142"/>
+	<SubTexture name="GOOD instance 10006" x="1283" y="117" width="169" height="74" frameX="-33" frameY="0" frameWidth="246" frameHeight="142"/>
+	<SubTexture name="GOOD instance 10007" x="1462" y="117" width="169" height="77" frameX="-33" frameY="0" frameWidth="246" frameHeight="142"/>
+	<SubTexture name="GOOD instance 10008" x="1641" y="117" width="169" height="81" frameX="-33" frameY="0" frameWidth="246" frameHeight="142"/>
+	<SubTexture name="GOOD instance 10009" x="1820" y="117" width="169" height="87" frameX="-33" frameY="0" frameWidth="246" frameHeight="142"/>
+	<SubTexture name="GOOD instance 10010" x="10" y="224" width="169" height="94" frameX="-33" frameY="0" frameWidth="246" frameHeight="142"/>
+	<SubTexture name="GOOD instance 10011" x="189" y="224" width="169" height="103" frameX="-33" frameY="0" frameWidth="246" frameHeight="142"/>
+	<SubTexture name="GOOD instance 10012" x="368" y="224" width="169" height="113" frameX="-33" frameY="0" frameWidth="246" frameHeight="142"/>
+	<SubTexture name="GOOD instance 10013" x="547" y="224" width="120" height="79" frameX="-57" frameY="-45" frameWidth="246" frameHeight="142"/>
+	<SubTexture name="GOOD instance 10014" x="677" y="224" width="194" height="93" frameX="-20" frameY="-49" frameWidth="246" frameHeight="142"/>
+	<SubTexture name="PERFECT instance 10000" x="881" y="224" width="377" height="81" frameX="0" frameY="0" frameWidth="377" frameHeight="121"/>
+	<SubTexture name="PERFECT instance 10001" x="1268" y="224" width="254" height="81" frameX="-53" frameY="0" frameWidth="377" frameHeight="121"/>
+	<SubTexture name="PERFECT instance 10002" x="1532" y="224" width="212" height="81" frameX="-76" frameY="0" frameWidth="377" frameHeight="121"/>
+	<SubTexture name="PERFECT instance 10003" x="1754" y="224" width="200" height="81" frameX="-83" frameY="0" frameWidth="377" frameHeight="121"/>
+	<SubTexture name="PERFECT instance 10004" x="10" y="347" width="200" height="81" frameX="-83" frameY="0" frameWidth="377" frameHeight="121"/>
+	<SubTexture name="PERFECT instance 10005" x="220" y="347" width="200" height="81" frameX="-83" frameY="0" frameWidth="377" frameHeight="121"/>
+	<SubTexture name="PERFECT instance 10006" x="430" y="347" width="200" height="81" frameX="-83" frameY="0" frameWidth="377" frameHeight="121"/>
+	<SubTexture name="PERFECT instance 10007" x="640" y="347" width="200" height="81" frameX="-83" frameY="0" frameWidth="377" frameHeight="121"/>
+	<SubTexture name="PERFECT instance 10008" x="850" y="347" width="200" height="81" frameX="-83" frameY="0" frameWidth="377" frameHeight="121"/>
+	<SubTexture name="PERFECT instance 10009" x="1060" y="347" width="200" height="85" frameX="-83" frameY="0" frameWidth="377" frameHeight="121"/>
+	<SubTexture name="PERFECT instance 10010" x="1270" y="347" width="200" height="91" frameX="-83" frameY="0" frameWidth="377" frameHeight="121"/>
+	<SubTexture name="PERFECT instance 10011" x="1480" y="347" width="200" height="98" frameX="-83" frameY="0" frameWidth="377" frameHeight="121"/>
+	<SubTexture name="PERFECT instance 10012" x="1690" y="347" width="200" height="106" frameX="-83" frameY="0" frameWidth="377" frameHeight="121"/>
+	<SubTexture name="PERFECT instance 10013" x="10" y="463" width="186" height="64" frameX="-90" frameY="-50" frameWidth="377" frameHeight="121"/>
+	<SubTexture name="PERFECT instance 10014" x="206" y="463" width="186" height="64" frameX="-90" frameY="-57" frameWidth="377" frameHeight="121"/>
+	<SubTexture name="SHIT instance 10000" x="402" y="463" width="205" height="96" frameX="0" frameY="0" frameWidth="205" frameHeight="194"/>
+	<SubTexture name="SHIT instance 10001" x="617" y="463" width="174" height="88" frameX="-10" frameY="-11" frameWidth="205" frameHeight="194"/>
+	<SubTexture name="SHIT instance 10002" x="801" y="463" width="174" height="88" frameX="-10" frameY="-5" frameWidth="205" frameHeight="194"/>
+	<SubTexture name="SHIT instance 10003" x="985" y="463" width="174" height="88" frameX="-10" frameY="-11" frameWidth="205" frameHeight="194"/>
+	<SubTexture name="SHIT instance 10004" x="1169" y="463" width="174" height="88" frameX="-10" frameY="-7" frameWidth="205" frameHeight="194"/>
+	<SubTexture name="SHIT instance 10005" x="1353" y="463" width="117" height="88" frameX="-36" frameY="-9" frameWidth="205" frameHeight="194"/>
+	<SubTexture name="SHIT instance 10006" x="1480" y="463" width="174" height="88" frameX="-10" frameY="-7" frameWidth="205" frameHeight="194"/>
+	<SubTexture name="SHIT instance 10007" x="1353" y="463" width="117" height="88" frameX="-40" frameY="-7" frameWidth="205" frameHeight="194"/>
+	<SubTexture name="SHIT instance 10008" x="1664" y="463" width="174" height="89" frameX="-10" frameY="-8" frameWidth="205" frameHeight="194"/>
+	<SubTexture name="SHIT instance 10009" x="1848" y="463" width="118" height="91" frameX="-40" frameY="-12" frameWidth="205" frameHeight="194"/>
+	<SubTexture name="SHIT instance 10010" x="10" y="569" width="119" height="94" frameX="-39" frameY="-20" frameWidth="205" frameHeight="194"/>
+	<SubTexture name="SHIT instance 10011" x="139" y="569" width="121" height="98" frameX="-38" frameY="-30" frameWidth="205" frameHeight="194"/>
+	<SubTexture name="SHIT instance 10012" x="270" y="569" width="122" height="103" frameX="-37" frameY="-44" frameWidth="205" frameHeight="194"/>
+	<SubTexture name="SHIT instance 10013" x="402" y="569" width="122" height="108" frameX="-37" frameY="-61" frameWidth="205" frameHeight="194"/>
+	<SubTexture name="SHIT instance 10014" x="534" y="569" width="122" height="113" frameX="-37" frameY="-81" frameWidth="205" frameHeight="194"/>
+</TextureAtlas>

@@ -1,0 +1,169 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="VoRex2.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Attackone instance 10000" x="1137" y="3951" width="1118" height="716" frameX="0" frameY="-30" frameWidth="1202" frameHeight="796"/>
+	<SubTexture name="Attackone instance 10001" x="1137" y="3951" width="1118" height="716" frameX="0" frameY="-30" frameWidth="1202" frameHeight="796"/>
+	<SubTexture name="Attackone instance 10002" x="10" y="10" width="1123" height="718" frameX="-3" frameY="-28" frameWidth="1227" frameHeight="754"/>
+	<SubTexture name="Attackone instance 10003" x="10" y="10" width="1123" height="718" frameX="-3" frameY="-28" frameWidth="1227" frameHeight="754"/>
+	<SubTexture name="Attackone instance 10004" x="1143" y="10" width="1139" height="729" frameX="-13" frameY="-20" frameWidth="1227" frameHeight="754"/>
+	<SubTexture name="Attackone instance 10005" x="1143" y="10" width="1139" height="729" frameX="-13" frameY="-20" frameWidth="1227" frameHeight="754"/>
+	<SubTexture name="Attackone instance 10006" x="2292" y="10" width="1165" height="742" frameX="-27" frameY="-10" frameWidth="1227" frameHeight="754"/>
+	<SubTexture name="Attackone instance 10007" x="2292" y="10" width="1165" height="742" frameX="-27" frameY="-10" frameWidth="1227" frameHeight="754"/>
+	<SubTexture name="Attackone instance 10008" x="3467" y="10" width="1174" height="748" frameX="-33" frameY="-5" frameWidth="1227" frameHeight="754"/>
+	<SubTexture name="Attackone instance 10009" x="3467" y="10" width="1174" height="748" frameX="-33" frameY="-5" frameWidth="1227" frameHeight="754"/>
+	<SubTexture name="Attackone instance 10010" x="4651" y="10" width="1181" height="752" frameX="-37" frameY="-2" frameWidth="1227" frameHeight="754"/>
+	<SubTexture name="Attackone instance 10011" x="4651" y="10" width="1181" height="752" frameX="-37" frameY="-2" frameWidth="1227" frameHeight="754"/>
+	<SubTexture name="Attackone instance 10012" x="5842" y="10" width="1186" height="753" frameX="-39" frameY="-1" frameWidth="1227" frameHeight="754"/>
+	<SubTexture name="Attackone instance 10013" x="5842" y="10" width="1186" height="753" frameX="-39" frameY="-1" frameWidth="1227" frameHeight="754"/>
+	<SubTexture name="Attackone instance 10014" x="10" y="773" width="1187" height="754" frameX="-40" frameY="0" frameWidth="1227" frameHeight="754"/>
+	<SubTexture name="Attackone instance 10015" x="10" y="773" width="1187" height="754" frameX="-40" frameY="0" frameWidth="1227" frameHeight="754"/>
+	<SubTexture name="Attackone instance 10016" x="10" y="773" width="1187" height="754" frameX="-40" frameY="0" frameWidth="1227" frameHeight="754"/>
+	<SubTexture name="Attackone instance 10017" x="10" y="773" width="1187" height="754" frameX="-40" frameY="0" frameWidth="1227" frameHeight="754"/>
+	<SubTexture name="Attackone instance 10018" x="10" y="773" width="1187" height="754" frameX="-40" frameY="0" frameWidth="1227" frameHeight="754"/>
+	<SubTexture name="Attackone instance 10019" x="10" y="773" width="1187" height="754" frameX="-40" frameY="0" frameWidth="1227" frameHeight="754"/>
+	<SubTexture name="Attackone instance 10020" x="5842" y="10" width="1186" height="753" frameX="-39" frameY="-1" frameWidth="1227" frameHeight="754"/>
+	<SubTexture name="Attackone instance 10021" x="5842" y="10" width="1186" height="753" frameX="-39" frameY="-1" frameWidth="1227" frameHeight="754"/>
+	<SubTexture name="Attackone instance 10022" x="4651" y="10" width="1181" height="752" frameX="-37" frameY="-2" frameWidth="1227" frameHeight="754"/>
+	<SubTexture name="Attackone instance 10023" x="4651" y="10" width="1181" height="752" frameX="-37" frameY="-2" frameWidth="1227" frameHeight="754"/>
+	<SubTexture name="Attackone instance 10024" x="3467" y="10" width="1174" height="748" frameX="-33" frameY="-5" frameWidth="1227" frameHeight="754"/>
+	<SubTexture name="Attackone instance 10025" x="2292" y="10" width="1165" height="742" frameX="-27" frameY="-10" frameWidth="1227" frameHeight="754"/>
+	<SubTexture name="Attackone instance 10026" x="1143" y="10" width="1139" height="729" frameX="-13" frameY="-20" frameWidth="1227" frameHeight="754"/>
+	<SubTexture name="Attackone instance 10027" x="10" y="10" width="1123" height="718" frameX="-3" frameY="-28" frameWidth="1227" frameHeight="754"/>
+	<SubTexture name="Phase 2 ded instance 10000" x="1207" y="773" width="1118" height="795" frameX="0" frameY="-111" frameWidth="1118" frameHeight="906"/>
+	<SubTexture name="Phase 2 ded instance 10001" x="2335" y="773" width="1118" height="765" frameX="0" frameY="-111" frameWidth="1118" frameHeight="906"/>
+	<SubTexture name="Phase 2 ded instance 10002" x="3463" y="773" width="1118" height="753" frameX="0" frameY="-114" frameWidth="1118" frameHeight="906"/>
+	<SubTexture name="Phase 2 ded instance 10003" x="3463" y="773" width="1118" height="753" frameX="0" frameY="-114" frameWidth="1118" frameHeight="906"/>
+	<SubTexture name="Phase 2 ded instance 10004" x="4591" y="773" width="1118" height="764" frameX="0" frameY="-120" frameWidth="1118" frameHeight="906"/>
+	<SubTexture name="Phase 2 ded instance 10005" x="5719" y="773" width="1118" height="754" frameX="0" frameY="-140" frameWidth="1118" frameHeight="906"/>
+	<SubTexture name="Phase 2 ded instance 10006" x="5719" y="773" width="1118" height="754" frameX="0" frameY="-140" frameWidth="1118" frameHeight="906"/>
+	<SubTexture name="Phase 2 ded instance 10007" x="6847" y="773" width="1118" height="723" frameX="0" frameY="-146" frameWidth="1118" frameHeight="906"/>
+	<SubTexture name="Phase 2 ded instance 10008" x="10" y="1578" width="1118" height="726" frameX="0" frameY="-104" frameWidth="1118" frameHeight="906"/>
+	<SubTexture name="Phase 2 ded instance 10009" x="1138" y="1578" width="1078" height="832" frameX="-7" frameY="0" frameWidth="1118" frameHeight="906"/>
+	<SubTexture name="Phase 2 ded instance 10010" x="2226" y="1578" width="1056" height="822" frameX="-18" frameY="-5" frameWidth="1118" frameHeight="906"/>
+	<SubTexture name="Phase 2 ded instance 10011" x="3292" y="1578" width="1039" height="814" frameX="-26" frameY="-9" frameWidth="1118" frameHeight="906"/>
+	<SubTexture name="Phase 2 ded instance 10012" x="4341" y="1578" width="1032" height="809" frameX="-26" frameY="-12" frameWidth="1118" frameHeight="906"/>
+	<SubTexture name="Phase 2 ded instance 10013" x="4341" y="1578" width="1032" height="809" frameX="-26" frameY="-12" frameWidth="1118" frameHeight="906"/>
+	<SubTexture name="Phase 2 ded instance 10014" x="5383" y="1578" width="1034" height="804" frameX="-21" frameY="-14" frameWidth="1118" frameHeight="906"/>
+	<SubTexture name="Phase 2 ded instance 10015" x="5383" y="1578" width="1034" height="804" frameX="-21" frameY="-14" frameWidth="1118" frameHeight="906"/>
+	<SubTexture name="Phase 2 ded instance 10016" x="5383" y="1578" width="1034" height="804" frameX="-21" frameY="-14" frameWidth="1118" frameHeight="906"/>
+	<SubTexture name="Phase 2 ded instance 10017" x="6427" y="1578" width="1034" height="802" frameX="-21" frameY="-15" frameWidth="1118" frameHeight="906"/>
+	<SubTexture name="Phase 2 ded instance 10018" x="6427" y="1578" width="1034" height="802" frameX="-21" frameY="-15" frameWidth="1118" frameHeight="906"/>
+	<SubTexture name="Phase 2 ded instance 10019" x="6427" y="1578" width="1034" height="802" frameX="-21" frameY="-15" frameWidth="1118" frameHeight="906"/>
+	<SubTexture name="Phase 2 ded instance 10020" x="10" y="2420" width="1034" height="801" frameX="-21" frameY="-16" frameWidth="1118" frameHeight="906"/>
+	<SubTexture name="Phase 2 ded instance 10021" x="10" y="2420" width="1034" height="801" frameX="-21" frameY="-16" frameWidth="1118" frameHeight="906"/>
+	<SubTexture name="Phase 2 ded instance 10022" x="10" y="2420" width="1034" height="801" frameX="-21" frameY="-16" frameWidth="1118" frameHeight="906"/>
+	<SubTexture name="Phase 2 ded instance 10023" x="10" y="2420" width="1034" height="801" frameX="-21" frameY="-16" frameWidth="1118" frameHeight="906"/>
+	<SubTexture name="Phase 2 ded instance 10024" x="10" y="2420" width="1034" height="801" frameX="-21" frameY="-16" frameWidth="1118" frameHeight="906"/>
+	<SubTexture name="Phase 2 ded instance 10025" x="10" y="2420" width="1034" height="801" frameX="-21" frameY="-16" frameWidth="1118" frameHeight="906"/>
+	<SubTexture name="Phase 2 ded instance 10026" x="10" y="2420" width="1034" height="801" frameX="-21" frameY="-16" frameWidth="1118" frameHeight="906"/>
+	<SubTexture name="Phase 2 ded instance 10027" x="10" y="2420" width="1034" height="801" frameX="-21" frameY="-16" frameWidth="1118" frameHeight="906"/>
+	<SubTexture name="Phase 2 ded instance 10028" x="10" y="2420" width="1034" height="801" frameX="-21" frameY="-16" frameWidth="1118" frameHeight="906"/>
+	<SubTexture name="Phase 2 ded instance 10029" x="10" y="2420" width="1034" height="801" frameX="-21" frameY="-16" frameWidth="1118" frameHeight="906"/>
+	<SubTexture name="Phase 2 ded instance 10030" x="10" y="2420" width="1034" height="801" frameX="-21" frameY="-16" frameWidth="1118" frameHeight="906"/>
+	<SubTexture name="Phase 2 ded instance 10031" x="10" y="2420" width="1034" height="801" frameX="-21" frameY="-16" frameWidth="1118" frameHeight="906"/>
+	<SubTexture name="Phase 2 ded instance 10032" x="10" y="2420" width="1034" height="801" frameX="-21" frameY="-16" frameWidth="1118" frameHeight="906"/>
+	<SubTexture name="Phase 2 ded instance 10033" x="10" y="2420" width="1034" height="801" frameX="-21" frameY="-16" frameWidth="1118" frameHeight="906"/>
+	<SubTexture name="Phase 2 ded instance 10034" x="10" y="2420" width="1034" height="801" frameX="-21" frameY="-16" frameWidth="1118" frameHeight="906"/>
+	<SubTexture name="Phase 2 ded instance 10035" x="10" y="2420" width="1034" height="801" frameX="-21" frameY="-16" frameWidth="1118" frameHeight="906"/>
+	<SubTexture name="Phase 2 ded instance 10036" x="10" y="2420" width="1034" height="801" frameX="-21" frameY="-16" frameWidth="1118" frameHeight="906"/>
+	<SubTexture name="Phase 2 ded instance 10037" x="10" y="2420" width="1034" height="801" frameX="-21" frameY="-16" frameWidth="1118" frameHeight="906"/>
+	<SubTexture name="V2 Idle instance 10000" x="1054" y="2420" width="1117" height="715" frameX="0" frameY="0" frameWidth="1117" frameHeight="720"/>
+	<SubTexture name="V2 Idle instance 10001" x="1054" y="2420" width="1117" height="715" frameX="0" frameY="0" frameWidth="1117" frameHeight="720"/>
+	<SubTexture name="V2 Idle instance 10002" x="2181" y="2420" width="1117" height="715" frameX="0" frameY="0" frameWidth="1117" frameHeight="720"/>
+	<SubTexture name="V2 Idle instance 10003" x="2181" y="2420" width="1117" height="715" frameX="0" frameY="0" frameWidth="1117" frameHeight="720"/>
+	<SubTexture name="V2 Idle instance 10004" x="3308" y="2420" width="1117" height="715" frameX="0" frameY="-1" frameWidth="1117" frameHeight="720"/>
+	<SubTexture name="V2 Idle instance 10005" x="3308" y="2420" width="1117" height="715" frameX="0" frameY="-1" frameWidth="1117" frameHeight="720"/>
+	<SubTexture name="V2 Idle instance 10006" x="4435" y="2420" width="1117" height="714" frameX="0" frameY="-2" frameWidth="1117" frameHeight="720"/>
+	<SubTexture name="V2 Idle instance 10007" x="4435" y="2420" width="1117" height="714" frameX="0" frameY="-2" frameWidth="1117" frameHeight="720"/>
+	<SubTexture name="V2 Idle instance 10008" x="5562" y="2420" width="1117" height="712" frameX="0" frameY="-4" frameWidth="1117" frameHeight="720"/>
+	<SubTexture name="V2 Idle instance 10009" x="5562" y="2420" width="1117" height="712" frameX="0" frameY="-4" frameWidth="1117" frameHeight="720"/>
+	<SubTexture name="V2 Idle instance 10010" x="6689" y="2420" width="1117" height="711" frameX="0" frameY="-6" frameWidth="1117" frameHeight="720"/>
+	<SubTexture name="V2 Idle instance 10011" x="6689" y="2420" width="1117" height="711" frameX="0" frameY="-6" frameWidth="1117" frameHeight="720"/>
+	<SubTexture name="V2 Idle instance 10012" x="10" y="3231" width="1117" height="710" frameX="0" frameY="-8" frameWidth="1117" frameHeight="720"/>
+	<SubTexture name="V2 Idle instance 10013" x="10" y="3231" width="1117" height="710" frameX="0" frameY="-8" frameWidth="1117" frameHeight="720"/>
+	<SubTexture name="V2 Idle instance 10014" x="1137" y="3231" width="1117" height="707" frameX="0" frameY="-11" frameWidth="1117" frameHeight="720"/>
+	<SubTexture name="V2 Idle instance 10015" x="1137" y="3231" width="1117" height="707" frameX="0" frameY="-11" frameWidth="1117" frameHeight="720"/>
+	<SubTexture name="V2 Idle instance 10016" x="2264" y="3231" width="1117" height="707" frameX="0" frameY="-12" frameWidth="1117" frameHeight="720"/>
+	<SubTexture name="V2 Idle instance 10017" x="2264" y="3231" width="1117" height="707" frameX="0" frameY="-12" frameWidth="1117" frameHeight="720"/>
+	<SubTexture name="V2 Idle instance 10018" x="2264" y="3231" width="1117" height="707" frameX="0" frameY="-12" frameWidth="1117" frameHeight="720"/>
+	<SubTexture name="V2 Idle instance 10019" x="3391" y="3231" width="1117" height="705" frameX="0" frameY="-14" frameWidth="1117" frameHeight="720"/>
+	<SubTexture name="V2 Idle instance 10020" x="3391" y="3231" width="1117" height="705" frameX="0" frameY="-14" frameWidth="1117" frameHeight="720"/>
+	<SubTexture name="V2 Idle instance 10021" x="3391" y="3231" width="1117" height="705" frameX="0" frameY="-14" frameWidth="1117" frameHeight="720"/>
+	<SubTexture name="V2 Idle instance 10022" x="4518" y="3231" width="1117" height="705" frameX="0" frameY="-15" frameWidth="1117" frameHeight="720"/>
+	<SubTexture name="V2 Idle instance 10023" x="4518" y="3231" width="1117" height="705" frameX="0" frameY="-15" frameWidth="1117" frameHeight="720"/>
+	<SubTexture name="V2 Idle instance 10024" x="4518" y="3231" width="1117" height="705" frameX="0" frameY="-15" frameWidth="1117" frameHeight="720"/>
+	<SubTexture name="V2 Idle instance 10025" x="5645" y="3231" width="1117" height="705" frameX="0" frameY="-15" frameWidth="1117" frameHeight="720"/>
+	<SubTexture name="V2 Idle instance 10026" x="5645" y="3231" width="1117" height="705" frameX="0" frameY="-15" frameWidth="1117" frameHeight="720"/>
+	<SubTexture name="V2 Idle instance 10027" x="5645" y="3231" width="1117" height="705" frameX="0" frameY="-15" frameWidth="1117" frameHeight="720"/>
+	<SubTexture name="V2 Idle instance 10028" x="6772" y="3231" width="1117" height="705" frameX="0" frameY="-15" frameWidth="1117" frameHeight="720"/>
+	<SubTexture name="V2 Idle instance 10029" x="6772" y="3231" width="1117" height="705" frameX="0" frameY="-15" frameWidth="1117" frameHeight="720"/>
+	<SubTexture name="V2 Idle instance 10030" x="6772" y="3231" width="1117" height="705" frameX="0" frameY="-15" frameWidth="1117" frameHeight="720"/>
+	<SubTexture name="V2 Idle instance 10031" x="10" y="3951" width="1117" height="705" frameX="0" frameY="-15" frameWidth="1117" frameHeight="720"/>
+	<SubTexture name="V2 Idle instance 10032" x="10" y="3951" width="1117" height="705" frameX="0" frameY="-15" frameWidth="1117" frameHeight="720"/>
+	<SubTexture name="V2 Idle instance 10033" x="10" y="3951" width="1117" height="705" frameX="0" frameY="-15" frameWidth="1117" frameHeight="720"/>
+	<SubTexture name="V2 Idle instance 10034" x="5645" y="3231" width="1117" height="705" frameX="0" frameY="-15" frameWidth="1117" frameHeight="720"/>
+	<SubTexture name="V2 Idle instance 10035" x="5645" y="3231" width="1117" height="705" frameX="0" frameY="-15" frameWidth="1117" frameHeight="720"/>
+	<SubTexture name="V2 Idle instance 10036" x="5645" y="3231" width="1117" height="705" frameX="0" frameY="-15" frameWidth="1117" frameHeight="720"/>
+	<SubTexture name="V2 Idle instance 10037" x="4518" y="3231" width="1117" height="705" frameX="0" frameY="-15" frameWidth="1117" frameHeight="720"/>
+	<SubTexture name="V2 Idle instance 10038" x="4518" y="3231" width="1117" height="705" frameX="0" frameY="-15" frameWidth="1117" frameHeight="720"/>
+	<SubTexture name="V2 Idle instance 10039" x="4518" y="3231" width="1117" height="705" frameX="0" frameY="-15" frameWidth="1117" frameHeight="720"/>
+	<SubTexture name="V2 Idle instance 10040" x="4518" y="3231" width="1117" height="705" frameX="0" frameY="-15" frameWidth="1117" frameHeight="720"/>
+	<SubTexture name="V2 Idle instance 10041" x="3391" y="3231" width="1117" height="705" frameX="0" frameY="-14" frameWidth="1117" frameHeight="720"/>
+	<SubTexture name="V2 Idle instance 10042" x="3391" y="3231" width="1117" height="705" frameX="0" frameY="-14" frameWidth="1117" frameHeight="720"/>
+	<SubTexture name="V2 Idle instance 10043" x="3391" y="3231" width="1117" height="705" frameX="0" frameY="-14" frameWidth="1117" frameHeight="720"/>
+	<SubTexture name="V2 Idle instance 10044" x="2264" y="3231" width="1117" height="707" frameX="0" frameY="-12" frameWidth="1117" frameHeight="720"/>
+	<SubTexture name="V2 Idle instance 10045" x="2264" y="3231" width="1117" height="707" frameX="0" frameY="-12" frameWidth="1117" frameHeight="720"/>
+	<SubTexture name="V2 Idle instance 10046" x="2264" y="3231" width="1117" height="707" frameX="0" frameY="-12" frameWidth="1117" frameHeight="720"/>
+	<SubTexture name="V2 Idle instance 10047" x="1137" y="3231" width="1117" height="707" frameX="0" frameY="-11" frameWidth="1117" frameHeight="720"/>
+	<SubTexture name="V2 Idle instance 10048" x="1137" y="3231" width="1117" height="707" frameX="0" frameY="-11" frameWidth="1117" frameHeight="720"/>
+	<SubTexture name="V2 Idle instance 10049" x="10" y="3231" width="1117" height="710" frameX="0" frameY="-8" frameWidth="1117" frameHeight="720"/>
+	<SubTexture name="V2 Idle instance 10050" x="10" y="3231" width="1117" height="710" frameX="0" frameY="-8" frameWidth="1117" frameHeight="720"/>
+	<SubTexture name="V2 Idle instance 10051" x="6689" y="2420" width="1117" height="711" frameX="0" frameY="-6" frameWidth="1117" frameHeight="720"/>
+	<SubTexture name="V2 Idle instance 10052" x="6689" y="2420" width="1117" height="711" frameX="0" frameY="-6" frameWidth="1117" frameHeight="720"/>
+	<SubTexture name="V2 Idle instance 10053" x="5562" y="2420" width="1117" height="712" frameX="0" frameY="-4" frameWidth="1117" frameHeight="720"/>
+	<SubTexture name="V2 Idle instance 10054" x="5562" y="2420" width="1117" height="712" frameX="0" frameY="-4" frameWidth="1117" frameHeight="720"/>
+	<SubTexture name="V2 Idle instance 10055" x="4435" y="2420" width="1117" height="714" frameX="0" frameY="-2" frameWidth="1117" frameHeight="720"/>
+	<SubTexture name="V2 Idle instance 10056" x="4435" y="2420" width="1117" height="714" frameX="0" frameY="-2" frameWidth="1117" frameHeight="720"/>
+	<SubTexture name="V2 Idle instance 10057" x="3308" y="2420" width="1117" height="715" frameX="0" frameY="-1" frameWidth="1117" frameHeight="720"/>
+	<SubTexture name="V2 Idle instance 10058" x="3308" y="2420" width="1117" height="715" frameX="0" frameY="-1" frameWidth="1117" frameHeight="720"/>
+	<SubTexture name="V2 Idle instance 10059" x="2181" y="2420" width="1117" height="715" frameX="0" frameY="0" frameWidth="1117" frameHeight="720"/>
+	<SubTexture name="V2 Idle instance 10060" x="2181" y="2420" width="1117" height="715" frameX="0" frameY="0" frameWidth="1117" frameHeight="720"/>
+	<SubTexture name="V2 Idle instance 10061" x="1054" y="2420" width="1117" height="715" frameX="0" frameY="0" frameWidth="1117" frameHeight="720"/>
+	<SubTexture name="V2 Idle instance 10062" x="1054" y="2420" width="1117" height="715" frameX="0" frameY="0" frameWidth="1117" frameHeight="720"/>
+	<SubTexture name="V2 Idle instance 10063" x="1054" y="2420" width="1117" height="715" frameX="0" frameY="0" frameWidth="1117" frameHeight="720"/>
+	<SubTexture name="V2 Idle instance 10064" x="1054" y="2420" width="1117" height="715" frameX="0" frameY="0" frameWidth="1117" frameHeight="720"/>
+	<SubTexture name="V2Attacktwo instance 10000" x="1137" y="3951" width="1118" height="716" frameX="-40" frameY="-67" frameWidth="1202" frameHeight="796"/>
+	<SubTexture name="V2Attacktwo instance 10001" x="1137" y="3951" width="1118" height="716" frameX="-40" frameY="-67" frameWidth="1202" frameHeight="796"/>
+	<SubTexture name="V2Attacktwo instance 10002" x="2265" y="3951" width="1122" height="719" frameX="-38" frameY="-64" frameWidth="1202" frameHeight="796"/>
+	<SubTexture name="V2Attacktwo instance 10003" x="2265" y="3951" width="1122" height="719" frameX="-38" frameY="-64" frameWidth="1202" frameHeight="796"/>
+	<SubTexture name="V2Attacktwo instance 10004" x="3397" y="3951" width="1136" height="733" frameX="-31" frameY="-52" frameWidth="1202" frameHeight="796"/>
+	<SubTexture name="V2Attacktwo instance 10005" x="3397" y="3951" width="1136" height="733" frameX="-31" frameY="-52" frameWidth="1202" frameHeight="796"/>
+	<SubTexture name="V2Attacktwo instance 10006" x="4543" y="3951" width="1160" height="755" frameX="-20" frameY="-34" frameWidth="1202" frameHeight="796"/>
+	<SubTexture name="V2Attacktwo instance 10007" x="5713" y="3951" width="1183" height="778" frameX="-9" frameY="-15" frameWidth="1202" frameHeight="796"/>
+	<SubTexture name="V2Attacktwo instance 10008" x="6906" y="3951" width="1191" height="786" frameX="-5" frameY="-8" frameWidth="1202" frameHeight="796"/>
+	<SubTexture name="V2Attacktwo instance 10009" x="6906" y="3951" width="1191" height="786" frameX="-5" frameY="-8" frameWidth="1202" frameHeight="796"/>
+	<SubTexture name="V2Attacktwo instance 10010" x="10" y="4747" width="1198" height="792" frameX="-2" frameY="-3" frameWidth="1202" frameHeight="796"/>
+	<SubTexture name="V2Attacktwo instance 10011" x="10" y="4747" width="1198" height="792" frameX="-2" frameY="-3" frameWidth="1202" frameHeight="796"/>
+	<SubTexture name="V2Attacktwo instance 10012" x="1218" y="4747" width="1202" height="795" frameX="0" frameY="-1" frameWidth="1202" frameHeight="796"/>
+	<SubTexture name="V2Attacktwo instance 10013" x="1218" y="4747" width="1202" height="795" frameX="0" frameY="-1" frameWidth="1202" frameHeight="796"/>
+	<SubTexture name="V2Attacktwo instance 10014" x="1218" y="4747" width="1202" height="795" frameX="0" frameY="-1" frameWidth="1202" frameHeight="796"/>
+	<SubTexture name="V2Attacktwo instance 10015" x="2430" y="4747" width="1202" height="796"/>
+	<SubTexture name="V2Attacktwo instance 10016" x="2430" y="4747" width="1202" height="796"/>
+	<SubTexture name="V2Attacktwo instance 10017" x="2430" y="4747" width="1202" height="796"/>
+	<SubTexture name="V2Attacktwo instance 10018" x="2430" y="4747" width="1202" height="796"/>
+	<SubTexture name="V2Attacktwo instance 10019" x="2430" y="4747" width="1202" height="796"/>
+	<SubTexture name="V2Attacktwo instance 10020" x="2430" y="4747" width="1202" height="796"/>
+	<SubTexture name="V2Attacktwo instance 10021" x="2430" y="4747" width="1202" height="796"/>
+	<SubTexture name="V2Attacktwo instance 10022" x="1218" y="4747" width="1202" height="795" frameX="0" frameY="-1" frameWidth="1202" frameHeight="796"/>
+	<SubTexture name="V2Attacktwo instance 10023" x="1218" y="4747" width="1202" height="795" frameX="0" frameY="-1" frameWidth="1202" frameHeight="796"/>
+	<SubTexture name="V2Attacktwo instance 10024" x="10" y="4747" width="1198" height="792" frameX="-2" frameY="-3" frameWidth="1202" frameHeight="796"/>
+	<SubTexture name="V2Attacktwo instance 10025" x="10" y="4747" width="1198" height="792" frameX="-2" frameY="-3" frameWidth="1202" frameHeight="796"/>
+	<SubTexture name="V2Attacktwo instance 10026" x="6906" y="3951" width="1191" height="786" frameX="-5" frameY="-8" frameWidth="1202" frameHeight="796"/>
+	<SubTexture name="V2Attacktwo instance 10027" x="6906" y="3951" width="1191" height="786" frameX="-5" frameY="-8" frameWidth="1202" frameHeight="796"/>
+	<SubTexture name="V2Attacktwo instance 10028" x="5713" y="3951" width="1183" height="778" frameX="-9" frameY="-15" frameWidth="1202" frameHeight="796"/>
+	<SubTexture name="V2Attacktwo instance 10029" x="3642" y="4747" width="1160" height="755" frameX="-20" frameY="-34" frameWidth="1202" frameHeight="796"/>
+	<SubTexture name="V2Attacktwo instance 10030" x="3397" y="3951" width="1136" height="733" frameX="-31" frameY="-52" frameWidth="1202" frameHeight="796"/>
+	<SubTexture name="V2Attacktwo instance 10031" x="2265" y="3951" width="1122" height="719" frameX="-38" frameY="-64" frameWidth="1202" frameHeight="796"/>
+	<SubTexture name="V2Attacktwo instance 10032" x="1137" y="3951" width="1118" height="716" frameX="-40" frameY="-67" frameWidth="1202" frameHeight="796"/>
+</TextureAtlas>

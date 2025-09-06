@@ -1,0 +1,16 @@
+{
+	"directory": "vorex",
+	"defaultZoom": 0.8,
+	"isPixelStage": false,
+
+	"boyfriend": [850, 50],
+	"girlfriend": [400, 100],
+	"opponent": [100, 45],
+	"hide_girlfriend": true,
+
+	"camera_boyfriend": [-150, -110],
+	"camera_opponent": [100, 90],
+	"camera_girlfriend": [0, 0],
+	"camera_speed": 1,
+	"initialCamPos": [800,350]
+}

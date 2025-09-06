@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Impact effect.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Impact purple instance 10000" x="10" y="10" width="775" height="448" frameX="0" frameY="-88" frameWidth="775" frameHeight="583"/>
+	<SubTexture name="Impact purple instance 10001" x="795" y="10" width="775" height="464" frameX="0" frameY="-72" frameWidth="775" frameHeight="583"/>
+	<SubTexture name="Impact purple instance 10002" x="1580" y="10" width="775" height="471" frameX="0" frameY="-65" frameWidth="775" frameHeight="583"/>
+	<SubTexture name="Impact purple instance 10003" x="2365" y="10" width="775" height="455" frameX="0" frameY="-81" frameWidth="775" frameHeight="583"/>
+	<SubTexture name="Impact purple instance 10004" x="3150" y="10" width="775" height="448" frameX="0" frameY="-88" frameWidth="775" frameHeight="583"/>
+	<SubTexture name="Impact purple instance 10005" x="10" y="491" width="775" height="507" frameX="0" frameY="-44" frameWidth="775" frameHeight="583"/>
+	<SubTexture name="Impact purple instance 10006" x="795" y="491" width="775" height="570" frameX="0" frameY="-9" frameWidth="775" frameHeight="583"/>
+	<SubTexture name="Impact purple instance 10007" x="1580" y="491" width="775" height="583"/>
+	<SubTexture name="Impact purple instance 10008" x="2365" y="491" width="775" height="545" frameX="0" frameY="-17" frameWidth="775" frameHeight="583"/>
+	<SubTexture name="Impact purple instance 10009" x="3150" y="491" width="775" height="484" frameX="0" frameY="-59" frameWidth="775" frameHeight="583"/>
+	<SubTexture name="Impact purple instance 10010" x="10" y="1084" width="775" height="448" frameX="0" frameY="-88" frameWidth="775" frameHeight="583"/>
+	<SubTexture name="Impact purple instance 10011" x="795" y="1084" width="775" height="448" frameX="0" frameY="-88" frameWidth="775" frameHeight="583"/>
+	<SubTexture name="Impact purple instance 10012" x="1580" y="1084" width="775" height="448" frameX="0" frameY="-88" frameWidth="775" frameHeight="583"/>
+	<SubTexture name="Impact purple instance 10013" x="2365" y="1084" width="775" height="448" frameX="0" frameY="-88" frameWidth="775" frameHeight="583"/>
+	<SubTexture name="Impact purple instance 10014" x="3150" y="1084" width="277" height="289" frameX="-246" frameY="-167" frameWidth="775" frameHeight="583"/>
+	<SubTexture name="Impact purple instance 10015" x="3437" y="1084" width="277" height="289" frameX="-246" frameY="-167" frameWidth="775" frameHeight="583"/>
+	<SubTexture name="Impact purple instance 10016" x="3724" y="1084" width="278" height="290" frameX="-246" frameY="-166" frameWidth="775" frameHeight="583"/>
+	<SubTexture name="Impact purple instance 10017" x="10" y="1542" width="278" height="291" frameX="-246" frameY="-166" frameWidth="775" frameHeight="583"/>
+	<SubTexture name="Impact purple instance 10018" x="298" y="1542" width="278" height="291" frameX="-246" frameY="-166" frameWidth="775" frameHeight="583"/>
+	<SubTexture name="Impact purple instance 10019" x="586" y="1542" width="279" height="291" frameX="-245" frameY="-166" frameWidth="775" frameHeight="583"/>
+	<SubTexture name="Impact yellow instance 10000" x="875" y="1542" width="776" height="448" frameX="0" frameY="-88" frameWidth="776" frameHeight="583"/>
+	<SubTexture name="Impact yellow instance 10001" x="1661" y="1542" width="776" height="464" frameX="0" frameY="-72" frameWidth="776" frameHeight="583"/>
+	<SubTexture name="Impact yellow instance 10002" x="2447" y="1542" width="776" height="471" frameX="0" frameY="-65" frameWidth="776" frameHeight="583"/>
+	<SubTexture name="Impact yellow instance 10003" x="3233" y="1542" width="776" height="455" frameX="0" frameY="-81" frameWidth="776" frameHeight="583"/>
+	<SubTexture name="Impact yellow instance 10004" x="10" y="2023" width="776" height="448" frameX="0" frameY="-88" frameWidth="776" frameHeight="583"/>
+	<SubTexture name="Impact yellow instance 10005" x="796" y="2023" width="776" height="507" frameX="0" frameY="-44" frameWidth="776" frameHeight="583"/>
+	<SubTexture name="Impact yellow instance 10006" x="1582" y="2023" width="776" height="570" frameX="0" frameY="-9" frameWidth="776" frameHeight="583"/>
+	<SubTexture name="Impact yellow instance 10007" x="2368" y="2023" width="776" height="583"/>
+	<SubTexture name="Impact yellow instance 10008" x="3154" y="2023" width="776" height="545" frameX="0" frameY="-17" frameWidth="776" frameHeight="583"/>
+	<SubTexture name="Impact yellow instance 10009" x="10" y="2616" width="776" height="484" frameX="0" frameY="-59" frameWidth="776" frameHeight="583"/>
+	<SubTexture name="Impact yellow instance 10010" x="796" y="2616" width="776" height="448" frameX="0" frameY="-88" frameWidth="776" frameHeight="583"/>
+	<SubTexture name="Impact yellow instance 10011" x="1582" y="2616" width="776" height="448" frameX="0" frameY="-88" frameWidth="776" frameHeight="583"/>
+	<SubTexture name="Impact yellow instance 10012" x="2368" y="2616" width="776" height="448" frameX="0" frameY="-88" frameWidth="776" frameHeight="583"/>
+	<SubTexture name="Impact yellow instance 10013" x="3154" y="2616" width="776" height="448" frameX="0" frameY="-88" frameWidth="776" frameHeight="583"/>
+	<SubTexture name="Impact yellow instance 10014" x="10" y="3110" width="277" height="289" frameX="-254" frameY="-163" frameWidth="776" frameHeight="583"/>
+	<SubTexture name="Impact yellow instance 10015" x="297" y="3110" width="277" height="289" frameX="-254" frameY="-163" frameWidth="776" frameHeight="583"/>
+	<SubTexture name="Impact yellow instance 10016" x="584" y="3110" width="278" height="290" frameX="-253" frameY="-162" frameWidth="776" frameHeight="583"/>
+	<SubTexture name="Impact yellow instance 10017" x="872" y="3110" width="279" height="291" frameX="-253" frameY="-162" frameWidth="776" frameHeight="583"/>
+	<SubTexture name="Impact yellow instance 10018" x="1161" y="3110" width="279" height="291" frameX="-253" frameY="-162" frameWidth="776" frameHeight="583"/>
+	<SubTexture name="Impact yellow instance 10019" x="1450" y="3110" width="279" height="291" frameX="-253" frameY="-162" frameWidth="776" frameHeight="583"/>
+</TextureAtlas>

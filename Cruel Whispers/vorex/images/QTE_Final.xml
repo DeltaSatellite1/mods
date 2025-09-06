@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="QTE Final.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="MASH SPACE instance 10000" x="10" y="10" width="637" height="305" frameX="-127" frameY="0" frameWidth="799" frameHeight="305"/>
+	<SubTexture name="MASH SPACE instance 10001" x="657" y="10" width="682" height="305" frameX="-100" frameY="0" frameWidth="799" frameHeight="305"/>
+	<SubTexture name="MASH SPACE instance 10002" x="10" y="325" width="702" height="305" frameX="-97" frameY="0" frameWidth="799" frameHeight="305"/>
+	<SubTexture name="MASH SPACE instance 10003" x="722" y="325" width="620" height="305" frameX="-123" frameY="0" frameWidth="799" frameHeight="305"/>
+	<SubTexture name="MASH SPACE instance 10004" x="10" y="640" width="699" height="305" frameX="-96" frameY="0" frameWidth="799" frameHeight="305"/>
+	<SubTexture name="MASH SPACE instance 10005" x="719" y="640" width="716" height="305" frameX="-78" frameY="0" frameWidth="799" frameHeight="305"/>
+	<SubTexture name="MASH SPACE instance 10006" x="10" y="955" width="762" height="305" frameX="0" frameY="0" frameWidth="799" frameHeight="305"/>
+</TextureAtlas>

@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="u_ded.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="u died LOL instance 10000" x="10" y="10" width="1502" height="532"/>
+	<SubTexture name="u died LOL instance 10001" x="1522" y="10" width="1407" height="330" frameX="0" frameY="-161" frameWidth="1502" frameHeight="532"/>
+	<SubTexture name="u died LOL instance 10002" x="10" y="552" width="1200" height="264" frameX="-184" frameY="-182" frameWidth="1502" frameHeight="532"/>
+	<SubTexture name="u died LOL instance 10003" x="1220" y="552" width="1196" height="264" frameX="-188" frameY="-182" frameWidth="1502" frameHeight="532"/>
+	<SubTexture name="u died LOL instance 10004" x="2426" y="552" width="1196" height="264" frameX="-188" frameY="-182" frameWidth="1502" frameHeight="532"/>
+	<SubTexture name="u died LOL instance 10005" x="10" y="826" width="1196" height="264" frameX="-188" frameY="-182" frameWidth="1502" frameHeight="532"/>
+	<SubTexture name="u died LOL instance 10006" x="1216" y="826" width="1196" height="264" frameX="-188" frameY="-182" frameWidth="1502" frameHeight="532"/>
+	<SubTexture name="u died LOL instance 10007" x="2422" y="826" width="1196" height="264" frameX="-188" frameY="-182" frameWidth="1502" frameHeight="532"/>
+	<SubTexture name="u died LOL instance 10008" x="10" y="1100" width="1196" height="264" frameX="-188" frameY="-182" frameWidth="1502" frameHeight="532"/>
+	<SubTexture name="u died LOL instance 10009" x="1216" y="1100" width="1196" height="264" frameX="-188" frameY="-182" frameWidth="1502" frameHeight="532"/>
+	<SubTexture name="u died LOL instance 10010" x="2422" y="1100" width="1196" height="264" frameX="-188" frameY="-182" frameWidth="1502" frameHeight="532"/>
+	<SubTexture name="u died LOL instance 10011" x="10" y="1374" width="1196" height="264" frameX="-188" frameY="-182" frameWidth="1502" frameHeight="532"/>
+	<SubTexture name="u died LOL instance 10012" x="1216" y="1374" width="1196" height="264" frameX="-188" frameY="-182" frameWidth="1502" frameHeight="532"/>
+	<SubTexture name="u died LOL instance 10013" x="2422" y="1374" width="1196" height="264" frameX="-188" frameY="-182" frameWidth="1502" frameHeight="532"/>
+	<SubTexture name="u died LOL instance 10014" x="10" y="1648" width="1143" height="241" frameX="-188" frameY="-186" frameWidth="1502" frameHeight="532"/>
+	<SubTexture name="u died LOL instance 10015" x="10" y="1648" width="1143" height="241" frameX="-188" frameY="-186" frameWidth="1502" frameHeight="532"/>
+	<SubTexture name="u died LOL instance 10016" x="10" y="1648" width="1143" height="241" frameX="-188" frameY="-186" frameWidth="1502" frameHeight="532"/>
+	<SubTexture name="u died LOL instance 10017" x="10" y="1648" width="1143" height="241" frameX="-188" frameY="-186" frameWidth="1502" frameHeight="532"/>
+	<SubTexture name="u died LOL instance 10018" x="10" y="1648" width="1143" height="241" frameX="-188" frameY="-186" frameWidth="1502" frameHeight="532"/>
+	<SubTexture name="u died LOL instance 10019" x="10" y="1648" width="1143" height="241" frameX="-188" frameY="-186" frameWidth="1502" frameHeight="532"/>
+	<SubTexture name="u died LOL instance 10020" x="10" y="1648" width="1143" height="241" frameX="-188" frameY="-186" frameWidth="1502" frameHeight="532"/>
+	<SubTexture name="u died LOL instance 10021" x="10" y="1648" width="1143" height="241" frameX="-188" frameY="-186" frameWidth="1502" frameHeight="532"/>
+	<SubTexture name="u died LOL instance 10022" x="10" y="1648" width="1143" height="241" frameX="-188" frameY="-186" frameWidth="1502" frameHeight="532"/>
+	<SubTexture name="u died LOL instance 10023" x="10" y="1648" width="1143" height="241" frameX="-188" frameY="-186" frameWidth="1502" frameHeight="532"/>
+	<SubTexture name="u died LOL instance 10024" x="10" y="1648" width="1143" height="241" frameX="-188" frameY="-186" frameWidth="1502" frameHeight="532"/>
+	<SubTexture name="u died LOL instance 10025" x="10" y="1648" width="1143" height="241" frameX="-188" frameY="-186" frameWidth="1502" frameHeight="532"/>
+	<SubTexture name="u died LOL instance 10026" x="10" y="1648" width="1143" height="241" frameX="-188" frameY="-186" frameWidth="1502" frameHeight="532"/>
+	<SubTexture name="u died LOL instance 10027" x="10" y="1648" width="1143" height="241" frameX="-188" frameY="-186" frameWidth="1502" frameHeight="532"/>
+	<SubTexture name="u died LOL instance 10028" x="10" y="1648" width="1143" height="241" frameX="-188" frameY="-186" frameWidth="1502" frameHeight="532"/>
+	<SubTexture name="u died LOL instance 10029" x="10" y="1648" width="1143" height="241" frameX="-188" frameY="-186" frameWidth="1502" frameHeight="532"/>
+	<SubTexture name="u died LOL instance 10030" x="10" y="1648" width="1143" height="241" frameX="-188" frameY="-186" frameWidth="1502" frameHeight="532"/>
+	<SubTexture name="u died LOL instance 10031" x="1163" y="1648" width="1143" height="241" frameX="-188" frameY="-186" frameWidth="1502" frameHeight="532"/>
+	<SubTexture name="u died LOL instance 10032" x="2316" y="1648" width="1143" height="241" frameX="-188" frameY="-186" frameWidth="1502" frameHeight="532"/>
+	<SubTexture name="u died LOL instance 10033" x="10" y="1899" width="1143" height="241" frameX="-188" frameY="-186" frameWidth="1502" frameHeight="532"/>
+	<SubTexture name="u died LOL instance 10034" x="1163" y="1899" width="1143" height="241" frameX="-188" frameY="-186" frameWidth="1502" frameHeight="532"/>
+	<SubTexture name="u died LOL instance 10035" x="2316" y="1899" width="1143" height="241" frameX="-188" frameY="-186" frameWidth="1502" frameHeight="532"/>
+	<SubTexture name="u died LOL instance 10036" x="10" y="2150" width="1143" height="241" frameX="-188" frameY="-186" frameWidth="1502" frameHeight="532"/>
+	<SubTexture name="u died LOL instance 10037" x="1163" y="2150" width="1143" height="241" frameX="-188" frameY="-186" frameWidth="1502" frameHeight="532"/>
+</TextureAtlas>

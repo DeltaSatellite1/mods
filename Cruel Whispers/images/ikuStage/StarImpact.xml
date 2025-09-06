@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="StarImpact.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Impact instance 10000" x="10" y="10" width="367" height="208" frameX="0" frameY="-34" frameWidth="367" frameHeight="258"/>
+	<SubTexture name="Impact instance 10001" x="387" y="10" width="367" height="208" frameX="0" frameY="-34" frameWidth="367" frameHeight="258"/>
+	<SubTexture name="Impact instance 10002" x="764" y="10" width="367" height="208" frameX="0" frameY="-34" frameWidth="367" frameHeight="258"/>
+	<SubTexture name="Impact instance 10003" x="1141" y="10" width="367" height="210" frameX="0" frameY="-34" frameWidth="367" frameHeight="258"/>
+	<SubTexture name="Impact instance 10004" x="1518" y="10" width="367" height="220" frameX="0" frameY="-28" frameWidth="367" frameHeight="258"/>
+	<SubTexture name="Impact instance 10005" x="10" y="240" width="367" height="230" frameX="0" frameY="-20" frameWidth="367" frameHeight="258"/>
+	<SubTexture name="Impact instance 10006" x="387" y="240" width="367" height="236" frameX="0" frameY="-15" frameWidth="367" frameHeight="258"/>
+	<SubTexture name="Impact instance 10007" x="764" y="240" width="367" height="239" frameX="0" frameY="-12" frameWidth="367" frameHeight="258"/>
+	<SubTexture name="Impact instance 10008" x="1141" y="240" width="367" height="241" frameX="0" frameY="-11" frameWidth="367" frameHeight="258"/>
+	<SubTexture name="Impact instance 10009" x="1518" y="240" width="367" height="243" frameX="0" frameY="-10" frameWidth="367" frameHeight="258"/>
+	<SubTexture name="Impact instance 10010" x="10" y="493" width="367" height="244" frameX="0" frameY="-9" frameWidth="367" frameHeight="258"/>
+	<SubTexture name="Impact instance 10011" x="387" y="493" width="367" height="244" frameX="0" frameY="-9" frameWidth="367" frameHeight="258"/>
+	<SubTexture name="Impact instance 10012" x="764" y="493" width="367" height="246" frameX="0" frameY="-8" frameWidth="367" frameHeight="258"/>
+	<SubTexture name="Impact instance 10013" x="1141" y="493" width="367" height="248" frameX="0" frameY="-7" frameWidth="367" frameHeight="258"/>
+	<SubTexture name="Impact instance 10014" x="1518" y="493" width="279" height="249" frameX="-45" frameY="-6" frameWidth="367" frameHeight="258"/>
+	<SubTexture name="Impact instance 10015" x="10" y="752" width="280" height="249" frameX="-44" frameY="-6" frameWidth="367" frameHeight="258"/>
+	<SubTexture name="Impact instance 10016" x="300" y="752" width="282" height="251" frameX="-43" frameY="-5" frameWidth="367" frameHeight="258"/>
+	<SubTexture name="Impact instance 10017" x="592" y="752" width="283" height="253" frameX="-43" frameY="-4" frameWidth="367" frameHeight="258"/>
+	<SubTexture name="Impact instance 10018" x="885" y="752" width="284" height="253" frameX="-42" frameY="-4" frameWidth="367" frameHeight="258"/>
+	<SubTexture name="Impact instance 10019" x="1179" y="752" width="285" height="254" frameX="-42" frameY="-3" frameWidth="367" frameHeight="258"/>
+	<SubTexture name="Impact instance 10020" x="1474" y="752" width="286" height="254" frameX="-41" frameY="-3" frameWidth="367" frameHeight="258"/>
+	<SubTexture name="Impact instance 10021" x="10" y="1016" width="286" height="256" frameX="-41" frameY="-2" frameWidth="367" frameHeight="258"/>
+	<SubTexture name="Impact instance 10022" x="306" y="1016" width="287" height="256" frameX="-41" frameY="-2" frameWidth="367" frameHeight="258"/>
+	<SubTexture name="Impact instance 10023" x="603" y="1016" width="288" height="257" frameX="-40" frameY="-1" frameWidth="367" frameHeight="258"/>
+	<SubTexture name="Impact instance 10024" x="901" y="1016" width="288" height="257" frameX="-40" frameY="-1" frameWidth="367" frameHeight="258"/>
+	<SubTexture name="Impact instance 10025" x="1199" y="1016" width="288" height="257" frameX="-40" frameY="-1" frameWidth="367" frameHeight="258"/>
+	<SubTexture name="Impact instance 10026" x="1497" y="1016" width="289" height="257" frameX="-40" frameY="-1" frameWidth="367" frameHeight="258"/>
+	<SubTexture name="Impact instance 10027" x="10" y="1283" width="290" height="256" frameX="-39" frameY="-1" frameWidth="367" frameHeight="258"/>
+	<SubTexture name="Impact instance 10028" x="10" y="1283" width="290" height="256" frameX="-39" frameY="0" frameWidth="367" frameHeight="258"/>
+	<SubTexture name="Impact instance 10029" x="10" y="1283" width="290" height="256" frameX="-39" frameY="0" frameWidth="367" frameHeight="258"/>
+	<SubTexture name="Impact instance 10030" x="310" y="1283" width="290" height="258" frameX="-39" frameY="0" frameWidth="367" frameHeight="258"/>
+	<SubTexture name="Impact instance 10031" x="610" y="1283" width="290" height="240" frameX="-39" frameY="0" frameWidth="367" frameHeight="258"/>
+	<SubTexture name="Impact instance 10032" x="910" y="1283" width="288" height="239" frameX="-40" frameY="-1" frameWidth="367" frameHeight="258"/>
+	<SubTexture name="Impact instance 10033" x="1208" y="1283" width="238" height="215" frameX="-65" frameY="-25" frameWidth="367" frameHeight="258"/>
+	<SubTexture name="Impact instance 10034" x="1456" y="1283" width="238" height="215" frameX="-65" frameY="-25" frameWidth="367" frameHeight="258"/>
+	<SubTexture name="Impact instance 10035" x="1208" y="1283" width="238" height="215" frameX="-65" frameY="-25" frameWidth="367" frameHeight="258"/>
+	<SubTexture name="Impact instance 10036" x="1704" y="1283" width="238" height="215" frameX="-65" frameY="-25" frameWidth="367" frameHeight="258"/>
+	<SubTexture name="Impact instance 10037" x="10" y="1551" width="238" height="151" frameX="-65" frameY="-25" frameWidth="367" frameHeight="258"/>
+	<SubTexture name="Impact instance 10038" x="258" y="1551" width="238" height="151" frameX="-65" frameY="-25" frameWidth="367" frameHeight="258"/>
+</TextureAtlas>

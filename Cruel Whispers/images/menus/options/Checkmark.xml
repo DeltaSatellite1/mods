@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Checkmark.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Check instance 10000" x="10" y="10" width="327" height="184"/>
+	<SubTexture name="Check instance 10001" x="347" y="10" width="327" height="184"/>
+	<SubTexture name="Check instance 10002" x="684" y="10" width="327" height="184"/>
+	<SubTexture name="Check instance 10003" x="1021" y="10" width="327" height="184"/>
+	<SubTexture name="Check instance 10004" x="1358" y="10" width="327" height="184"/>
+	<SubTexture name="Check instance 10005" x="1695" y="10" width="327" height="184"/>
+	<SubTexture name="Check instance 10006" x="10" y="204" width="327" height="184"/>
+	<SubTexture name="Check instance 10007" x="347" y="204" width="327" height="184"/>
+	<SubTexture name="Check instance 10008" x="684" y="204" width="327" height="184"/>
+	<SubTexture name="Check instance 10009" x="1021" y="204" width="327" height="184"/>
+	<SubTexture name="Check instance 10010" x="1358" y="204" width="327" height="184"/>
+	<SubTexture name="Check instance 10011" x="1695" y="204" width="327" height="184"/>
+	<SubTexture name="Check instance 10012" x="10" y="398" width="327" height="184"/>
+	<SubTexture name="Check instance 10013" x="347" y="398" width="327" height="184"/>
+	<SubTexture name="Check instance 10014" x="684" y="398" width="327" height="184"/>
+	<SubTexture name="Check instance 10015" x="1021" y="398" width="327" height="184"/>
+	<SubTexture name="Check instance 10016" x="1358" y="398" width="327" height="184"/>
+	<SubTexture name="Check instance 10017" x="1695" y="398" width="49" height="37" frameX="-142" frameY="-76" frameWidth="327" frameHeight="184"/>
+	<SubTexture name="Uncheck instance 10000" x="1754" y="398" width="260" height="147"/>
+	<SubTexture name="Uncheck instance 10001" x="10" y="592" width="260" height="147"/>
+	<SubTexture name="Uncheck instance 10002" x="280" y="592" width="260" height="147"/>
+	<SubTexture name="Uncheck instance 10003" x="550" y="592" width="260" height="147"/>
+	<SubTexture name="Uncheck instance 10004" x="820" y="592" width="260" height="147"/>
+	<SubTexture name="Uncheck instance 10005" x="1090" y="592" width="260" height="147"/>
+	<SubTexture name="Uncheck instance 10006" x="1360" y="592" width="260" height="147"/>
+	<SubTexture name="Uncheck instance 10007" x="1630" y="592" width="260" height="147"/>
+	<SubTexture name="Uncheck instance 10008" x="10" y="749" width="260" height="147"/>
+	<SubTexture name="Uncheck instance 10009" x="280" y="749" width="260" height="147"/>
+	<SubTexture name="Uncheck instance 10010" x="550" y="749" width="260" height="147"/>
+	<SubTexture name="Uncheck instance 10011" x="820" y="749" width="260" height="147"/>
+	<SubTexture name="Uncheck instance 10012" x="1090" y="749" width="260" height="147"/>
+	<SubTexture name="Uncheck instance 10013" x="1360" y="749" width="260" height="147"/>
+	<SubTexture name="Uncheck instance 10014" x="1360" y="900" width="260" height="147"/>
+</TextureAtlas>

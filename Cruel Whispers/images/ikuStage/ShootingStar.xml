@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="ShootingStar.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Shooting Star instance 10000" x="10" y="10" width="251" height="117" frameX="-10" frameY="-10" frameWidth="302" frameHeight="136"/>
+	<SubTexture name="Shooting Star instance 10001" x="271" y="10" width="283" height="133" frameX="-3" frameY="-2" frameWidth="302" frameHeight="136"/>
+	<SubTexture name="Shooting Star instance 10002" x="564" y="10" width="278" height="123" frameX="-8" frameY="-7" frameWidth="302" frameHeight="136"/>
+	<SubTexture name="Shooting Star instance 10003" x="10" y="153" width="302" height="136"/>
+</TextureAtlas>
