@@ -7,11 +7,11 @@
 
 
 charBF = boyfriendName
-bfList = {"radarF7", "radar", "mari-darnell-player"}
+bfList = {"radarF7_2", "mari-darnell-player"}
 bfIndex = 0
 
 charDAD = dadName
-dadList = {"radarF7", "radar", "mari-darnell"}
+dadList = {"radarF7_2"}
 dadIndex = 0
 
 
@@ -23,6 +23,10 @@ function onCreate()
     for i = 1, #dadList do
         addCharacterToList(dadList[i], 'dad');
     end
+    -- charSwap('bf', 'keys.justPressed.FOUR')
+    -- charSwap('dad', 'keys.justPressed.TWO')
+    -- triggerEvent('Change Character', 'bf', bfList[1])
+    -- triggerEvent('Change Character', 'dad', dadList[1])
 end
 
 
