@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "daniel idle"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "daniel left"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "daniel down"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "daniel up"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "daniel right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/daniel_VEP",
+	"position": [
+		-310,
+		-110
+	],
+	"healthicon": "daniel",
+	"flip_x": false,
+	"healthbar_colors": [
+		147,
+		186,
+		79
+	],
+	"camera_position": [
+		250,
+		210
+	],
+	"sing_duration": 6.1,
+	"scale": 0.8
+}

@@ -1,0 +1,95 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				190,
+				15
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "cyclops idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				205,
+				55
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "cyclops up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				182,
+				-6
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "cyclops down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				240,
+				23
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "cyclops left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				174,
+				15
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "cyclops right",
+			"indices": []
+		},
+		{
+			"offsets": [
+				198,
+				33
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "bitch",
+			"indices": [],
+			"name": "BITCH"
+		}
+	],
+	"taunts": [
+		"idle",
+		"hey",
+		"idle",
+		"hey"
+	],
+	"no_antialiasing": false,
+	"image": "characters/Cyclops_hp",
+	"position": [
+		680,
+		150
+	],
+	"healthicon": "cyclops",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		195,
+		232
+	],
+	"camera_position": [
+		-290,
+		30
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

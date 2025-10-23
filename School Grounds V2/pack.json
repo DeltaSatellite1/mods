@@ -1,0 +1,9 @@
+{
+	"name": "School Grounds V2",
+	"description": "School Grounds V2 (UMM Port)",
+	"restart":true,
+	"runsGlobally": false,
+	"color": [255, 159, 2],
+	"discordRPC": "863222024192262205",
+	"iconFramerate": 10
+}

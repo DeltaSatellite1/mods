@@ -1,0 +1,211 @@
+{
+	"song": {
+		"events": [
+			[
+				50161.2903225806,
+				[
+					[
+						"Set Letterbox Size",
+						"150",
+						"0.35"
+					]
+				]
+			],
+			[
+				50241.935483871,
+				[
+					[
+						"Change Character",
+						"Dad",
+						"alucard-alt"
+					],
+					[
+						"Play Animation",
+						"done",
+						"Dad"
+					]
+				]
+			],
+			[
+				50322.5806451613,
+				[
+					[
+						"Set Subtitle",
+						"You're:alucard",
+						""
+					]
+				]
+			],
+			[
+				50967.7419354839,
+				[
+					[
+						"Set Subtitle",
+						"DONE:alucard",
+						"#FF0000"
+					]
+				]
+			],
+			[
+				51612.9032258064,
+				[
+					[
+						"Set Letterbox Size",
+						"200",
+						"0.35"
+					],
+					[
+						"Set Subtitle",
+						"",
+						""
+					]
+				]
+			],
+			[
+				154758.064516129,
+				[
+					[
+						"Set Letterbox Size",
+						"230",
+						"0.35"
+					]
+				]
+			],
+			[
+				154838.709677419,
+				[
+					[
+						"Set Subtitle",
+						"You've:alucard",
+						""
+					]
+				]
+			],
+			[
+				155080.64516129,
+				[
+					[
+						"Set Subtitle",
+						"You've fall:alucard",
+						""
+					]
+				]
+			],
+			[
+				155241.935483871,
+				[
+					[
+						"Set Subtitle",
+						"You've fallen:alucard",
+						""
+					]
+				]
+			],
+			[
+				155483.870967742,
+				[
+					[
+						"Set Subtitle",
+						"VICTIM:alucard",
+						""
+					]
+				]
+			],
+			[
+				156008.064516129,
+				[
+					[
+						"Set Subtitle",
+						"to:alucard",
+						""
+					]
+				]
+			],
+			[
+				156129.032258065,
+				[
+					[
+						"Set Subtitle",
+						"to my:alucard",
+						""
+					]
+				]
+			],
+			[
+				156370.967741936,
+				[
+					[
+						"Set Subtitle",
+						"MIND:alucard",
+						"#513691"
+					]
+				]
+			],
+			[
+				156774.193548387,
+				[
+					[
+						"Set Subtitle",
+						"dude:pico",
+						""
+					]
+				]
+			],
+			[
+				157096.774193548,
+				[
+					[
+						"Set Subtitle",
+						"dude, duck.:pico",
+						""
+					]
+				]
+			],
+			[
+				157419.35483871,
+				[
+					[
+						"Set Subtitle",
+						"HAVE:alucard",
+						""
+					]
+				]
+			],
+			[
+				157580.64516129,
+				[
+					[
+						"Set Subtitle",
+						"HAVE AT:alucard",
+						""
+					]
+				]
+			],
+			[
+				157903.225806452,
+				[
+					[
+						"Set Subtitle",
+						"HAVE AT THEE:alucard",
+						""
+					]
+				]
+			],
+			[
+				158064.516129032,
+				[
+					[
+						"Set Subtitle",
+						"*crack*",
+						""
+					],
+					[
+						"Set Letterbox Size",
+						"-200",
+						"0.35"
+					]
+				]
+			]
+		]
+	}
+}

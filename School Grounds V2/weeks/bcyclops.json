@@ -1,0 +1,41 @@
+{
+	"storyName": "vs cyclops",
+	"difficulties": "hard",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"weekBefore": "week3",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": true,
+	"songs": [
+		[
+			"hall-pass",
+			"cyclops",
+			[
+				255,
+				195,
+				232
+			]
+		],
+		[
+			"pinkeye",
+			"warning",
+			[
+				255,
+				195,
+				232
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "cyclops"
+}

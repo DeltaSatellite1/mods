@@ -1,0 +1,41 @@
+{
+	"storyName": "alucard",
+	"difficulties": "hard",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "hanzou",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"brainstorm",
+			"alucard",
+			[
+				126,
+				93,
+				253
+			]
+		],
+		[
+			"mindfuck",
+			"alucard",
+			[
+				126,
+				93,
+				253
+			]
+		]
+	],
+	"hideStoryMode": true,
+	"weekName": "alucard week",
+	"hiddenUntilUnlocked": false
+}

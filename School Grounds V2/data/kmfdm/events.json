@@ -1,0 +1,1031 @@
+{
+	"song": {
+		"events": [
+			[
+				5032.25806451613,
+				[
+					[
+						"Play Animation",
+						"pull",
+						"dad"
+					]
+				]
+			],
+			[
+				5806.45161290323,
+				[
+					[
+						"Play Animation",
+						"reload",
+						"dad"
+					]
+				]
+			],
+			[
+				6580.64516129032,
+				[
+					[
+						"Play Animation",
+						"shoot",
+						"dad"
+					],
+					[
+						"Play Animation",
+						"Dodge",
+						"BF"
+					]
+				]
+			],
+			[
+				6677.41935483871,
+				[
+					[
+						"Play Animation",
+						"Dodge",
+						"BF"
+					]
+				]
+			],
+			[
+				6774.1935483871,
+				[
+					[
+						"Play Animation",
+						"shot",
+						"dad"
+					],
+					[
+						"Play Animation",
+						"Dodge",
+						"BF"
+					]
+				]
+			],
+			[
+				6967.74193548387,
+				[
+					[
+						"Play Animation",
+						"shot",
+						"dad"
+					],
+					[
+						"Play Animation",
+						"Dodge",
+						"BF"
+					]
+				]
+			],
+			[
+				7161.29032258065,
+				[
+					[
+						"Play Animation",
+						"shot",
+						"dad"
+					],
+					[
+						"Play Animation",
+						"Dodge",
+						"BF"
+					]
+				]
+			],
+			[
+				7354.83870967742,
+				[
+					[
+						"Play Animation",
+						"shoot",
+						"dad"
+					],
+					[
+						"Play Animation",
+						"Dodge",
+						"BF"
+					]
+				]
+			],
+			[
+				7645.16129032258,
+				[
+					[
+						"Play Animation",
+						"shoot",
+						"dad"
+					],
+					[
+						"Play Animation",
+						"Dodge",
+						"BF"
+					]
+				]
+			],
+			[
+				7838.70967741936,
+				[
+					[
+						"Play Animation",
+						"Dodge",
+						"BF"
+					]
+				]
+			],
+			[
+				7935.48387096774,
+				[
+					[
+						"Play Animation",
+						"shoot",
+						"dad"
+					],
+					[
+						"Play Animation",
+						"Dodge",
+						"BF"
+					]
+				]
+			],
+			[
+				8032.25806451613,
+				[
+					[
+						"Play Animation",
+						"Dodge",
+						"BF"
+					]
+				]
+			],
+			[
+				8129.03225806452,
+				[
+					[
+						"Play Animation",
+						"shot",
+						"dad"
+					],
+					[
+						"Play Animation",
+						"Dodge",
+						"BF"
+					]
+				]
+			],
+			[
+				8322.58064516129,
+				[
+					[
+						"Play Animation",
+						"shot",
+						"dad"
+					],
+					[
+						"Play Animation",
+						"Dodge",
+						"BF"
+					]
+				]
+			],
+			[
+				8516.12903225806,
+				[
+					[
+						"Play Animation",
+						"shoot",
+						"dad"
+					],
+					[
+						"Play Animation",
+						"Dodge",
+						"BF"
+					]
+				]
+			],
+			[
+				8612.90322580645,
+				[
+					[
+						"Play Animation",
+						"Dodge",
+						"BF"
+					]
+				]
+			],
+			[
+				8709.67741935484,
+				[
+					[
+						"Play Animation",
+						"shot",
+						"dad"
+					],
+					[
+						"Play Animation",
+						"Dodge",
+						"BF"
+					]
+				]
+			],
+			[
+				8806.45161290323,
+				[
+					[
+						"Alt Idle Animation",
+						"dad",
+						"-alt"
+					]
+				]
+			],
+			[
+				12193.5483870968,
+				[
+					[
+						"Play Animation",
+						"shot",
+						"dad"
+					],
+					[
+						"Play Animation",
+						"Dodge",
+						"BF"
+					]
+				]
+			],
+			[
+				12387.0967741935,
+				[
+					[
+						"Play Animation",
+						"shot",
+						"dad"
+					],
+					[
+						"Play Animation",
+						"Dodge",
+						"BF"
+					]
+				]
+			],
+			[
+				12580.6451612903,
+				[
+					[
+						"Play Animation",
+						"shot",
+						"dad"
+					],
+					[
+						"Play Animation",
+						"Dodge",
+						"BF"
+					]
+				]
+			],
+			[
+				18387.0967741935,
+				[
+					[
+						"Play Animation",
+						"shot",
+						"dad"
+					],
+					[
+						"Play Animation",
+						"Dodge",
+						"BF"
+					]
+				]
+			],
+			[
+				18580.6451612903,
+				[
+					[
+						"Play Animation",
+						"shot",
+						"dad"
+					],
+					[
+						"Play Animation",
+						"Dodge",
+						"BF"
+					]
+				]
+			],
+			[
+				18774.1935483871,
+				[
+					[
+						"Play Animation",
+						"shot",
+						"dad"
+					],
+					[
+						"Play Animation",
+						"Dodge",
+						"BF"
+					]
+				]
+			],
+			[
+				39870.9677419355,
+				[
+					[
+						"Play Animation",
+						"reload",
+						"dad"
+					]
+				]
+			],
+			[
+				40258.064516129,
+				[
+					[
+						"Play Animation",
+						"shot",
+						"dad"
+					],
+					[
+						"Play Animation",
+						"Dodge",
+						"BF"
+					]
+				]
+			],
+			[
+				41612.9032258065,
+				[
+					[
+						"Play Animation",
+						"shoot",
+						"dad"
+					],
+					[
+						"Play Animation",
+						"Dodge",
+						"BF"
+					]
+				]
+			],
+			[
+				41903.2258064516,
+				[
+					[
+						"Play Animation",
+						"shot",
+						"dad"
+					],
+					[
+						"Play Animation",
+						"Dodge",
+						"BF"
+					]
+				]
+			],
+			[
+				42096.7741935484,
+				[
+					[
+						"Play Animation",
+						"shot",
+						"dad"
+					],
+					[
+						"Play Animation",
+						"Dodge",
+						"BF"
+					]
+				]
+			],
+			[
+				43354.8387096774,
+				[
+					[
+						"Play Animation",
+						"shot",
+						"dad"
+					],
+					[
+						"Play Animation",
+						"Dodge",
+						"BF"
+					]
+				]
+			],
+			[
+				43548.3870967742,
+				[
+					[
+						"Play Animation",
+						"shot",
+						"dad"
+					],
+					[
+						"Play Animation",
+						"Dodge",
+						"BF"
+					]
+				]
+			],
+			[
+				44903.2258064516,
+				[
+					[
+						"Play Animation",
+						"shot",
+						"dad"
+					],
+					[
+						"Play Animation",
+						"Dodge",
+						"BF"
+					]
+				]
+			],
+			[
+				46451.6129032258,
+				[
+					[
+						"Play Animation",
+						"shoot",
+						"dad"
+					],
+					[
+						"Play Animation",
+						"Dodge",
+						"BF"
+					]
+				]
+			],
+			[
+				46838.7096774194,
+				[
+					[
+						"Play Animation",
+						"shot",
+						"dad"
+					],
+					[
+						"Play Animation",
+						"Dodge",
+						"BF"
+					]
+				]
+			],
+			[
+				47806.4516129032,
+				[
+					[
+						"Play Animation",
+						"shot",
+						"dad"
+					],
+					[
+						"Play Animation",
+						"Dodge",
+						"BF"
+					]
+				]
+			],
+			[
+				48000,
+				[
+					[
+						"Play Animation",
+						"shot",
+						"dad"
+					],
+					[
+						"Play Animation",
+						"Dodge",
+						"BF"
+					]
+				]
+			],
+			[
+				48193.5483870968,
+				[
+					[
+						"Play Animation",
+						"shot",
+						"dad"
+					],
+					[
+						"Play Animation",
+						"Dodge",
+						"BF"
+					]
+				]
+			],
+			[
+				48387.0967741936,
+				[
+					[
+						"Play Animation",
+						"shot",
+						"dad"
+					],
+					[
+						"Play Animation",
+						"Dodge",
+						"BF"
+					]
+				]
+			],
+			[
+				49548.3870967742,
+				[
+					[
+						"Play Animation",
+						"shot",
+						"dad"
+					],
+					[
+						"Play Animation",
+						"Dodge",
+						"BF"
+					]
+				]
+			],
+			[
+				49741.935483871,
+				[
+					[
+						"Play Animation",
+						"shot",
+						"dad"
+					],
+					[
+						"Play Animation",
+						"Dodge",
+						"BF"
+					]
+				]
+			],
+			[
+				49935.4838709678,
+				[
+					[
+						"Play Animation",
+						"shot",
+						"dad"
+					],
+					[
+						"Play Animation",
+						"Dodge",
+						"BF"
+					]
+				]
+			],
+			[
+				51096.7741935484,
+				[
+					[
+						"Play Animation",
+						"shoot",
+						"dad"
+					],
+					[
+						"Play Animation",
+						"Dodge",
+						"Bf"
+					]
+				]
+			],
+			[
+				51193.5483870968,
+				[
+					[
+						"Play Animation",
+						"Dodge",
+						"BF"
+					]
+				]
+			],
+			[
+				51290.3225806452,
+				[
+					[
+						"Play Animation",
+						"Dodge",
+						"BF"
+					]
+				]
+			],
+			[
+				51387.0967741936,
+				[
+					[
+						"Play Animation",
+						"shot",
+						"dad"
+					],
+					[
+						"Play Animation",
+						"Dodge",
+						"BF"
+					]
+				]
+			],
+			[
+				51483.870967742,
+				[
+					[
+						"Play Animation",
+						"Dodge",
+						"BF"
+					]
+				]
+			],
+			[
+				51580.6451612904,
+				[
+					[
+						"Play Animation",
+						"shot",
+						"dad"
+					],
+					[
+						"Play Animation",
+						"Dodge",
+						"BF"
+					]
+				]
+			],
+			[
+				51677.4193548387,
+				[
+					[
+						"Play Animation",
+						"Dodge",
+						"BF"
+					]
+				]
+			],
+			[
+				86709.6774193549,
+				[
+					[
+						"Add Camera Zoom",
+						"0.025",
+						""
+					]
+				]
+			],
+			[
+				96000.0000000001,
+				[
+					[
+						"Alt Idle Animation",
+						"dad",
+						"-mad"
+					]
+				]
+			],
+			[
+				108193.548387097,
+				[
+					[
+						"Alt Idle Animation",
+						"dad",
+						"-alt"
+					]
+				]
+			],
+			[
+				114193.548387097,
+				[
+					[
+						"Play Animation",
+						"reload",
+						"dad"
+					]
+				]
+			],
+			[
+				114580.64516129,
+				[
+					[
+						"Play Animation",
+						"shot",
+						"dad"
+					],
+					[
+						"Play Animation",
+						"Dodge",
+						"BF"
+					]
+				]
+			],
+			[
+				115935.483870968,
+				[
+					[
+						"Play Animation",
+						"shot",
+						"dad"
+					],
+					[
+						"Play Animation",
+						"Dodge",
+						"BF"
+					]
+				]
+			],
+			[
+				116129.032258065,
+				[
+					[
+						"Play Animation",
+						"shoot",
+						"dad"
+					],
+					[
+						"Play Animation",
+						"Dodge",
+						"BF"
+					]
+				]
+			],
+			[
+				116419.35483871,
+				[
+					[
+						"Play Animation",
+						"shot",
+						"dad"
+					],
+					[
+						"Play Animation",
+						"Dodge",
+						"BF"
+					]
+				]
+			],
+			[
+				117677.419354839,
+				[
+					[
+						"Play Animation",
+						"shot",
+						"dad"
+					],
+					[
+						"Play Animation",
+						"Dodge",
+						"BF"
+					]
+				]
+			],
+			[
+				117870.967741936,
+				[
+					[
+						"Play Animation",
+						"shot",
+						"dad"
+					],
+					[
+						"Play Animation",
+						"Dodge",
+						"BF"
+					]
+				]
+			],
+			[
+				119225.806451613,
+				[
+					[
+						"Play Animation",
+						"shot",
+						"dad"
+					],
+					[
+						"Play Animation",
+						"Dodge",
+						"BF"
+					]
+				]
+			],
+			[
+				120774.193548387,
+				[
+					[
+						"Play Animation",
+						"shot",
+						"dad"
+					],
+					[
+						"Play Animation",
+						"Dodge",
+						"BF"
+					]
+				]
+			],
+			[
+				121161.290322581,
+				[
+					[
+						"Play Animation",
+						"shot",
+						"dad"
+					],
+					[
+						"Play Animation",
+						"Dodge",
+						"BF"
+					]
+				]
+			],
+			[
+				122129.032258065,
+				[
+					[
+						"Play Animation",
+						"shot",
+						"dad"
+					],
+					[
+						"Play Animation",
+						"Dodge",
+						"BF"
+					]
+				]
+			],
+			[
+				122322.580645161,
+				[
+					[
+						"Play Animation",
+						"shot",
+						"dad"
+					],
+					[
+						"Play Animation",
+						"Dodge",
+						"BF"
+					]
+				]
+			],
+			[
+				122516.129032258,
+				[
+					[
+						"Play Animation",
+						"shot",
+						"dad"
+					],
+					[
+						"Play Animation",
+						"Dodge",
+						"BF"
+					]
+				]
+			],
+			[
+				122709.677419355,
+				[
+					[
+						"Play Animation",
+						"shot",
+						"dad"
+					],
+					[
+						"Play Animation",
+						"Dodge",
+						"BF"
+					]
+				]
+			],
+			[
+				123870.967741936,
+				[
+					[
+						"Play Animation",
+						"shot",
+						"dad"
+					],
+					[
+						"Play Animation",
+						"Dodge",
+						"BF"
+					]
+				]
+			],
+			[
+				124064.516129032,
+				[
+					[
+						"Play Animation",
+						"shot",
+						"dad"
+					],
+					[
+						"Play Animation",
+						"Dodge",
+						"BF"
+					]
+				]
+			],
+			[
+				124258.064516129,
+				[
+					[
+						"Play Animation",
+						"shot",
+						"dad"
+					],
+					[
+						"Play Animation",
+						"Dodge",
+						"BF"
+					]
+				]
+			],
+			[
+				125419.35483871,
+				[
+					[
+						"Play Animation",
+						"shoot",
+						"dad"
+					],
+					[
+						"Play Animation",
+						"Dodge",
+						"BF"
+					]
+				]
+			],
+			[
+				125516.129032258,
+				[
+					[
+						"Play Animation",
+						"Dodge",
+						"BF"
+					]
+				]
+			],
+			[
+				125612.903225807,
+				[
+					[
+						"Play Animation",
+						"Dodge",
+						"BF"
+					]
+				]
+			],
+			[
+				125709.677419355,
+				[
+					[
+						"Play Animation",
+						"shoot",
+						"dad"
+					],
+					[
+						"Play Animation",
+						"Dodge",
+						"BF"
+					]
+				]
+			],
+			[
+				125806.451612903,
+				[
+					[
+						"Play Animation",
+						"Dodge",
+						"BF"
+					]
+				]
+			],
+			[
+				125903.225806452,
+				[
+					[
+						"Play Animation",
+						"shot",
+						"dad"
+					],
+					[
+						"Play Animation",
+						"Dodge",
+						"BF"
+					]
+				]
+			],
+			[
+				126000,
+				[
+					[
+						"Play Animation",
+						"Dodge",
+						"BF"
+					]
+				]
+			]
+		]
+	}
+}

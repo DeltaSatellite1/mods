@@ -1,0 +1,8 @@
+Value1: Distance from center
+Value2: How Long its takes(in seconds)
+
+0 Fills the screen with letterbox
+360 removes it
+
+leave Value1 Blank to reset to default
+leave value2 blank for insta change

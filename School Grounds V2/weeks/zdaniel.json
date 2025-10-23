@@ -1,0 +1,32 @@
+{
+	"storyName": "Vs Daniel",
+	"difficulties": "hard,erect",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"weekBefore": "week3",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": true,
+	"songs": [
+		[
+			"2swag",
+			"daniel",
+			[
+				160,
+				255,
+				120
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "Vs Daniel"
+}
