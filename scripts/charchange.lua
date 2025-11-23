@@ -11,7 +11,7 @@ bfList = {"radarF7_2", "mari-darnell-player"}
 bfIndex = 0
 
 charDAD = dadName
-dadList = {"radarF7_2", "trintan"}
+dadList = {"faputa", "radarF7_2", "trintan"}
 dadIndex = 0
 
 

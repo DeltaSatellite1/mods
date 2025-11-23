@@ -1,0 +1,55 @@
+{
+	"animations": [
+		{
+			"offsets": [130, -7],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Sol_Left"
+		},
+		{
+			"offsets": [0, 0],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Sol_Idle"
+		},
+		{
+			"offsets": [100, -8],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Sol_Down"
+		},
+		{
+			"offsets": [10, 56],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Sol_Up"
+		},
+		{
+			"offsets": [-90, -20],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Sol_Right"
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/solazar/character",
+	"position": [-90, -160],
+	"healthicon": "face",
+	"flip_x": false,
+	"healthbar_colors": [0, 255, 255],
+	"camera_position": [30, 170],
+	"sing_duration": 6,
+	"scale": 0.85,
+	"_editor_isPlayer": false
+}

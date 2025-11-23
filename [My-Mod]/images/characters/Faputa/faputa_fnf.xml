@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="faputa_fnf.png">
+	<!-- Created with Adobe Animate version 24.0.7.61 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Down instance 10000" x="15" y="15" width="866" height="866"/>
+	<SubTexture name="Down instance 10001" x="906" y="15" width="866" height="866"/>
+	<SubTexture name="Down instance 10002" x="1797" y="15" width="866" height="866"/>
+	<SubTexture name="Down instance 10003" x="2688" y="15" width="866" height="866"/>
+	<SubTexture name="Down instance 10004" x="2688" y="15" width="866" height="866"/>
+	<SubTexture name="Idle instance 10000" x="3579" y="15" width="866" height="865"/>
+	<SubTexture name="Idle instance 10001" x="3579" y="15" width="866" height="865"/>
+	<SubTexture name="Idle instance 10002" x="4470" y="15" width="866" height="865"/>
+	<SubTexture name="Idle instance 10003" x="4470" y="15" width="866" height="865"/>
+	<SubTexture name="Idle instance 10004" x="5361" y="15" width="866" height="865"/>
+	<SubTexture name="Idle instance 10005" x="5361" y="15" width="866" height="865"/>
+	<SubTexture name="Idle instance 10006" x="6252" y="15" width="866" height="865"/>
+	<SubTexture name="Idle instance 10007" x="6252" y="15" width="866" height="865"/>
+	<SubTexture name="Idle instance 10008" x="7143" y="15" width="866" height="865"/>
+	<SubTexture name="Idle instance 10009" x="7143" y="15" width="866" height="865"/>
+	<SubTexture name="Idle instance 10010" x="15" y="906" width="866" height="865"/>
+	<SubTexture name="Idle instance 10011" x="15" y="906" width="866" height="865"/>
+	<SubTexture name="Idle instance 10012" x="906" y="906" width="866" height="865"/>
+	<SubTexture name="Idle instance 10013" x="906" y="906" width="866" height="865"/>
+	<SubTexture name="Idle instance 10014" x="1797" y="906" width="866" height="865"/>
+	<SubTexture name="Idle instance 10015" x="1797" y="906" width="866" height="865"/>
+	<SubTexture name="Idle instance 10016" x="2688" y="906" width="866" height="865"/>
+	<SubTexture name="Idle instance 10017" x="2688" y="906" width="866" height="865"/>
+	<SubTexture name="Idle instance 10018" x="3579" y="906" width="866" height="865"/>
+	<SubTexture name="Idle instance 10019" x="3579" y="906" width="866" height="865"/>
+	<SubTexture name="Idle instance 10020" x="4470" y="906" width="866" height="865"/>
+	<SubTexture name="Idle instance 10021" x="4470" y="906" width="866" height="865"/>
+	<SubTexture name="Idle instance 10022" x="5361" y="906" width="866" height="865"/>
+	<SubTexture name="Idle instance 10023" x="5361" y="906" width="866" height="865"/>
+	<SubTexture name="Idle instance 10024" x="6252" y="906" width="866" height="865"/>
+	<SubTexture name="Idle instance 10025" x="6252" y="906" width="866" height="865"/>
+	<SubTexture name="Left instance 10000" x="7143" y="906" width="865" height="866"/>
+	<SubTexture name="Left instance 10001" x="15" y="1797" width="865" height="866"/>
+	<SubTexture name="Left instance 10002" x="905" y="1797" width="865" height="866"/>
+	<SubTexture name="Left instance 10003" x="1795" y="1797" width="865" height="866"/>
+	<SubTexture name="Left instance 10004" x="2685" y="1797" width="865" height="866"/>
+	<SubTexture name="Right instance 10000" x="3575" y="1797" width="866" height="866"/>
+	<SubTexture name="Right instance 10001" x="4466" y="1797" width="866" height="866"/>
+	<SubTexture name="Right instance 10002" x="5357" y="1797" width="866" height="866"/>
+	<SubTexture name="Right instance 10003" x="6248" y="1797" width="866" height="866"/>
+	<SubTexture name="Right instance 10004" x="7139" y="1797" width="866" height="866"/>
+	<SubTexture name="Up instance 10000" x="15" y="2688" width="865" height="865"/>
+	<SubTexture name="Up instance 10001" x="905" y="2688" width="865" height="865"/>
+	<SubTexture name="Up instance 10002" x="1795" y="2688" width="865" height="865"/>
+	<SubTexture name="Up instance 10003" x="2685" y="2688" width="865" height="865"/>
+	<SubTexture name="Up instance 10004" x="3575" y="2688" width="865" height="865"/>
+</TextureAtlas>
